@@ -18,14 +18,14 @@ is the version numbered `v1.0.1
 of this repository. All the versions *v1.0.x* above *v1.0.1* are
 compliant with the peer-reviewed version since only minor
 modifications are performed (typos, refactoring of the source files,
-figures minor adaptation, etc...). Versions above *v1.1.0* are not to
+figures minor modifications, etc...). Versions above *v1.1.0* are **not** to
 be considered peer-reviewed.
 
 A Dynamic version of the thesis is available on `Authorea
-<https://www.authorea.com/users/54640/articles/71121/>`_
+<https://www.authorea.com/users/54640/articles/71121/>`_.
 
 License
 -------
 
-The files included in this repository are licensed under CC-by 4.0
-International.
+The files included in this repository are licensed under `CC-by 4.0
+International <https://creativecommons.org/licenses/by/4.0/>`_.
