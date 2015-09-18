@@ -11,9 +11,9 @@ pumps equipped with a twin-stage oil-free radial compressor*" defended
 at `EPFL <http://www.epfl.ch>`_ in August 2015 by `Jean-Baptiste Carré
 <https://github.com/speredenn/>`_. The peer-reviewed official version
 of the thesis is hosted on the EPFL website
-`**doi**:*10.5075/epfl-thesis-6764*
+`doi:10.5075/epfl-thesis-6764
 <http://dx.doi.org/10.5075/epfl-thesis-6764>`_. The official version
-is the version numbered `*v1.0.1*
+is the version numbered `v1.0.1
 <https://github.com/speredenn/epfl-leni-oilfree-radial-cp-hp/releases/tag/v1.0.1>`_
 of this repository. All the versions *v1.0.x* above *v1.0.1* are
 compliant with the peer-reviewed version since only minor
