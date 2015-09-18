@@ -1,0 +1,115 @@
+\chapter{BWP model set of equations}
+\label{chap:bwp-eqn}
+\resetallacronyms
+
+This appendix presents the set of equations for the model presented in
+\cpref{sec:bwp-model} with \cpref{fig:bwp-maillefer-break-model}. The
+known variables are:
+
+\begin{multicols}{5}
+  \begin{itemize}
+    \item $\dotM{el}{14}$
+    \item $\dotM{02}{26}$
+    \item $\dotM{03}{05}$
+    \item $\dotM{03}{07}$
+    \item $\dotM{09}{06}$
+    \item $\eta_{inv}$
+    \item $h_{02,in}$
+    \item $h_{02,out}$
+    \item $h_{03,in}$
+    \item $h_{03,out}$
+    \item $h_{04,in}$
+    \item $h_{04,out}$
+    \item $h_{06,in}$
+    \item $h_{06,out}$
+    \item $h_{12,out}$
+    \item $h_{19,out}$
+    \item $h_{21,out}$
+    \item $h_{22,out}$
+    \item $h_{25,out}$
+    \item $h_{26,out}$
+  \end{itemize}
+\end{multicols}
+
+$\eta_{mot}$ is set directly by the solver. $\eta_{rad}$ and
+$\eta_{axi}$ are determined with the gas bearings losses model
+implemented by \citet{schiffmann-2008a}.
+
+\begin{flalign}
+  & \dotM{05}{09} = \dotM{03}{05} \nonumber \\
+  & \dotM{06}{04} = \dotM{09}{06} \nonumber \\
+  & \dotM{07}{04} = \dotM{03}{07} \nonumber \\
+  & \dotM{20}{03} = \dotM{03}{05} + \dotM{03}{07} \nonumber \\
+  & \dotM{02}{20} = \dotM{20}{03} \nonumber \\
+  & \dotM{04}{19} = \dotM{06}{04} + \dotM{07}{04} \nonumber \\
+  & \dotM{26}{22} = f_{01} \, \dotM{02}{26} & 0 < f_{01} < 1 \hspace{1cm} \nonumber \\
+  & \dotM{26}{21} = \left( 1 - f_{01} \right) \, \dotM{02}{26} \nonumber \\
+  & \dotM{21}{13} = \dotM{26}{21} \nonumber \\
+  & \dotM{22}{11} = \dotM{26}{22} \nonumber \\
+  & \dotM{13}{12} = \dotM{21}{13} \nonumber \\
+  & \dotM{11}{23} = f_{02} \, \dotM{22}{11} & 0 < f_{02} < 1 \hspace{1cm} \nonumber \\
+  & \dotM{11}{24} = \left( 1 - f_{02} \right) \, \dotM{22}{11} \nonumber \\
+  & \dotM{23}{01} = \dotM{11}{23} \nonumber \\
+  & \dotM{24}{12} = \dotM{11}{24} \nonumber \\
+  & \dotM{12}{19} = \dotM{24}{12} + \dotM{13}{12} \nonumber \\
+  & \dotM{27}{02} = \dfrac{\left( \dotM{02}{26} + \dotM{02}{20} \right)}{1 - f_{03} - f_{04}} \nonumber \\
+  & \dotM{02}{10} = f_{03} \, \dotM{27}{02} & 0 < f_{03}+f_{04} < 1 \hspace{1cm} \nonumber \\
+  & \dotM{02}{08} = f_{04} \, \dotM{27}{02} \nonumber
+\end{flalign}
+
+\begin{flalign}
+  & \dotM{10}{25} = \dotM{02}{10} \nonumber \\
+  & \dotM{08}{19} = \dotM{02}{08} \nonumber \\
+  & \dotM{19}{01} = \dotM{12}{19} + \dotM{04}{19} + \dotM{08}{19} \nonumber \\
+  & \dotM{01}{25} = \dotM{19}{01} + \dotM{23}{01} \nonumber \\
+  & \dotM{25}{27} = \dotM{27}{02} \nonumber \\
+  & \dotE{14}{13} = \eta_{inv} \, \dotE{el}{14} \nonumber \\
+  & \dotQ{14}{atm} = \left( 1 - \eta_{inv} \right) \dotE{el}{14} \nonumber \\
+  & \dotE{13}{12} = \eta_{mot} \, \dotE{14}{13} \nonumber \\
+  & \dot{Q}_{mot} = \left( 1 - \eta_{mot} \right) \, \dotE{14}{13} \nonumber \\
+  & \dotQ{13}{07} = f_{05} \, \dot{Q}_{mot} & 0 < f_{05} < 1 \hspace{1cm} \nonumber \\
+  & \dotQ{13}{12} = f_{06} \, \dot{Q}_{mot} & 0 < f_{06} < 1 \hspace{1cm} \nonumber \\
+  & \dotE{12}{11} = \eta_{rad} \, \dotE{13}{12} \nonumber \\
+  & \dotE{11}{01} = \eta_{axi} \, \dotE{12}{11} \nonumber \\
+  & \dot{Q}_{rad} = \left( 1 - \eta_{rad} \right) \, \dotE{13}{12} \nonumber \\
+  & \dot{Q}_{axi} = \left( 1 - \eta_{axi} \right) \, \dotE{12}{11} \nonumber \\
+  & \dotQ{12}{11} = f_{07} \, \left( \dot{Q}_{rad} + \dotQ{13}{12} \right) & 0 < f_{07} < 1 \hspace{1cm} \nonumber \\
+  & \dotQ{11}{01} = f_{08} \, \left( \dot{Q}_{axi} + \dotQ{12}{11} \right) & 0 < f_{08} < 1 \hspace{1cm} \nonumber \\
+  & \dotQ{11}{23} = f_{09} \, \left( \dot{Q}_{axi} + \dotQ{12}{11} \right) & 0 < f_{09} < 1 \hspace{1cm} \nonumber \\
+  & \dotQ{11}{24} = f_{10} \, \left( \dot{Q}_{axi} + \dotQ{12}{11} \right) & 0 < f_{10} < 1 \hspace{1cm} \nonumber \\
+  & \dotQ{01}{02} = f_{11} \, \dotQ{11}{01} & 0 < f_{11} < 1 \hspace{1cm} \nonumber \\
+  & \dotQ{02}{10} = f_{12} \, \dotQ{01}{02} & 0 < f_{12} < 1 \hspace{1cm} \nonumber \\
+  & \dotE{01}{02} = \dotM{27}{02} \, \left( h_{02,out} - h_{02,in} \right) \nonumber \\
+  & \dot{E}_{cp2} = \dotE{01}{02} \nonumber \\
+  & \dot{E}_{cp1} = \dotE{11}{01} - \dot{E}_{cp2} \nonumber \\
+  & h_{10,out} = \dfrac{\dotM{02}{10} \, h_{02,out} + \dotQ{02}{10}}{\dotM{10}{25}} \nonumber \\
+  & h_{01,out} = \dfrac{\dotM{25}{27} \, h_{25,out} - \dotM{10}{25} \, h_{10,out}}{\dotM{01}{25}} \nonumber \\
+  & h_{01,in} = h_{01,out} - \dfrac{\dot{E}_{cp1}}{\dotM{01}{25}} \nonumber \\
+  & h_{23,out} = \dfrac{\left( \dotM{19}{01} + \dotM{23}{01} \right) \, h_{01,in} - \dotM{19}{01} \, h_{19,out}}{\dotM{23}{01}} \nonumber \\
+  & h_{07,out} = \dfrac{\dotQ{13}{07} + \dotM{03}{07} \, h_{03,out}}{\dotM{07}{04}} \nonumber \\
+  & h_{19,in} = \dfrac{\dotM{12}{19} \, h_{12,out} + \dotM{04}{19} \, h_{04,out}}{\dotM{12}{19} + \dotM{04}{19}} \nonumber \\
+  & h_{13,out} = \dfrac{\dotM{21}{13} \, h_{21,out} + \dotE{14}{13} - \dotE{13}{12} - \dotQ{13}{12} - \dotQ{13}{07}}{\dotM{13}{12}} \nonumber \\
+  & h_{11,out} = \dfrac{\dotM{22}{11} \, h_{22,out} + \dotQ{12}{11} + \dotE{12}{11} - \dotQ{11}{01} - \dotE{11}{01} - \dotQ{11}{23} - \dotQ{11}{24}}{\dotM{11}{23} + \dotM{11}{24}} \nonumber \\
+  & h_{23,in} = h_{11,out} \nonumber \\
+  & h_{24,in} = h_{11,out} \nonumber
+\end{flalign}
+
+\begin{flalign}
+  & h_{04,in} = \dfrac{\dotM{07}{04} \, h_{07,out} + \dotM{06}{04} \, h_{06,out}}{\dotM{07}{04} + \dotM{06}{04}} \nonumber \\
+  & h_{24,out} = \dfrac{\dotM{11}{24} \, h_{11,out} + \dotQ{11}{24}}{\dotM{24}{12}} \nonumber \\
+  & h_{25,in} = \dfrac{\dotM{10}{25} \, h_{10,out} + \dotM{01}{25} \, h_{01,out}}{\dotM{10}{25} + \dotM{01}{25}} \nonumber \\
+  & h_{12,in} = \dfrac{\dotM{13}{12} \, h_{13,out} + \dotM{24}{12} \, h_{24,out}}{\dotM{13}{12} + \dotM{24}{12}} \nonumber \\
+  & \dotQ{03}{15} = \left( \dotM{03}{05} + \dotM{03}{07} \right) \, \left( h_{03,in} - h_{03,out} \right) \nonumber \\
+  & \dotQ{16}{04} = \left( \dotM{06}{04} + \dotM{07}{04} \right) \, \left( h_{04,out} - h_{04,in} \right) \nonumber \\
+  & h_{03,out} = h_{05,in} = h_{05,out} \nonumber \\
+  & h_{06,out} = h_{06,in} \nonumber \\
+  & \dotQ{20}{atm} = \dotM{02}{20} \, h_{02,out} - \dotM{20}{03} \, h_{20,out} \nonumber \\
+  & \dotQ{21}{atm} = \dotM{26}{21} \, h_{26,out} - \dotM{21}{13} \, h_{21,out} \nonumber \\
+  & \dotQ{22}{atm} = \dotM{26}{22} \, h_{26,out} - \dotM{22}{11} \, h_{22,out} \nonumber \\
+  & \dotQ{27}{atm} = \dotM{25}{27} \, h_{25,out} - \dotM{27}{02} \, h_{27,out} \nonumber
+\end{flalign}
+
+\FloatBarrier
+\bibliographystyle{plainnat}
+\bibliography{main}
+\label{sec:bwp-eqn-refs}

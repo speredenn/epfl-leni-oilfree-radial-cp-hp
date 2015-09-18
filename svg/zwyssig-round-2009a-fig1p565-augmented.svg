@@ -1,0 +1,1935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="568.87738"
+   height="394.42587"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="zwyssig-round-2009a-fig1p565-augmented.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4494">
+      <stop
+         style="stop-color:#ff8f8f;stop-opacity:0;"
+         offset="0"
+         id="stop4496" />
+      <stop
+         style="stop-color:#ff2c2c;stop-opacity:1;"
+         offset="1"
+         id="stop4498" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3780"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3777"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2447"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3541"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3657"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3741"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4494"
+       id="linearGradient4506"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5616412,0,0,2.5616412,-523.72515,758.12749)"
+       x1="308.12997"
+       y1="-42.716736"
+       x2="351.21198"
+       y2="-42.716736" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1354625"
+     inkscape:cx="460.437"
+     inkscape:cy="28.148341"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="layout"
+     style="display:inline"
+     transform="translate(-20.218874,-111.20028)">
+    <g
+       id="g3943"
+       transform="matrix(1.0345566,0,0,1.0345566,-1.3765723,-16.7819)">
+      <g
+         transform="matrix(0.76640255,0,0,0.76640255,10.733223,116.20773)"
+         id="g3237"
+         style="display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4197"
+         d="M 83.313067,183.16413 543.151,183.29102"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4199"
+         d="M 83.31307,188.29253 543.151,188.41942"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4201"
+         d="M 83.313062,194.48343 543.151,194.61033"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4203"
+         d="M 83.313071,201.12296 543.151,201.24984"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4205"
+         d="M 83.31307,208.83915 543.151,208.96604"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4207"
+         d="M 83.31307,217.99092 543.151,218.11781"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4209"
+         d="M 83.31307,228.75772 543.151,228.88461"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4211"
+         d="M 83.31307,243.47233 543.151,243.59922"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4213"
+         d="M 83.31307,263.74979 543.151,263.87668"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4215"
+         d="M 83.31307,298.74186 543.151,298.86874"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4217"
+         d="M 83.31307,304.30996 543.151,304.43685"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4219"
+         d="M 83.313062,310.50087 543.151,310.62776"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4221"
+         d="M 83.313077,317.14039 543.151,317.26728"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4223"
+         d="M 83.31307,324.85659 543.151,324.98347"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4225"
+         d="M 83.31307,334.00836 543.151,334.13525"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4227"
+         d="M 83.31307,344.77516 543.151,344.90204"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4229"
+         d="M 83.31307,359.48977 543.151,359.61665"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4231"
+         d="M 83.31307,379.76723 543.151,379.89411"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4233"
+         d="M 83.31307,414.36466 543.151,414.49154"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4235"
+         d="M 83.31307,419.82084 543.151,419.94772"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4237"
+         d="M 83.31307,425.5308 543.151,425.65768"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4239"
+         d="M 83.31307,432.38273 543.151,432.50962"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4243"
+         d="M 159.37837,148.21744 159.25148,449.0658"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.3832013, 0.76640259;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4245"
+         d="M 236.36092,148.21744 236.23404,449.0658"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.3832013, 0.76640259;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4247"
+         d="m 312.49426,148.24585 -0.12689,300.84836"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.3832013, 0.76640259;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4249"
+         d="M 389.55505,148.21744 389.42817,449.0658"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.3832013, 0.76640259;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4251"
+         d="m 466.40046,148.68617 -0.12689,300.84835"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.3832013, 0.76640259;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4013"
+         d="m 80.58052,148.21744 464.67897,0"
+         style="fill:none;stroke:#000000;stroke-width:0.96659768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4021"
+         d="m 159.33428,143.52253 0,4.69491"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4023"
+         d="m 236.07317,143.97318 0,4.6949"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4025"
+         d="m 312.36737,143.52253 0,4.69491"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4027"
+         d="m 389.55505,143.52253 0,4.69491"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4029"
+         d="m 466.39275,143.52253 0,4.69491"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4091"
+         d="m 80.586283,432.37236 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4093"
+         d="m 80.586283,425.93471 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4095"
+         d="m 80.541418,419.85596 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4097"
+         d="m 78.779589,414.51742 3.560392,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4099"
+         d="m 80.586291,380.22072 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4101"
+         d="m 80.631148,359.74138 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4103"
+         d="m 80.56385,345.3408 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4105"
+         d="m 80.586291,334.14783 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4107"
+         d="m 80.56385,324.77175 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4109"
+         d="m 80.563858,316.83124 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4111"
+         d="m 80.56385,310.19172 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4117"
+         d="m 80.534949,263.84161 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4119"
+         d="m 80.579807,243.36227 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4121"
+         d="m 80.557374,228.8944 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4123"
+         d="m 80.557382,218.10518 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4125"
+         d="m 80.579799,208.99827 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4127"
+         d="m 80.557382,201.28207 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4129"
+         d="m 80.557374,194.57526 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4131"
+         d="m 80.579807,188.51894 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4133"
+         d="m 78.768108,183.22527 3.570393,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4135"
+         d="m 83.050164,143.52253 0,310.33597"
+         style="fill:none;stroke:#000000;stroke-width:0.96659768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="text4141"
+         y="50.936806"
+         x="-298.7999"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan4143"
+           style="font-size:15.46556282px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           y="50.936806"
+           x="-298.7999"
+           sodipodi:role="line">Rotational speed / rpm</tspan></text>
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         style="display:inline"
+         id="g4145"
+         transform="matrix(0.76640255,0,0,0.76640255,-2.2539273,67.379146)">
+        <text
+           id="text4147"
+           y="457.13333"
+           x="99.265701"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="457.13333"
+             x="99.265701"
+             id="tspan4149"
+             sodipodi:role="line">10</tspan></text>
+        <text
+           id="text4151"
+           y="448.56592"
+           x="100.34416"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="448.56592"
+             x="100.34416"
+             id="tspan4153"
+             sodipodi:role="line">4</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         style="display:inline"
+         id="g4155"
+         transform="matrix(0.76640255,0,0,0.76640255,-1.177249,-48.543289)">
+        <g
+           style="display:inline"
+           id="g4165"
+           transform="translate(-1.521918,-150.43581)">
+          <text
+             id="text4167"
+             y="457.13333"
+             x="95.470345"
+             style="font-size:15.65756798px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+             xml:space="preserve"><tspan
+               style="font-size:15.65756798px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+               y="457.13333"
+               x="95.470345"
+               id="tspan4169"
+               sodipodi:role="line">1<tspan
+   style="font-size:15.13456917px"
+   id="tspan4164">0</tspan></tspan></text>
+          <text
+             id="text4171"
+             y="448.56592"
+             x="96.887741"
+             style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+             xml:space="preserve"><tspan
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+               y="448.56592"
+               x="96.887741"
+               id="tspan4173"
+               sodipodi:role="line">6</tspan></text>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4113"
+         d="m 80.599876,304.07964 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4115"
+         d="m 78.833042,298.76353 3.570394,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.76640255,0,0,0.76640255,18.180253,122.57808)"
+         id="g4191"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           x="72.620995"
+           y="234.16225"
+           id="text4157"><tspan
+             sodipodi:role="line"
+             id="tspan4159"
+             x="72.620995"
+             y="234.16225"
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           x="73.699432"
+           y="225.59494"
+           id="text4161"><tspan
+             sodipodi:role="line"
+             id="tspan4163"
+             x="73.699432"
+             y="225.59494"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.76640255,0,0,0.76640255,87.673686,114.99851)"
+         id="g3769"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="96.241356"
+           y="460.15759"
+           id="text3771"><tspan
+             sodipodi:role="line"
+             id="tspan3773"
+             x="96.241356"
+             y="460.15759"
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           x="96.615952"
+           y="452.02222"
+           id="text3775"><tspan
+             sodipodi:role="line"
+             id="tspan3777"
+             x="96.615952"
+             y="452.02222"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">-2</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.76640255,0,0,0.76640255,241.27989,114.99851)"
+         id="g3791"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="96.241356"
+           y="460.15759"
+           id="text3793"><tspan
+             sodipodi:role="line"
+             id="tspan3795"
+             x="96.241356"
+             y="460.15759"
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           x="98.615952"
+           y="452.02222"
+           id="text3797"><tspan
+             sodipodi:role="line"
+             id="tspan3799"
+             x="98.615952"
+             y="452.02222"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         style="display:inline"
+         id="g3811"
+         transform="matrix(0.76640255,0,0,0.76640255,319.40963,114.99851)">
+        <text
+           id="text3813"
+           y="460.15759"
+           x="96.241356"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="460.15759"
+             x="96.241356"
+             id="tspan3815"
+             sodipodi:role="line">10</tspan></text>
+        <text
+           id="text3817"
+           y="452.02222"
+           x="98.615952"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="452.02222"
+             x="98.615952"
+             id="tspan3819"
+             sodipodi:role="line">4</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         style="display:inline"
+         id="g3821"
+         transform="matrix(0.76640255,0,0,0.76640255,396.21274,114.99851)">
+        <text
+           id="text3823"
+           y="460.15759"
+           x="96.241356"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="460.15759"
+             x="96.241356"
+             id="tspan3825"
+             sodipodi:role="line">10</tspan></text>
+        <text
+           id="text3827"
+           y="452.02222"
+           x="98.615952"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="452.02222"
+             x="98.615952"
+             id="tspan3829"
+             sodipodi:role="line">6</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.76640255,0,0,0.76640255,10.733223,116.20773)"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="g3860"
+         style="display:inline">
+        <text
+           id="text3803"
+           y="458.5798"
+           x="298.49353"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="458.5798"
+             x="298.49353"
+             id="tspan3805"
+             sodipodi:role="line">10</tspan></text>
+        <text
+           id="text3807"
+           y="450.44443"
+           x="300.86819"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="450.44443"
+             x="300.86819"
+             id="tspan3809"
+             sodipodi:role="line">0</tspan></text>
+      </g>
+      <text
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="text3969"
+         y="485.39236"
+         x="311.68192"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3973"
+           style="font-size:15.46556282px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           y="485.39236"
+           x="311.68192"
+           sodipodi:role="line">Power / W</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4031"
+         d="m 159.31493,449.25654 0,4.69491"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4033"
+         d="m 236.34234,449.30141 0,4.6949"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4035"
+         d="m 312.36737,454.04117 0,-4.69491"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4037"
+         d="m 389.55505,449.25654 0,4.69491"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4039"
+         d="m 466.3479,449.39113 0,4.69491"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4137"
+         d="m 80.762221,449.58522 463.958939,0"
+         style="fill:none;stroke:#000000;stroke-width:0.96659768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4241"
+         d="M 83.313073,440.12289 543.151,440.24978"
+         style="fill:none;stroke:#999999;stroke-width:0.38320127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.38320128, 0.76640255;stroke-dashoffset:0;display:inline" />
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.76640255,0,0,0.76640255,11.092116,114.99851)"
+         id="g3763"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="96.241356"
+           y="460.15759"
+           id="text3755"><tspan
+             sodipodi:role="line"
+             id="tspan3757"
+             x="96.241356"
+             y="460.15759"
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           x="96.615952"
+           y="452.02222"
+           id="text3759"><tspan
+             sodipodi:role="line"
+             id="tspan3761"
+             x="96.615952"
+             y="452.02222"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">-4</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4089"
+         d="m 80.833034,440.31286 1.763883,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4045"
+         d="m 545.28907,432.40322 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4047"
+         d="m 545.28907,425.96558 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4049"
+         d="m 545.33393,419.88682 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4051"
+         d="m 547.09576,414.54829 -3.56039,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4053"
+         d="m 545.28906,380.25158 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4055"
+         d="m 545.2442,359.77225 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4057"
+         d="m 545.3115,345.37166 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4059"
+         d="m 545.28906,334.17869 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4061"
+         d="m 545.3115,324.80261 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4063"
+         d="m 545.31149,316.8621 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4065"
+         d="m 545.3115,310.22258 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4067"
+         d="m 545.28907,304.14383 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4069"
+         d="m 547.0559,298.82772 -3.57039,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4071"
+         d="m 545.3404,263.87247 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4073"
+         d="m 545.29555,243.39314 -1.76389,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4075"
+         d="m 545.31798,228.92527 -1.76389,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4077"
+         d="m 545.31797,218.13604 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4079"
+         d="m 545.29555,209.02913 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4081"
+         d="m 545.31797,201.31293 -1.76388,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4083"
+         d="m 545.31798,194.60612 -1.76389,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4085"
+         d="m 545.29555,188.5498 -1.76389,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4087"
+         d="m 547.10724,183.25613 -3.57039,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="path4139"
+         d="m 543.151,453.84708 0,-310.32455"
+         style="fill:none;stroke:#000000;stroke-width:0.96659768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         style="display:inline"
+         id="g3831"
+         transform="matrix(0.76640255,0,0,0.76640255,472.29806,114.99851)">
+        <text
+           id="text3833"
+           y="460.15759"
+           x="96.241356"
+           style="font-size:15.13456917px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:15.13456917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="460.15759"
+             x="96.241356"
+             id="tspan3835"
+             sodipodi:role="line">10</tspan></text>
+        <text
+           id="text3837"
+           y="452.02222"
+           x="98.615952"
+           style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="452.02222"
+             x="98.615952"
+             id="tspan3839"
+             sodipodi:role="line">8</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path4041"
+         d="m 545.04232,440.34372 -1.76389,0"
+         style="fill:none;stroke:#000000;stroke-width:0.76640248px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+         id="path3420"
+         sodipodi:cx="355.96027"
+         sodipodi:cy="113.62046"
+         sodipodi:rx="24.325422"
+         sodipodi:ry="6.084516"
+         d="m 380.28569,113.62046 c 0,3.36039 -10.89086,6.08452 -24.32542,6.08452 -13.43456,0 -24.32543,-2.72413 -24.32543,-6.08452 0,-3.36038 10.89087,-6.08452 24.32543,-6.08452 13.43456,0 24.32542,2.72414 24.32542,6.08452 z"
+         transform="matrix(0.36719335,-0.38254117,3.6091234,3.3880565,-44.819884,142.07826)"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend);display:inline"
+         d="m 416.88125,358.5537 30.02711,-12.75405"
+         id="path3462"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="485.76691"
+         y="278.16327"
+         id="text3866"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="485.76691"
+           y="278.16327"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3868">micro turbines and</tspan><tspan
+           sodipodi:role="line"
+           x="485.76691"
+           y="291.57532"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3870">compressors</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="384.97568"
+         y="352.51773"
+         id="text3881"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="384.97568"
+           y="352.51773"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3885">turbomachinery</tspan><tspan
+           sodipodi:role="line"
+           x="384.97568"
+           y="365.92978"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3899">scaling/limit</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="536.09943"
+         y="364.19144"
+         id="text3887"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="536.09943"
+           y="364.19144"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3891">industrial gas</tspan><tspan
+           sodipodi:role="line"
+           x="536.09943"
+           y="377.60349"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3895">turbines</tspan></text>
+      <path
+         sodipodi:type="arc"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+         id="path3413"
+         sodipodi:cx="355.96027"
+         sodipodi:cy="113.62046"
+         sodipodi:rx="13.921885"
+         sodipodi:ry="6.084516"
+         d="m 369.88215,113.62046 c 0,3.36039 -6.23304,6.08452 -13.92188,6.08452 -7.68885,0 -13.92189,-2.72413 -13.92189,-6.08452 0,-3.36038 6.23304,-6.08452 13.92189,-6.08452 7.68884,0 13.92188,2.72414 13.92188,6.08452 z"
+         transform="matrix(0.61263009,-0.65330997,6.0215077,5.7861779,-499.49701,-127.88755)"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+         id="path3298"
+         sodipodi:cx="355.96027"
+         sodipodi:cy="113.62046"
+         sodipodi:rx="12.913907"
+         sodipodi:ry="4.9668875"
+         d="m 368.87417,113.62046 c 0,2.74314 -5.78175,4.96689 -12.9139,4.96689 -7.13216,0 -12.91391,-2.22375 -12.91391,-4.96689 0,-2.74314 5.78175,-4.96689 12.91391,-4.96689 7.13215,0 12.9139,2.22375 12.9139,4.96689 z"
+         transform="matrix(3.3733414,0,0,6.1082098,-888.4081,-485.14781)"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800" />
+      <path
+         style="fill:none;stroke:#ff0016;stroke-width:1.30288434;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.60576867, 2.60576867;stroke-dashoffset:0;display:inline"
+         d="M 379.18506,273.32008 279.77589,172.97922"
+         id="path3308"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#4b4b4b;stroke-width:1.30288434;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.60576867, 2.60576867;stroke-dashoffset:0;display:inline"
+         d="M 302.95592,168.01192 232.05304,288.98693"
+         id="path3310"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+         id="path3404"
+         sodipodi:cx="355.96027"
+         sodipodi:cy="113.62046"
+         sodipodi:rx="15.619781"
+         sodipodi:ry="4.9668875"
+         d="m 371.58005,113.62046 c 0,2.74314 -6.99322,4.96689 -15.61978,4.96689 -8.62657,0 -15.61978,-2.22375 -15.61978,-4.96689 0,-2.74314 6.99321,-4.96689 15.61978,-4.96689 8.62656,0 15.61978,2.22375 15.61978,4.96689 z"
+         transform="matrix(0.8268934,-0.12583226,1.1459886,6.9614525,-99.169342,-461.63285)"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend);display:inline"
+         d="m 199.06233,242.31591 52.10175,5.58813"
+         id="path3464"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="197.05515"
+         y="238.73013"
+         id="text3925"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="197.05515"
+           y="238.73013"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3929">Power MEMS</tspan><tspan
+           sodipodi:role="line"
+           x="197.05515"
+           y="252.14218"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3941">development trend</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="266.71844"
+         y="202.9689"
+         id="text3959"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="266.71844"
+           y="202.9689"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3963">ETHZ MegaNdrive</tspan><tspan
+           sodipodi:role="line"
+           x="266.71844"
+           y="216.38095"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3967">research area</tspan></text>
+      <path
+         sodipodi:type="arc"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+         id="path3409"
+         sodipodi:cx="355.96027"
+         sodipodi:cy="113.62046"
+         sodipodi:rx="15.619781"
+         sodipodi:ry="4.9668875"
+         d="m 371.58005,113.62046 c 0,2.74314 -6.99322,4.96689 -15.61978,4.96689 -8.62657,0 -15.61978,-2.22375 -15.61978,-4.96689 0,-2.74314 6.99321,-4.96689 15.61978,-4.96689 8.62656,0 15.61978,2.22375 15.61978,4.96689 z"
+         transform="matrix(2.2137118,0.046547,-0.26564562,14.893946,-514.87368,-1350.4443)"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800" />
+      <path
+         style="fill:none;stroke:#4b4b4b;stroke-width:1.30288434;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         d="m 190.10076,360.70031 41.43062,-70.67386"
+         id="path3468"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="218.37227"
+         y="291.6116"
+         id="text3436"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="218.37227"
+           y="291.6116"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3440">mesoscale</tspan><tspan
+           sodipodi:role="line"
+           x="218.37227"
+           y="305.02365"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3935">systems</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="300.08804"
+         y="328.15527"
+         id="text3875"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="300.08804"
+           y="328.15527"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3879">spindle drives</tspan></text>
+      <path
+         sodipodi:type="arc"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+         id="path3411"
+         sodipodi:cx="355.96027"
+         sodipodi:cy="113.62046"
+         sodipodi:rx="15.619781"
+         sodipodi:ry="4.9668875"
+         d="m 371.58005,113.62046 c 0,2.74314 -6.99322,4.96689 -15.61978,4.96689 -8.62657,0 -15.61978,-2.22375 -15.61978,-4.96689 0,-2.74314 6.99321,-4.96689 15.61978,-4.96689 8.62656,0 15.61978,2.22375 15.61978,4.96689 z"
+         transform="matrix(2.0424244,0.0059793,0.13310182,11.426487,-608.49095,-909.01142)"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800" />
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="118.89221"
+         y="331.20059"
+         id="text3907"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="118.89221"
+           y="331.20059"
+           style="font-size:10.72963524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3911">MEMS</tspan></text>
+      <path
+         style="fill:none;stroke:#ff1616;stroke-width:1.30288434;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         d="M 531.06766,425.65634 378.61367,272.75916"
+         id="path3470"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="540.08539"
+         y="155.6235"
+         id="text3866-8"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         inkscape:export-xdpi="800"
+         inkscape:export-ydpi="800"><tspan
+           sodipodi:role="line"
+           x="540.08539"
+           y="155.6235"
+           style="font-size:7.73278093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#999999;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           id="tspan3870-5">Ref.: scm-tag</tspan></text>
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,131.93518,338.86448)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3300"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,131.93518,313.4869)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3302"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,170.58376,338.86448)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3304"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,170.58376,352.82214)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3306"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,197.98117,384.03654)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3361"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,182.0649,393.44428)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3363"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,197.39797,407.92523)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3365"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,204.26755,419.23037)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3367"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,212.29778,419.14065)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3369"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,227.50586,433.76554)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3371"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,227.50587,428.29241)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3373"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,248.68055,446.86513)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3375"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,252.17976,446.50624)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3377"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,138.90416,382.33042)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3379"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,57.480304,419.23037)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3381"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,-70.599638,524.11685)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3383"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,79.013885,547.62435)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3422"
+         style="fill:none;stroke:#260027;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,-0.58609064,182.84621,386.9905)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path2453"
+         style="fill:none;stroke:#ff0000;stroke-width:1.96147787999999990;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.58609064,0,0,0.58609064,193.93019,137.15834)"
+         d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+         sodipodi:ry="7.1428571"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="220.93361"
+         sodipodi:cx="307.85715"
+         id="path3243"
+         style="fill:none;stroke:#ff0000;stroke-width:1.96147787999999990;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <text
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="text3245"
+         y="176.74409"
+         x="416.63159"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3249"
+           style="font-size:10.72963524000000035px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           y="176.74409"
+           x="416.63159"
+           sodipodi:role="line">Single-stage</tspan><tspan
+           id="tspan3949"
+           style="font-size:10.72963524000000035px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           y="190.15614"
+           x="416.63159"
+           sodipodi:role="line">radial compressor</tspan><tspan
+           id="tspan4514"
+           style="font-size:7.66402531000000042px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff5555;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           y="200.59857"
+           x="416.63159"
+           sodipodi:role="line">210 krpm &amp; 3 kWe</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path3257"
+         d="m 412.39487,205.70305 -46.10561,45.61436"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend);display:inline" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         sodipodi:nodetypes="cc"
+         id="path5584"
+         d="m 460.99769,232.9846 -81.39494,28.83254"
+         style="fill:none;stroke:#000000;stroke-width:0.76640254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend);display:inline" />
+      <text
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         id="text3951"
+         y="212.83328"
+         x="494.89008"
+         style="font-size:38.13980484px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#0033ff;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3955"
+           style="font-size:10.72963524000000035px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           y="212.83328"
+           x="494.89008"
+           sodipodi:role="line">Twin-stage</tspan><tspan
+           id="tspan3957"
+           style="font-size:10.72963524000000035px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           y="226.24533"
+           x="494.89008"
+           sodipodi:role="line">radial compressor</tspan><tspan
+           id="tspan4516"
+           style="font-size:7.66402531000000042px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ff5555;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           y="236.68776"
+           x="494.89008"
+           sodipodi:role="line">180 krpm &amp; 6 kWe</tspan></text>
+      <g
+         inkscape:export-ydpi="800"
+         inkscape:export-xdpi="800"
+         inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+         transform="matrix(0.76640255,0,0,0.76640255,-118.82714,-16.941577)"
+         id="g3337"
+         style="display:inline">
+        <rect
+           inkscape:export-ydpi="800"
+           inkscape:export-xdpi="800"
+           inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.0137881;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3334"
+           width="291.05261"
+           height="55.711849"
+           x="515.48651"
+           y="544.75067" />
+        <text
+           inkscape:export-ydpi="800"
+           inkscape:export-xdpi="800"
+           inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+           xml:space="preserve"
+           style="font-size:11.96368694px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="543.08649"
+           y="561.84888"
+           id="text3312"><tspan
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             sodipodi:role="line"
+             id="tspan3314"
+             x="543.08649"
+             y="561.84888">electrical drives (Fischer Precise radial compressors)</tspan><tspan
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             sodipodi:role="line"
+             x="543.08649"
+             y="576.84888"
+             id="tspan3318">electrical drives (others)</tspan><tspan
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             sodipodi:role="line"
+             x="543.08649"
+             y="591.84888"
+             id="tspan3316">trends</tspan></text>
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ff0000;stroke-width:1.96147787999999990;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3328"
+           sodipodi:cx="307.85715"
+           sodipodi:cy="220.93361"
+           sodipodi:rx="7.1428571"
+           sodipodi:ry="7.1428571"
+           d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+           transform="matrix(0.7647295,0,0,0.7647295,297.84666,389.36956)"
+           inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+           inkscape:export-xdpi="800"
+           inkscape:export-ydpi="800" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000;stroke-width:1.96147788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3330"
+           sodipodi:cx="307.85715"
+           sodipodi:cy="220.93361"
+           sodipodi:rx="7.1428571"
+           sodipodi:ry="7.1428571"
+           d="m 315,220.93361 c 0,3.94489 -3.19796,7.14286 -7.14285,7.14286 -3.94489,0 -7.14286,-3.19797 -7.14286,-7.14286 0,-3.94489 3.19797,-7.14286 7.14286,-7.14286 3.94489,0 7.14285,3.19797 7.14285,7.14286 z"
+           transform="matrix(0.7647295,0,0,-0.7647295,297.84666,742.66469)"
+           inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+           inkscape:export-xdpi="800"
+           inkscape:export-ydpi="800" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:export-ydpi="800"
+           inkscape:export-xdpi="800"
+           inkscape:export-filename="/Users/dismantr/dismantr-docs/library/electronics/electrical_drives/Zwyssig-Round-2009/Zwyssig-Round-2009-figure.png"
+           style="fill:none;stroke:#000000;stroke-width:1.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.39999991, 3.39999991;stroke-dashoffset:0"
+           d="m 537.27507,592.18614 -8.00194,-8.05141"
+           id="path3332" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,208 @@
+\chapter{AWP model set of equations}
+\label{chap:awp-eqn}
+\resetallacronyms
+
+This appendix presents the set of equations for the model presented in
+\cpref{sec:awp-model} with \cpref{fig:awp-exp-analysis-model}. The
+known variables are:
+
+\begin{multicols}{5}
+  \begin{itemize}
+    \item $\dotE{el}{14}$
+    \item $\dotM{02}{26}$
+    \item $\dotM{03}{07}$
+    \item $\dotM{17}{15}$
+    \item $\text{\textit{Cp}}_{15,in}$
+    \item $\text{\textit{Cp}}_{15,out}$
+    \item $h_{02,out}$
+    \item $h_{03,in}$
+    \item $h_{03,out}$
+    \item $h_{04,in}$
+    \item $h_{04,out}$
+    \item $h_{18,out}$
+    \item $h_{20,out}$
+    \item $h_{21,out}$
+    \item $h_{25,out}$
+    \item $h_{26,out}$
+    \item $h_{28,out}$
+    \item $\eta_{in}$
+    \item $\eta_{rad}$
+    \item $\eta_{axi}$
+  \end{itemize}
+\end{multicols}
+
+$\eta_{mot}$ is set directly by the solver. $\eta_{rad}$ and
+$\eta_{axi}$ are determined with the gas bearings losses model
+implemented by \citet{schiffmann-2008a}.
+
+\begin{flalign}
+  & \dotQ{03}{15} = \dotM{17}{15} \left( \text{\textit{Cp}}_{15,out} \, T_{15,out} - \text{\textit{Cp}}_{15,in} \, T_{15,in} \right) \label{eq:cd-eb-01} \\
+  & \dotM{20}{03} = \dfrac{\dotQ{03}{15}}{h_{03,in} - h_{03,out}} \label{eq:cd-eb-02} \\
+  & \dotM{03}{05} = \dotM{20}{03} - \dotM{03}{07} \label{eq:cd-eb-03} \\
+  & \dotM{05}{08} = \dotM{03}{05} \nonumber \\
+  & \dotM{02}{20} = \dotM{03}{05} \nonumber \\
+  & \dotM{07}{09} = \dotM{03}{07} \nonumber \\
+  & \dotM{26}{21} = f_{01} \dotM{02}{26} & 0 < f_{01} < 1 \hspace{2.1cm} \nonumber \\
+  & \dotQ{21}{at} = \dotM{26}{21} \left( h_{26,out} - h_{21,out} \right) \nonumber \\
+  & \dotQ{26}{at} = \dotM{02}{26} \left( h_{02,out} - h_{26,out} \right) \nonumber \\
+  & \dotQ{20}{at} = \dotM{20}{03} \left( h_{02,out} - h_{20,out} \right) \nonumber \\
+  & \dotQ{14}{at} = \left( 1 - \eta_{in} \right) \dotE{el}{14} \nonumber \\
+  & \dotQ{16}{at} = \dotQ{03}{15} - \dotE{el}{14} - \dotQ{21}{at} - \dotQ{26}{at} - \dotQ{20}{at} - \dotQ{14}{at} \label{eq:ev-eb-01} \\
+  & \dotM{09}{04} = \dfrac{\dotQ{16}{04}}{h_{04,out} - h_{04,in}} \label{eq:ev-eb-02} \\
+  & \dotM{06}{09} = \dotM{09}{04} - \dotM{07}{09} \label{eq:sc-mf} \\
+  & \dotM{19}{06} = \dotM{06}{09} \nonumber \\
+  & \dotM{08}{19} = \dotM{06}{09} \nonumber \\
+  & \dotM{04}{18} = \dotM{09}{04} \nonumber \\
+  & \dotM{18}{22} = \dotM{04}{18} \nonumber
+\end{flalign}
+
+\begin{flalign}
+  & \dotM{26}{13} = \left( 1 - f_{01} \right) \dotM{02}{26} \nonumber \\
+  & \dotM{21}{12} = \dotM{26}{21} \nonumber \\
+  & \dotM{13}{12} = \dotM{26}{13} \nonumber \\
+  & \dotM{12}{24} = \dotM{13}{12} + \dotM{21}{12} \nonumber \\
+  & \dotM{24}{11} = \dotM{12}{24} \nonumber \\
+  & \dotM{11}{23} = f_{02} \dotM{24}{11} & 0 < f_{02} < 1 \hspace{2.1cm} \nonumber \\
+  & \dotM{11}{22} = \left( 1 - f_{02} \right) \dotM{24}{11} \nonumber \\
+  & \dotM{23}{29} = \dotM{11}{22} + \dotM{18}{22} \nonumber \\
+  & \dotM{29}{01} = \dotM{23}{29} + \dotM{22}{29} \nonumber \\
+  & \dotM{01}{25} = \dotM{29}{01} \nonumber \\
+  & \dot{M}_{cp1} = \dotM{01}{25} \nonumber
+\end{flalign}
+
+
+The mass flow rate in the second stage impeller $\dot{M}_{cp2}$ is
+equal to $\dotM{02}{26} + \dotM{02}{20} + \dotM{02}{10}$.
+$\dotM{02}{10}$, the leakage flow rate through the labyrinth
+seal, needs to be determined.
+
+\begin{flalign}
+  & \dotM{02}{10} = f_{03} \dot{M}_{cp2} & 0 < f_{03} < 1 \hspace{1cm} \label{eq:awp-f03}
+\end{flalign}
+
+With the introduction of the parameter $f_{03}$ in \cref{eq:awp-f03},
+the equation of the mass flow rate in the second stage impeller
+$\dot{M}_{cp2}$ is equal to
+$f_{03} \dot{M}_{cp2} + \dotM{02}{26} + \dotM{02}{20}$. Which implies
+the \cref{eq:awp-dotM_cp2}.
+
+\begin{flalign}
+  & \dot{M}_{cp2} = \dfrac{\dotM{02}{20} + \dotM{02}{26}}{1 - f_{03}} \label{eq:awp-dotM_cp2} \\
+  & \dotM{10}{25} = \dotM{02}{10} \nonumber \\
+  & \dotM{25}{27} = f_{04} \left( \dotM{10}{25} + \dotM{01}{25} \right) & 0 < f_{04} < 1 \hspace{2.1cm} \nonumber \\
+  & \dotM{25}{08} = \left( 1 - f_{04} \right) \left( \dotM{10}{25} + \dotM{01}{25} \right) \nonumber \\
+  & \dotM{27}{28} = \dotM{25}{27} \nonumber \\
+  & \dotM{08}{28} = \dotM{25}{08} + \dotM{05}{08} - \dotM{08}{19} \nonumber \\
+  & \dotM{28}{02} = \dotM{27}{28} + \dotM{08}{28} \nonumber \\
+  & \dotE{14}{13} = \eta_{in} \dotE{el}{14} \nonumber
+\end{flalign}
+
+If we consider the energy balance on component \#13, we get
+$\dotE{14}{13} - \dotE{13}{12} - \dotQ{13}{12} - \dotQ{13}{07} +
+\dotMh{26}{13} - \dotMh{13}{12} = 0$.
+$h_{13,out}$ is unknown and needs to be determined. In order to do
+this, $\dotE{13}{12}$, $\dotQ{13}{12}$ and $\dotQ{13}{07}$ are
+required.
+
+\begin{flalign}
+  & \dotE{13}{12} = \eta_{mot} \dotE{14}{13} & 0 < \eta_{mot} < 1 \hspace{1.9cm} \nonumber \\
+  & \dotQ{13}{12} = f_{05} \left( 1 - \eta_{mot} \right) \dotE{14}{13} & 0 < f_{05} < 1 \hspace{2.1cm} \nonumber \\
+  & \dotQ{13}{07} = f_{06} \left( 1 - \eta_{mot} \right) \dotE{14}{13} & 0 < f_{06} < 1 \hspace{2.1cm} \nonumber \\
+  & h_{13,out} = \dfrac{\dotE{14}{13} - \dotE{13}{12} - \dotQ{13}{12} - \dotQ{13}{07} + \dotMh{26}{13}}{\dotM{13}{12}}
+\end{flalign}
+
+According to their definitions, we observe that $f_{05}$ and $f_{06}$
+have to respect the relation $0 < f_{05} + f_{06} < 1$.
+
+If we consider the energy balance on component \#12, we get
+$\dotE{13}{12} + \dotQ{13}{12} + \dotMh{13}{12} +
+\dotMh{21}{12} - \dotMh{12}{24} - \dotE{12}{11} -
+\dotQ{12}{11} = 0$.
+$\dotE{12}{11}$ and $h_{12,out}$ need to be determined to get
+$\dotQ{12}{11}$.
+
+\begin{flalign}
+  & \dotE{12}{11} = \eta_{ra} \dotE{13}{12} \nonumber \\
+  & T_{12,out} = \left( 1 + f_{07} \right) T_{13,out} & \Rightarrow h_{12,out} \hspace{2.1cm} \nonumber \\
+  & \dotQ{12}{11} = \dotE{13}{12} + \dotQ{13}{12} + \dotMh{13}{12} \nonumber \\
+  &  \text{\hspace{1.25cm}} + \dotMh{21}{12} - \dotMh{12}{24} - \dotE{12}{11}
+\end{flalign}
+
+If we consider the energy balance on component \#11, we get
+$\dotQ{12}{11} + \dotE{12}{11} - \dotE{11}{01} - \dotQ{11}{01} -
+\dotQ{11}{23} - \dotQ{11}{24} - \dotMh{11}{23} +
+\dotMh{24}{11} - \dotMh{11}{22} = 0$.
+In order to determine $h_{11,out}$, the variables $\dotE{11}{01}$, $h_{24,out}$,
+$\dotQ{11}{24}$, $\dotQ{11}{01}$ and $\dotQ{11}{23}$ need to be
+determined.
+
+\begin{flalign}
+  & \dotE{11}{01} = \eta_{axi} \dotE{12}{11} \nonumber \\
+  & T_{24,out} = \left( 1 + f_{08} \right) T_{12,out} & \Rightarrow h_{24,out} \hspace{2.1cm} \nonumber
+\end{flalign}
+
+The energy balance on component \#24 gives us the equation
+$\dotMh{12}{24} - \dotMh{24}{11} + \dotQ{11}{24} =
+0$, which gives \cref{eq:awp-dotQ_11_24}.
+
+\begin{flalign}
+  & \dotQ{11}{24} = \dotMh{24}{11} - \dotMh{12}{24} \label{eq:awp-dotQ_11_24} \\
+  & \dotQ{11}{01} = f_{09} \dotQ{12}{11} & 0 < f_{09} < 1 \hspace{2.1cm} \nonumber \\
+  & \dotQ{11}{23} = f_{10} \dotQ{12}{11} & 0 < f_{10} < 1 \hspace{2.1cm} \nonumber \\
+\end{flalign}
+
+\begin{flalign}
+  & h_{11,out} = \dfrac{\dotQ{12}{11} + \dotE{12}{11} - \dotE{11}{01} - \dotQ{11}{01} - \dotQ{11}{23} - \dotQ{11}{24} + \dotMh{24}{11}}{\dotM{11}{23} + \dotM{11}{22}} & \nonumber
+\end{flalign}
+
+The energy balance on component \#22 gives the equation $\dotMh{18}{22} + \dotMh{11}{22} - \dotMh{22}{29} = 0$, which gives \cref{eq:awp-hout22}.
+
+\begin{flalign}
+  & h_{22,out} = \dfrac{\dotMh{18}{22} + \dotMh{11}{22}}{\dotM{22}{29}} & \label{eq:awp-hout22}
+\end{flalign}
+
+The energy balance on components \#29 and \#23 give the balance equations
+$\dotMh{22}{29} + \dotMh{23}{29} - \dotMh{29}{01} = 0$ and
+$\dotMh{11}{23} + \dotQ{11}{23} - \dotMh{23}{29} = 0$
+which give \cref{eq:awp-hout29}.
+
+\begin{flalign}
+  & h_{29,out} = \dfrac{\dotMh{22}{29} + \dotMh{23}{29}}{\dotM{29}{01}} & \label{eq:awp-hout29}
+\end{flalign}
+
+The energy balance on component \#1 gives the equation
+$\dotE{11}{01} - \dotMh{01}{25}  + \dotMh{29}{01} + \dotQ{11}{01} - \dotQ{01}{02} - \dotE{01}{02} = 0$.
+
+We need a relationship between $T_{01,out}$ and $T_{25,out}$, in order
+to go further. This results in the equation
+\cref{eq:awp-T01out}. Knowing $T_{01, out}$ gives access to
+$h_{01,out}$ through a computation with REFPROP.
+
+\begin{flalign}
+  & T_{01,out} = \dfrac{T_{25,out}}{1 + f_{11}} & 0 < f_{11} < 1 \hspace{1cm} \label{eq:awp-T01out}
+\end{flalign}
+
+\Cref{eq:awp-T01out} allows to write the equation
+$\dotE{11}{01} - \dotE{01}{02} = \dot{M}_{cp1} \, \left( h_{01,out} -
+  h_{29,out} \right)$, which gives \cref{eq:awp-E0102}.
+
+\begin{flalign}
+  & \dotE{01}{02} = \dotE{11}{01} - \dot{M}_{cp1} \, \left( h_{01,out} -
+  h_{29,out} \right) & \label{eq:awp-E0102} \\
+  & \dotQ{01}{02} = \dotE{11}{01} - \dotMh{01}{25} + \dotMh{29}{01} + \dotQ{11}{01} - \dotE{01}{02} \nonumber
+\end{flalign}
+
+
+The energy balance on component \#02 gives the equation
+$- \dotMh{02}{10} - \dotMh{02}{26} - \dotMh{02}{20} + \dotMh{28}{02} - \dotQ{02}{10} + \dotQ{01}{02} + \dotE{01}{02} = 0$,
+which gives \cref{eq:awp-Q0210}.
+
+\begin{flalign}
+  & \dotQ{02}{10} = \dotQ{01}{02} + \dotE{01}{02} - \dotMh{02}{10} - \dotMh{02}{26} - \dotMh{02}{20} + \dotMh{28}{02} & \label{eq:awp-Q0210} \\
+  & \dotQ{19}{18} = \dotM{18}{22} \left( h_{18,out} - h_{04,out} \right) \nonumber
+\end{flalign}
+
+\FloatBarrier
+\bibliographystyle{plainnat}
+\bibliography{main}
+\label{sec:awp-eqn-refs}

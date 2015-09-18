@@ -1,0 +1,123 @@
+digraph bwp {
+
+subgraph cluster_scm {peripheries=0; fontsize=8; fontcolor=gray40; label="Ref: scm-tag";
+electricity [shape=plaintext, fontsize=16];
+}
+
+/* compression unit */
+{
+node [fillcolor=gray40,fontcolor=white,style=filled];
+1; 2; 11; 12; 13; 7; 10; 23; 24; 25
+}
+
+/* auxiliary circuits */
+{
+node [fillcolor=gray80,style=filled];
+8; 21; 22; 26
+}
+
+subgraph cluster_internal {label="Internal frontier";
+1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 19; 20; 21; 22; 23; 24; 25; 26; 27
+}
+
+/* special stuff */
+{
+node [shape=plaintext, fontsize=16];
+house; environment; atmosphere
+}
+
+{ rank = same;
+environment; atmosphere}
+
+/* 1: first stage impeller */
+1 -> 25;
+1 -> 2[color=blue,penwidth=5.0];
+1 -> 2[color=red,penwidth=3.0];
+
+/* 2: second stage impeller*/
+2 -> 20;
+2 -> 10;
+2 -> 8;
+2 -> 26
+2 -> 10[color=red,penwidth=3.0];
+
+/* 3: condenser, refrigerant stream */
+3 -> 5;
+3 -> 7;
+3 -> 15[color=red,penwidth=3.0];
+
+/* 4: evaporator, refrigerant stream */
+4 -> 19;
+
+5 -> 9;
+
+6 -> 4;
+
+7 -> 4;
+
+8 -> 19;
+
+9 -> 6;
+
+10 -> 25;
+
+11 -> 23;
+11 -> 24;
+11 -> 1[color=red,penwidth=3.0];
+11 -> 1[color=blue,penwidth=5.0];
+11 -> 23[color=red,penwidth=3.0];
+11 -> 24[color=red,penwidth=3.0];
+
+12 -> 19;
+12 -> 11[color=red,penwidth=3.0];
+12 -> 11[color=blue,penwidth=5.0];
+
+13 -> 12;
+13 -> 12[color=red,penwidth=3.0];
+13 -> 12[color=blue,penwidth=5.0];
+13 -> 7[color=red,penwidth=3.0];
+
+14 -> atmosphere[color=red,penwidth=3.0];
+14 -> 13[color=blue,penwidth=5.0];
+electricity -> 14[color=blue,penwidth=5.0];
+
+15 -> 17;
+
+16 -> environment;
+16 -> 4[color=red,penwidth=3.0];
+
+environment -> 18;
+
+17 -> house;
+electricity -> 17[color=blue,penwidth=5.0];
+
+house -> 15;
+house -> environment[color=red,penwidth=3.0];
+
+18 -> 16;
+electricity -> 18[color=blue,penwidth=5.0];
+
+19 -> 1;
+
+20 -> 3;
+20 -> atmosphere[color=red,penwidth=3.0];
+
+21 -> 13;
+21 -> atmosphere[color=red,penwidth=3.0];
+
+22 -> 11;
+22 -> atmosphere[color=red,penwidth=3.0];
+
+23 -> 1;
+
+24 -> 12;
+
+25 -> 27;
+
+26 -> 21;
+26 -> 22;
+
+27 -> atmosphere[color=red,penwidth=3.0];
+27 -> 2;
+
+}

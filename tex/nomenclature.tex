@@ -1,0 +1,114 @@
+%%% Nomenclature %%%
+
+%%% Romans
+
+\nomenclature[A]{$P$}{Absolute pressure, pressure \nomunitwo{[\si{\pascal}]}}
+\nomenclature[A]{$T$}{Temperature \nomunitwo{[\si{\kelvin}]}}
+\nomenclature[A]{$h$}{Specific enthalpy \nomunitwo{[\si{\joule\per\kilo\gram}]}}
+\nomenclature[A]{$s$}{Specific entropy \nomunitwo{[\si{\joule\per\kilo\gram\per\kelvin}]}}
+\nomenclature[A]{$\dot{M}$}{Mass flow rate \nomunitwo{[\si{\kilo\gram\per\second}]}}
+
+%%% Greeks
+
+\nomenclature[B]{$\Pi$}{Pressure ratio
+  \nomunit{$\left[-\right]$}{eq:PR}}
+\nomenclature[B]{$\epsilon$}{Coefficient of Performance,
+  effectiveness\index{effectiveness}
+  \nomunit{$\left[-\right]$}{eq:COPh}}
+\nomenclature[B]{$\mu$}{Uncertainty of the reference probe
+  \nomunitwo{$\left[\text{K}\right]$}}
+\nomenclature[B]{$\kappa$}{Angle of rotation
+  \nomunitwo{$\left[\text{rad}\right]$}}
+\nomenclature[B]{$\theta$}{Angle of rotation
+  \nomunitwo{$\left[\text{rad}\right]$}}
+\nomenclature[B]{$\Psi$}{Angle of rotation
+  \nomunit{$\left[\text{rad}\right]$}{eq:psi}}
+\nomenclature[B]{$\phi$}{Angle of rotation
+  \nomunitwo{$\left[\text{rad}\right]$}}
+\nomenclature[B]{$\eta$}{Exergy\index{exergy} efficiency\index{exergy
+    efficiency}, efficiency
+  \nomunit{$\left[-\right]$}{sec:methodo-indicators}}
+
+%%% Subscripts
+
+\nomenclature[C]{$out$}{outlet, output} \nomenclature[C]{$in$}{Inlet,
+  input} \nomenclature[C]{$mot$}{motor\index{motor}}
+\nomenclature[C]{$inv$}{inverter\index{inverter}}
+\nomenclature[C]{$trans$}{transmission}
+\nomenclature[C]{$tip$}{tip of the impeller}
+\nomenclature[C]{$scaled$}{used if the value is scaled}
+\nomenclature[C]{$rotated$}{used if the value is represented in a
+  rotated axis system}
+\nomenclature[C]{$sc$}{subcooling, subcooler\index{subcooler}}
+\nomenclature[C]{$cp$}{compressor\index{compressor}}
+\nomenclature[C]{$imp$}{impeller\index{impeller}}
+\nomenclature[C]{$h$}{heating}
+\nomenclature[C]{$s$}{isentropic (when follows the symbol $\eta$)}
+\nomenclature[C]{$axi$}{axial}
+\nomenclature[C]{$rad$}{radial}
+
+%%% Non-dimensional numbers
+
+% \nomenclature[D]{$Re$}{Reynolds number \nomunit{-}{eq:xx}}
+
+%%% Glossary %%%
+
+\storeglosentry{glos:economizer}{name={economizer},description={Also
+    called flash tank, this is the second-stage liquid-vapor
+    separator.},sort={economizer}}
+
+\storeglosentry{glos:bold}{name={\textbf{bold value}},description={In a
+    tabular only, this means that the value is measured. Consequently,
+    its uncertainty is directly a result of the
+    measurement.},sort={Z}}
+
+\storeglosentry{glos:underline}{name={\underline{underlined
+    value}},description={In a tabular only, this means that the value
+    is guessed by the optimizer directly. Consequently, it does not benefit from the uncertainties propagation.},sort={Z}}
+
+\storeglosentry{glos:normal-font}{name={value with normal
+    font},description={In a tabular only, this means that the value
+    is computed with the model, but it is not guessed directly. Consequently, it benefits from the uncertainties propagation.},sort={Z}}
+
+%%% Acronyms %%%
+
+\newacronym[ODP]{\textsc{ODP}}{Ozone Depletion
+  Potential}{description={The ozone depletion potential (ODP) of a
+    chemical compound is the relative amount of degradation to the
+    ozone layer it can cause. R-11 ODP is the reference (ODP=1.0).}}
+
+\newacronym[GWP]{\textsc{GWP}}{Global Warming Potential}{description={
+    The global warming potential is a relative measure of how much
+    heat energy a greenhouse gas traps in the atmosphere.}}
+
+\newacronym[AWP]{\textsc{AWP}}{Air-Water twin-stage heat pump
+  Prototype}{description={Air-Water twin-stage oil-free domestic heat
+    pump powered by an oil-free twin-stage radial compression unit,
+    rotating on gas bearings.}}
+
+\newacronym[BWP]{\textsc{BWP}}{Brine-Water twin-stage heat pump
+  Prototype}{description={Brine-Water twin-stage oil-free domestic heat
+    pump powered by an oil-free twin-stage radial compression unit,
+    rotating on gas bearings.}}
+
+\newacronym[COP]{$\epsilon_h$}{heating effectiveness}{description={
+    Ratio between heat power supplied to the hot source and the
+    consumed work power, also called heating Coefficient Of
+    Performance ($COP_h$), defined in \cref{sec:methodo-indicators}.}}
+
+\newacronym[OP]{\textsc{OP}}{Operating Point}{description={An
+    operating point is a specific point within the operation range of
+    the heat pump cycle. It is characterized by two level of
+    temperature: the cold source inlet temperature and the hot source
+    outlet temperature. The operation point is named with those two
+    temperatures preceded by the first letter of the source. The first
+    part of the name concerns the cold source and the second part
+    concerns the hot source. A slash separates the two parts. The
+    letter \textit{A} stands for air, the letter \textit{B} stands for
+    brine, and the letter \textit{W} stands water.}}
+
+
+\newacronym[REFPROP]{REFPROP}{NIST Reference Fluid Thermodynamic and
+  Transport Properties Database}{description={Program using equations
+    for the thermodynamic and transport properties to calculate the
+    state points of fluids or mixtures.}}

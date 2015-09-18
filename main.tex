@@ -1,0 +1,382 @@
+\documentclass[english,10pt,a4paper,twoside,fleqn]{book}
+\overfullrule=10pt
+
+%%%% General packages
+\usepackage[utf8x]{inputenc}
+\usepackage[T2A,T1]{fontenc}
+\usepackage{babel}
+\usepackage{times,textcomp,ucs}
+\usepackage{mathrsfs}
+
+%%%% Maths & Symbols
+\usepackage{amsmath,marvosym,eurosym,array,pifont,amssymb,siunitx}
+\sisetup{
+  detect-weight = true,
+  detect-inline-weight = math,
+  detect-display-math = true}
+\setlength{\mathindent}{6mm}
+\setlength{\parindent}{0mm}
+
+%%%% Unit tags
+\makeatletter
+\providecommand\add@text{}
+\newcommand\tagaddtextone[1]{
+  \gdef\add@text{#1\hspace{1.1em}\gdef\add@text{}}}
+\newcommand\tagaddtexttwo[1]{
+  \gdef\add@text{#1\hspace{0.55em}\gdef\add@text{}}}
+\newcommand\tagaddtextthree[1]{
+  \gdef\add@text{#1\hspace{0.06em}\gdef\add@text{}}}
+\renewcommand\tagform@[1]{
+  \maketag@@@{\llap{\add@text\quad}(\ignorespaces#1\unskip\@@italiccorr)}
+}
+
+\makeatother
+
+%%%% Figures and Tables
+\usepackage{subfig,multicol,fullpage,lastpage,framed,tocbibind}
+\usepackage{lscape,sidecap,wrapfig,subfig,placeins}
+\usepackage{multirow,booktabs,tabularx}
+
+%%%% Color and Graphics
+\usepackage{color,xcolor,tikz}
+\usepackage{graphicx}
+
+%%%% Color definitions
+\definecolor{redlink}{RGB}{200,0,0}
+\definecolor{greenlink}{RGB}{0,100,0}
+\definecolor{bluelink}{RGB}{0,0,255}
+\definecolor{sienna}{RGB}{160,82,45}
+\definecolor{peru}{RGB}{223,164,121}
+\definecolor{lightred}{RGB}{255,178,178}
+\definecolor{lightblue}{RGB}{120,120,255}
+\definecolor{shadecolor}{RGB}{200,200,200}
+
+%%%% Pictures settings
+
+\DeclareGraphicsExtensions{.jpg, .png, .JPG, .PNG, .pdf, .PDF, .TIF,
+  .TIFF, .tif, .tiff}
+\graphicspath{{tmp/}{anx/}{awp-results/}{bwp-results/}}
+
+%%%% Bibliography, Glossary, Index, Nomenclature, Acronyms, etc...
+\usepackage{makeidx}
+\makeindex
+\usepackage[intoc]{nomencl}
+\renewcommand{\eqdeclaration}[1]{~It is defined in eq.~(#1)}
+\renewcommand{\pagedeclaration}[1]{, on p.~#1.}
+\renewcommand{\nomgroup}[1]{
+  \ifthenelse{\equal{#1}{A}}{\item[\textbf{Roman Symbols}]}{
+    \ifthenelse{\equal{#1}{B}}{\item[\textbf{Greek Symbols}]}{
+      \ifthenelse{\equal{#1}{C}}{\item[\textbf{Common and global
+          subscripts}]}{
+        \ifthenelse{\equal{#1}{D}}{\item[\textbf{Dimensionless
+            Numbers}]}{}}}}\medskip}
+\newcommand{\nomunit}[2]{\renewcommand{\nomentryend}{\small
+    [\cref{#2} page \pageref{#2}] \hspace*{\fill} #1}}
+\newcommand{\nomunitwo}[1]{\renewcommand{\nomentryend}{\small\hspace*{\fill}
+    #1}} \makenomenclature
+\usepackage[style=altlist, number=none, hyper=true, toc]{glossary}
+\makeglossary
+
+
+\usepackage[sectionbib,sort&compress]{natbib}
+\usepackage{doi}
+\usepackage[sectionbib]{chapterbib}
+
+\usepackage{appendix}
+
+\usepackage{cleveref}
+\crefformat{footnote}{#2\footnotemark[#1]#3}
+
+\usepackage[hypcap]{caption}
+
+%%%% Headers and footers
+\usepackage{fancyhdr}
+\usepackage[Lenny]{fncychap}
+
+\renewcommand{\headrulewidth}{0.5 pt}
+
+\hoffset              = 0 cm
+\oddsidemargin        = 0 cm
+\marginparsep         = 0 cm
+\marginparwidth	      = 0 cm
+\voffset              = -2 cm
+\textheight           = 23.5 cm
+\textwidth            = 16 cm
+\headheight           = 2.1 cm
+\headsep              = 0.5 cm
+\topmargin            = 0 cm
+\footskip             = 1.5 cm
+\pagestyle{fancy}
+
+% L: left side
+% R: right side
+% O: odd
+% E: even
+% C: center
+
+\fancyfoot[LO,RE]{}
+\fancyfoot[CO,CE]{}
+\fancyfoot[RO,LE]{}
+
+\fancyhead[LO,RE]{\leftmark}
+\fancyhead[LE,RO]{\thepage}
+
+%%%% Space between paragraphs
+\setlength\parskip{.5\baselineskip plus .1\baselineskip minus .4\baselineskip}
+
+%%%% Paragraphs indentation
+% \setlength{\parindent}{0mm}
+
+%%%% PDF and PS
+% \usepackage[unicode]{hyperref}
+\PrerenderUnicode{éàùèçüö}
+\usepackage{pslatex,pdfpages}
+\usepackage[all]{hypcap}
+
+%%%% Title and subtitle definitions
+\newcommand{\vartitle}{Experimental investigation of electrical
+  domestic heat pumps equipped with a twin-stage oil-free radial
+  compressor}
+
+\newcommand{\vartitleshort}{\vartitle}
+\newcommand{\varsubtitle}{}
+
+%%%% Authors definitions
+\newcommand{\varauthor}{\href{http://people.epfl.ch/jean-baptiste.carre}{Jean-Baptiste
+    \textsc{Carr\'e}}
+  \href{mailto:jean-baptiste.carre@epfl.ch}{\Email}}
+\newcommand{\varauthorshort}{Jean-Baptiste \textsc{Carr\'e}}
+
+%%%% Institute definition
+\newcommand{\varinstitute}{\href{http://leni.epfl.ch/}{LENI - Industrial Energy System Laboratory}\\
+  \href{http://leni.epfl.ch/}{EPFL - Swiss Federal Institute of Technology - Lausanne}\\
+  Station 9, 1015 \textsc{Lausanne}, \textsc{Switzerland}\\[3mm]
+  \href{http://leni.epfl.ch/}{http://leni.epfl.ch}}
+
+%%%% Subject definition
+\newcommand{\varsubject}{\vartitle}
+
+%%%% Project definition
+\newcommand{\varproject}{}
+
+%%%% Keywords definitions
+\newcommand{\varuskeywords}{heat pump, two stages, twin-stage,
+  oil-free, radial compressor, lubrication, heatpump, economizer,
+  flash tank, gas bearings} \newcommand{\varfrkeywords}{pompe à
+  chaleur, 2 étages, sans huile, lubrifiant, compresseur radial,
+  économiseur, réservoir de décompression}
+\newcommand{\varitkeywords}{pompa di calore}
+\newcommand{\vardekeywords}{Wärmepumpe}
+
+%%%% CC
+\input{cc/cc}
+
+\newcommand{\vardate}{Compilation: \today\\
+  Version: \input{git-sha}}
+
+%%%% PDF settings
+
+\pdfminorversion=4
+\pdfcompresslevel = 9
+\pdfobjcompresslevel = 9
+% 0 = none
+% 9 = best
+
+\usepackage{bookmark}
+
+\hypersetup{
+colorlinks = true,
+hypertexnames = true,
+%a4paper = true,
+%a5paper = false,
+breaklinks = true,
+%hyperindex = true,
+colorlinks = true,
+linkcolor = black,
+anchorcolor = black,
+citecolor = greenlink,
+filecolor = magenta,
+menucolor = black,
+urlcolor = bluelink,
+bookmarksopen = false,
+bookmarksopenlevel = 3,
+bookmarksnumbered = false,
+pdfborder = {0 0 0},
+pdftitle = {\vartitle},
+pdfauthor = {\varauthorshort},
+pdfsubject = {\varsubject},
+pdfcreator = {TeX},
+pdfproducer = {PDFTeX},
+pdfkeywords = {\varuskeywords},
+pdfstartpage = 1,
+pdfstartview = FitH
+pdfcenterwindow = true,
+pdfdisplaydoctitle = true,
+pdfdisplaydoctitle = true,
+unicode = true,
+pdfpagetransition = none
+}
+
+\usepackage{cclicenses}
+
+%%%% Personal functions
+
+\newcommand{\figref}[1]{Fig. \ref{#1}, page~\pageref{#1}}
+\newcommand{\tabref}[1]{Tab. \ref{#1}, page~\pageref{#1}}
+\newcommand{\secref}[1]{section \ref{#1}, page~\pageref{#1}}
+\newcommand{\cpref}[1]{\cref{#1}, page~\pageref{#1}}
+\renewcommand{\th}[0]{$^{\text{th}}\hspace{0.1em}$}
+
+\newcommand{\footnotep}[1]{\,\footnote{\,#1}}
+
+\newcommand{\dotM}[2]{\dot{M}_{#1 \rightarrow #2}}
+\newcommand{\dotMh}[2]{\dot{M}_{#1 \rightarrow #2}\,h_{#1,out}}
+\newcommand{\dotQ}[2]{\dot{Y}_{#1 \rightarrow #2}}
+\newcommand{\dotE}[2]{\dot{E}_{#1 \rightarrow #2}}
+
+\newcommand{\ccbyjb}[1]{
+  \copyright \hspace{0.5mm} #1 Jean-Baptiste Carré,
+  \href{https://creativecommons.org/licenses/by/4.0/}{licensed under
+    \CcImageCc{0.282} \CcGroupBy{0.38} 4.0}
+}
+
+\newcommand{\ccbyropp}[1]{
+  \copyright \hspace{0.5mm} #1 Julien Ropp,
+  \href{https://creativecommons.org/licenses/by/4.0/}{licensed under
+    \CcImageCc{0.282} \CcGroupBy{0.38} 4.0}
+}
+%%%% Document structure
+
+\begin{document}
+
+%% Frontpage definition
+\title{\vartitle}
+
+\author{\varauthor\\[5mm]\varinstitute}
+
+\date{\vardate}
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%
+%%%% Frontmatter %%%%
+%%%%%%%%%%%%%%%%%%%%%
+
+\frontmatter
+
+\include{tex/nomenclature}
+
+
+\include{tex/resume}
+\include{tex/abstract}
+% \include{tex/zusammenfassung}
+% \include{tex/riassunto}
+\include{tex/license}
+% \include{tex/summary}
+
+\cleardoublepage
+\newpage
+\phantomsection
+\tableofcontents
+
+\cleardoublepage
+\newpage
+\phantomsection
+\listoffigures
+
+\cleardoublepage
+\newpage
+\phantomsection
+\listoftables
+
+\cleardoublepage
+\newpage
+\phantomsection
+\printnomenclature
+
+\cleardoublepage
+\newpage
+\phantomsection
+\label{glossary}
+\printglossary
+
+%%%%%%%%%%%%%%%%%%%%
+%%%% Mainmatter %%%%
+%%%%%%%%%%%%%%%%%%%%
+
+\mainmatter
+
+%% Dummy chapter, to maintain the document structure
+% \include{tex/dummy}
+
+%% Introduction
+%% People need better domestic heat pumps
+\include{tex/intro}
+
+%% State of the technique
+%% How to make better domestic heat pumps?
+\include{tex/sota}
+
+%% Thesis and methodology
+%% Description here
+\include{tex/methodology}
+
+%% Air-Water twin-stage oil-free domestic heat pump
+%% Description, modeling, and results
+\include{tex/awp}
+
+%% Brine-Water twin-stage oil-free domestic heat pump
+%% Description, modeling, and results
+\include{tex/bwp}
+
+%% Compressor unit description, modeling, and
+%% integration in refrigeration circuits
+\include{tex/cp-integration}
+
+%% Conclusion and perspectives
+\include{tex/conclusion}
+
+\begin{appendices}
+
+%% Air-Water twin-stage oil-free domestic heat pump
+%% Components, sensors, and data acquisition and control system
+\include{tex/awp-components}
+
+%% Brine-Water twin-stage oil-free domestic heat pump
+%% Components, sensors, and data acquisition and control system
+\include{tex/bwp-components}
+
+%% Equations set for example case
+\include{tex/simple-model-equations-set}
+
+%% Equations set for AWP
+\include{tex/awp-eqn}
+
+%% Equations set for BWP
+\include{tex/bwp-eqn}
+
+%% Details about the experimental results
+\include{tex/exp-details}
+
+%% Uncertainties calculations
+\include{tex/uncertainties}
+
+%% cp maps
+\include{tex/cp-maps-math-models}
+
+\end{appendices}
+
+%%%%%%%%%%%%%%%%%%%%
+%%%% Backmatter %%%%
+%%%%%%%%%%%%%%%%%%%%
+
+\backmatter
+
+%%%%%%%%%%%%
+%%%% CV %%%%
+%%%%%%%%%%%%
+
+% ~/documents/universe/experiments/adm/to-classify/to-adm/CV-old2/CV_last
+\includepdf[pages={1,2},offset= 0 -2cm,addtotoc={1,chapter,2,{CV},CV}]{tmp/2015-01-28-JB-CV_EN-PhD-thesis-version.pdf}
+
+\end{document}

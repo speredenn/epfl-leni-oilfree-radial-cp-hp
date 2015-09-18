@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1440.2465"
+   height="1633.4001"
+   id="svg3079"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="cp105-awp-expT.svg">
+  <defs
+     id="defs3081">
+    <linearGradient
+       id="linearGradient4739"
+       inkscape:collect="always">
+      <stop
+         id="stop4741"
+         offset="0"
+         style="stop-color:#999999;stop-opacity:1" />
+      <stop
+         id="stop4743"
+         offset="1"
+         style="stop-color:#4d4d4d;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop4725" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop4727" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path4254"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4248"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4245"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path4251"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4251-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-27"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4251-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4251-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-71"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-82"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <clipPath
+       id="clipPath6323"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path6325"
+         clip-rule="evenodd"
+         d="m 0,0 840,0 0,594.72 -840,0 L 0,0 z m 0,0 840,0 0,594.72 -840,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-72"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-06"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-061"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-822"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-25"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-11"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-41"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-13"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-74"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-90"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-34"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-55"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-78"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-36"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-20"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-22"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-22"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-0615"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-72"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-78"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-12"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-70"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-42"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-33"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-88"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-04"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-17"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-67"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-98"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-18"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-13"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-52"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-87"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-52-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254-5-87-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4739"
+       id="linearGradient4729"
+       x1="714.96472"
+       y1="512.59015"
+       x2="696.06818"
+       y2="522.83148"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723"
+       id="linearGradient4737"
+       x1="717.0174"
+       y1="504.8974"
+       x2="693.00439"
+       y2="515.07812"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="883.52326"
+     inkscape:cy="336.91109"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20" />
+  <metadata
+     id="metadata3084">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="drawing"
+     transform="translate(-267.73148,860.19342)">
+    <rect
+       style="fill:#e6e6e6;stroke:none"
+       id="rect4721"
+       width="317.1879"
+       height="260.61935"
+       x="327.64801"
+       y="-671.01685"
+       ry="62.629459" />
+    <path
+       style="fill:#b3b3b3;stroke:#b3b3b3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 758.04911,-324.61161 c -9.34384,0 -8.67858,27.43956 -16.8125,29.96875 -29.01865,-3.26006 -50.55433,11.7375 -70.125,31.625 l -19.28125,0.4375 c -5.55456,-4.3505 -4.62211,-8.43602 -18.6875,-13.125 l 0.28125,-22 -90.4375,0 -0.125,31.4375 c -19.97403,15.19325 -42.25792,50.38744 1.5625,76.09375 l -0.125,16.25 c -7.11799,31.58709 -50.76402,21.89338 -97.125,10.59375 l 0,23.90625 c 5.69727,1.46986 53.12946,7.3632 61.96875,7.1875 21.69101,-1.09266 51.66498,-10.03546 56.40625,-36.875 l 0.90625,0 -0.46875,-41.15625 c -48.13167,2.22315 -26.07393,-54.34341 5.5,-37.0625 l 0.46875,79.46875 8.96875,0.0312 0,7.8125 1.375,0 0,3.9375 -1.375,0 0,6.875 1.375,0 0,3.90625 -1.375,0 0,6.90625 1.375,0 0,3.90625 -1.375,0 0,3.75 c 2.49655,11.06894 21.86759,9.06327 23.5,0 l 0,-16.25 -1.28125,0 0,-3.90625 1.28125,0 0,-9.75 -1.28125,0 0,-3.90625 1.28125,0 0,-9.75 -1.28125,0 0,-3.90625 1.28125,0 0,-19.0625 8.90625,0 0,-3 -0.15625,-60.28125 c 4.15838,-1.60833 7.58836,-1.81806 10.53125,-1.8125 0.98096,0.002 1.89421,0.0308 2.78125,0.0312 19.16012,0.0138 11.21945,26.61322 -2.4375,28.8125 l -3.5,0 -0.25,33.25 c 5.49669,15.93224 14.36341,36.13633 54.40625,38.125 l 25.03125,0.6875 c 4.87146,0.13373 7.03184,-4.49345 6.125,-7.71875 l -10.875,-64.875 28.3125,0.53125 3.96875,79.15625 22.78125,0 0.25,-56.71875 10.125,0 0,-113.53125 z m 13.5,0.0312 0,113.5 11.09375,0 0,56.71875 780.59384,0 0,127.531253 -12,0 0,174.374997 53.75,0 0,-472.125 -260.2188,0 0,67.5625 101.5312,0 0,18.6875 -268.1874,0 0,-18.6875 106.5624,0 0,-67.5625 z m -158.21875,134.96875 -1.375,2.375 0,66.09375 1.375,0 z m -19.90625,133.531303 c -6.12157,-0.0243 -12.36469,2.16972 -12.65625,5.0625 l -0.0625,6.78125 1.71875,0 0,3.90625 -1.78125,0 0,6.5 1.78125,0 0,3.90625 -1.78125,0 0,6.5 1.78125,0 0,3.90625 -1.78125,0 0,8.65625 -7.75,0.0625 0.40625,67.125 c -18.17131,8.37945 -32.88297,-16.63295 -6.09375,-23.65625 l 0.0625,-42.0625001 c -7.28641,-22.7674299 -22.91294,-36.6963499 -58.125,-36.9687499 -18.5295,-0.5209 -55.48227,6.19084 -61.96875,7.59375 l 0,23.75 c 29.70803,-3.93114 83.77027,-29.57449 99.5,11.9687499 l 0,23.4062501 c -14.47628,10.49139 -17.98071,34.57812 5.28125,55.34375 l -0.34375,7.5 c -0.70625,3.52596 -3.98015,2.56971 -6.4375,3.03125 l 0.3125,34.812497 89.15625,0 c 14.17022,-5.38737 29.84606,-3.69564 38.625,-33.343747 l 0,22.718747 c -12.76278,6.19382 -17.6964,22.84141 -21.125,35.34375 -0.16281,0.009 -0.34049,0.0237 -0.5,0.0312 -24.13383,113.49233 169.01039,135.81513 151.125,1.75 l 168.90625,0 0,-174.374997 -189.28125,0 0,57.1875 -32.0625,0 0,-57.1875 -23.65625,0 -0.625,80.6875 -29.28125,0.125 10.59375,-64.09375 c 0.74566,-4.28111 -4.4002,-11.13403 -8.9375,-10.71875 l -22.96875,3.28125 c -42.58003,6.25719 -46.97404,21.9720499 -53.5,37.15625 l -0.84375,0 c 0.21965,8.82447 0.91177,35.65625 1.34375,35.65625 l 0.1875,0 c 51.76287,-12.76026 41.29781,71.217737 -6.9375,42.90625 l -1.09375,-79.31245 -9.96875,-0.5 0,-18.78125014 -1.5625,0 0,-3.90624996 1.5625,0 0,-10.0624999 -1.5625,0 0,-3.90625 1.5625,0 0,-10.09375 -1.5625,0 0,-3.90625 1.5625,0 0,-18.96875 c -1.77279,-3.43596 -6.45753,-4.79357 -11.21875,-4.8125 z m 387.90625,29.25 0,174.374997 343.34374,0 0,-67.781247 -146.5624,0 0,-18.6875 268.1874,0 0,18.6875 -141.5312,0 0,67.781247 236.8438,0 0,-174.374997 z m -289.15625,112.9375 31.6875,0 0,32.406247 15.84375,0 c 20.12702,1.74685 34.82188,10.26774 42.40625,29.03125 36.12117,95.73648 -140.4433,106.07359 -111.375,-1.0625 3.83821,-8.51436 1.56333,-18.02384 21.4375,-23.9375 z"
+       id="path3178"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccsccccccccccccccccccccc" />
+    <path
+       style="fill:#cccccc;stroke:none"
+       d="m 671.42858,-21.084087 -0.71429,-137.589293 c -38.09714,-1.89218 -46.55611,-21.09079 -51.78571,-36.25 l -6.60715,0 0,75.26786 -34.125,0 0,-45.625 -11.33928,0 c -4.51089,25.5373 -33.02368,34.04963 -53.66072,35.08928 l 0,81.709083 c 31.81922,0.13904 48.34694,13.50317 55.27935,35.16594 l 5.17703,0.12627 0,-49.50129 38.49005,0 0,76.95116 8.35799,0 c 6.20886,-14.44746014 10.41668,-29.39042 50.92773,-35.34401 z"
+       id="path4067"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="fill:#808080;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 579.35715,-131.35219 c 0,14.22302 26.71428,11.87524 26.71428,0.40081 l 0,-64.81265 7.39479,0 c 0.10297,2.63052 -0.0823,5.74151 0.47401,7.61638 1.61823,1.27336 4.52181,0.0942 6.89782,0.004 l 1.09482,2.48208 c -1.94466,2.32449 -5.01318,3.62607 -7.45088,4.80015 0.79987,15.32748 6.91352,22.10671 13.06178,28.83026 1.77484,-5.65279 5.61421,-11.03093 8.69882,-16.02883 l 2.73319,1.53695 c -3.28034,7.08916 -3.31062,15.42833 -3.59691,23.66904 10.24352,5.90173 16.07852,7.46448 23.66838,7.92679 l 1.50836,-24.28405 3.11508,0.459 1.41761,25.76605 15.70745,1.82135 c 25.63283,-0.028 34.70723,5.04829 45.78766,-20.44255 l 26.47017,0 0,-56.63613 26.46508,0 0,56.63613 745.26004,0 0,122.124753 -745.26004,0 0,56.82429 -26.46508,0 0,-56.82429 -26.58407,0 c -10.6837,-32.85074 -20.04093,-26.92589 -45.75354,-27.10974 l -12.4311,0.47461 c -4.23834,0.16182 -9.23405,5.17923 -14.86132,11.33871 -2.23235,10.83785 -1.45229,19.47155 -0.0113,27.13693 l -2.19059,0.60715 c -2.57031,-4.98179 -4.64402,-13.93645 -6.54462,-24.27601 -5.35708,1.67427 -7.49751,4.03781 -10.69702,6.17441 1.1362,9.53595 3.41871,16.86567 6.2373,22.70035 l -2.72552,1.77082 c -4.30102,-5.74224 -7.59467,-11.60647 -10.54899,-17.51705 -11.25771,18.07881 -9.4511,20.9297999 -11.05321,30.6620499 2.1202,1.65776 4.61112,3.91337 7.4337,4.16636 l -1.4864,3.3694901 c -2.51718,0.741 -3.96346,0.46841 -7.19723,-0.2144801 l -0.15098,7.6424501 -8.41731,-0.37881 0,-67.21161 c 0,-10.32893 -26.71428,-9.49023 -26.71428,-0.25245 l 0,38.1398 -6.64639,0.12627 c 0.14522,-6.07897 0.66377,-12.04372 -0.36722,-21.06391 l -9.50669,6.28889 -1.8132,-2.47705 c 2.03943,-3.6433 4.84613,-5.474 6.57008,-15.7426 -8.57732,-10.91551 -17.8141,-17.87422 -27.3404,-23.09585 -0.50999,8.55615 -1.28461,16.62712 -3.20985,22.58866 l -2.49513,-0.72946 c 0.58273,-6.66753 1.86291,-12.74921 -3.28814,-24.23312 l -11.42525,-3.63196 -1.00332,25.36806 -2.64536,-0.0547 -1.9527,-25.88546 -5.3577,-0.35906 c -18.84802,-6.17136 -12.1847,-26.426463 -0.2651,-28.420873 l 12.33072,-1.78016 c 3.60136,-5.01737 3.28084,-15.57214 3.30363,-25.46938 l 2.57432,-0.48923 1.79314,23.87967 c 7.10795,-0.65317 12.28615,-4.20096 17.41773,-7.81867 2.62639,-9.11991 0.44652,-15.43617 -0.75267,-22.32449 l 3.06207,-1.67211 c 4.26571,7.49374 4.85072,13.58211 5.82482,20.41752 5.18921,-4.34037 9.3104,-9.96237 12.8189,-16.3196 -0.74338,-6.38998 -3.6455,-9.73005 -6.65178,-14.1804 l 1.9169,-2.73395 8.95365,5.55528 1.2518,-19.86813 6.90314,0 z"
+       id="path3170"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="81.428574"
+       y="51.237343"
+       id="text4099"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4101"
+         x="81.428574"
+         y="51.237343" /></text>
+    <g
+       id="g6895"
+       style="fill:#999999;stroke:none"
+       transform="translate(137.14286,-457.14286)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348"
+         d="m 1121.7352,224.14344 4.074,0 0,26.4104 -4.074,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2"
+         d="m 1127.0359,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-0"
+         d="m 1132.3427,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-3"
+         d="m 1137.6495,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-9"
+         d="m 1142.9563,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-2"
+         d="m 1148.2631,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-5"
+         d="m 1153.5699,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-4"
+         d="m 1158.8768,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-4"
+         d="m 1164.1836,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-3-4"
+         d="m 1169.4904,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-9-8"
+         d="m 1174.7972,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-2-9"
+         d="m 1180.104,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-55"
+         d="m 1185.4108,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-42"
+         d="m 1190.7176,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-3"
+         d="m 1196.0244,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-3-3"
+         d="m 1201.3312,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-9-2"
+         d="m 1206.638,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-2-6"
+         d="m 1211.9449,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-54"
+         d="m 1217.2517,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-7"
+         d="m 1222.5585,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-2"
+         d="m 1227.8653,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-3-7"
+         d="m 1233.1721,224.14344 4.0845,0 0,26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6346"
+         d="m 1120.3474,245.33689 119.3495,0 c 1.806,-10.20748 6.132,-17.92917 16.8242,-19.37308 l 55.2058,0 c 12.1674,0.28669 16.1826,5.7108 16.5617,13.53776 l 0,49.94979 c -0.9352,6.73223 -8.421,13.40625 -16.5617,13.07098 l -192.4313,0 -35.7525,-6.06837 c -8.274,-4.08276 -15.1998,-6.72703 -20.5054,-8.16937 l -29.4431,0 c -3.759,-2.35658 -9.744,-4.43513 -10.5157,-10.5035 l 0.5257,-39.67972 c 0.3951,-7.17976 2.541,-12.66256 17.3502,-13.30441 l 60.4632,0 c 10.9242,2.2525 13.3875,13.10912 18.9273,20.54014 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-1"
+         d="m 1121.7352,508.90049 4.074,0 0,-26.4104 -4.074,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-33"
+         d="m 1127.0359,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-36"
+         d="m 1132.3427,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-3-2"
+         d="m 1137.6495,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-9-5"
+         d="m 1142.9563,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-2-1"
+         d="m 1148.2631,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-5-8"
+         d="m 1153.5699,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-4-1"
+         d="m 1158.8768,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-4-7"
+         d="m 1164.1836,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-3-4-6"
+         d="m 1169.4904,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-9-8-3"
+         d="m 1174.7972,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-2-9-2"
+         d="m 1180.104,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-55-2"
+         d="m 1185.4108,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-42-9"
+         d="m 1190.7176,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-3-5"
+         d="m 1196.0244,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-3-3-5"
+         d="m 1201.3312,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-9-2-4"
+         d="m 1206.638,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-2-6-9"
+         d="m 1211.9449,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-54-2"
+         d="m 1217.2517,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-7-0"
+         d="m 1222.5585,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-0-2-3"
+         d="m 1227.8653,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6348-2-3-7-1"
+         d="m 1233.1721,508.90049 4.0845,0 0,-26.4104 -4.0845,0 z"
+         style="fill:#999999;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6346-4"
+         d="m 1120.3474,487.70708 119.3495,0 c 1.806,10.20748 6.132,17.92917 16.8242,19.37308 l 55.2058,0 c 12.1674,-0.28669 16.1826,-5.7108 16.5617,-13.53776 l 0,-49.94979 c -0.9352,-6.73223 -8.421,-13.40625 -16.5617,-13.07098 l -192.4313,0 -35.7525,6.06837 c -8.274,4.08276 -15.1998,6.72703 -20.5054,8.16937 l -29.4431,0 c -3.759,2.35658 -9.744,4.43513 -10.5157,10.5035 l 0.5257,39.67972 c 0.3951,7.17976 2.541,12.66256 17.3502,13.30441 l 60.4632,0 c 10.9242,-2.2525 13.3875,-13.10912 18.9273,-20.54014 z"
+         style="fill:#999999;stroke:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 1274.0136,-403.77012 33.5369,133.37424"
+       id="path4239-7-5-14-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="783.87842"
+       y="-61.19149"
+       id="text7204"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7206"
+         x="783.87842"
+         y="-61.19149"
+         style="font-size:16px;fill:#ffffff">Ref: scm-tag</tspan><tspan
+         sodipodi:role="line"
+         x="783.87842"
+         y="-41.19149"
+         style="font-size:16px;fill:#ffffff"
+         id="tspan7208">Proportions and shapes of the compression unit parts have been modified randomly</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1188.0583"
+       y="-592.43976"
+       id="text3136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138"
+         x="1188.0583"
+         y="-592.43976"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">7, in</tspan><tspan
+         sodipodi:role="line"
+         x="1188.0583"
+         y="-562.43976"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3358">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3903">-11 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1188.0583"
+         y="-532.43976"
+         id="tspan3140"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3911">-11 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1188.0583"
+         y="-502.43976"
+         id="tspan3142"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3907">-12 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1188.0583"
+         y="-472.43976"
+         id="tspan3144"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3919">-6 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1188.0583"
+         y="-442.43976"
+         id="tspan3146"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3921">-12 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1188.0583"
+         y="-412.43976"
+         id="tspan3148"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3917">-12 °C</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 1323.3074,-268.23487 34.9655,-136.62575"
+       id="path4239-7-5-14-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1363.0752"
+       y="-592.43976"
+       id="text3136-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-9"
+         x="1363.0752"
+         y="-592.43976"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">7, out</tspan><tspan
+         sodipodi:role="line"
+         x="1363.0752"
+         y="-562.43976"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3361">1.<tspan
+   style="fill:#ff0000"
+   id="tspan3905"> -11 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1363.0752"
+         y="-532.43976"
+         id="tspan3140-4"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3913">-11 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1363.0752"
+         y="-502.43976"
+         id="tspan3142-0"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3909">-12 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1363.0752"
+         y="-472.43976"
+         id="tspan3144-8"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3923">36 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1363.0752"
+         y="-442.43976"
+         id="tspan3146-2"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3925">55 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1363.0752"
+         y="-412.43976"
+         id="tspan3148-8"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3915">36 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1501.8722"
+       y="218.15973"
+       id="text3136-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-2"
+         x="1501.8722"
+         y="218.15973"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">26, out</tspan><tspan
+         sodipodi:role="line"
+         x="1501.8722"
+         y="248.15973"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3367">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3939">14 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1501.8722"
+         y="278.15973"
+         id="tspan3140-0"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3947">9°C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1501.8722"
+         y="308.15973"
+         id="tspan3142-07"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3941">3°C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1501.8722"
+         y="338.15973"
+         id="tspan3144-1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3943">6 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1501.8722"
+         y="368.15973"
+         id="tspan3146-6"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3945">9°C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1501.8722"
+         y="398.15973"
+         id="tspan3148-5"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3949">8 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="919.61823"
+       y="218.15973"
+       id="text3136-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-7"
+         x="919.61823"
+         y="218.15973"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">21, out</tspan><tspan
+         sodipodi:role="line"
+         x="919.61823"
+         y="248.15973"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3370">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3839">14 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="919.61823"
+         y="278.15973"
+         id="tspan3140-1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff7f2a"
+   id="tspan3847">9 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="919.61823"
+         y="308.15973"
+         id="tspan3142-8"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3841">3 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="919.61823"
+         y="338.15973"
+         id="tspan3144-13"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3843">6 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="919.61823"
+         y="368.15973"
+         id="tspan3146-9"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3845">9 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="919.61823"
+         y="398.15973"
+         id="tspan3148-9"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff7f2a"
+   id="tspan3849">8 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="287.26273"
+       y="-82.845428"
+       id="text3136-33"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-6"
+         x="287.26273"
+         y="-82.845428"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">2, in</tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="-52.845428"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3382"><tspan
+   style="fill:#000000"
+   id="tspan3384">1. </tspan>9 °C</tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="-22.845428"
+         id="tspan3140-7"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3801">8 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="7.1545715"
+         id="tspan3142-3"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3793">12 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="37.154572"
+         id="tspan3144-7"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3795">11 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="67.154572"
+         id="tspan3146-65"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3797">12 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="97.154572"
+         id="tspan3148-7"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3799">4 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="287.26273"
+       y="171.88258"
+       id="text3136-59"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-76"
+         x="287.26273"
+         y="171.88258"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">2, out</tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="201.88258"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3379">1.<tspan
+   style="fill:#ff0000"
+   id="tspan3803"> 51 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="231.88258"
+         id="tspan3140-48"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3809">45 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="261.88257"
+         id="tspan3142-9"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3805">53 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="291.88257"
+         id="tspan3144-6"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3811">32 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="321.88257"
+         id="tspan3146-8"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3813">44 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="287.26273"
+         y="351.88257"
+         id="tspan3148-2"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3807">39 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="598.98865"
+       y="277.15585"
+       id="text3136-39"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-8"
+         x="598.98865"
+         y="277.15585"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">1, in</tspan><tspan
+         sodipodi:role="line"
+         x="598.98865"
+         y="307.15585"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3373">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3829">-18 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="598.98865"
+         y="337.15585"
+         id="tspan3140-04"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3831">-11 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="598.98865"
+         y="367.15585"
+         id="tspan3142-7"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3827">-6 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="598.98865"
+         y="397.15585"
+         id="tspan3144-4"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3835">3 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="598.98865"
+         y="427.15585"
+         id="tspan3146-28"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3837">1 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="598.98865"
+         y="457.15585"
+         id="tspan3148-74"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3833">-12 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="454.94806"
+       y="171.83571"
+       id="text3136-80"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-767"
+         x="454.94806"
+         y="171.83571"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">1, out</tspan><tspan
+         sodipodi:role="line"
+         x="454.94806"
+         y="201.83571"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3376">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3815">34 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="454.94806"
+         y="231.83571"
+         id="tspan3140-2"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3819">31 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="454.94806"
+         y="261.83569"
+         id="tspan3142-36"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3817">37 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="454.94806"
+         y="291.83569"
+         id="tspan3144-82"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3823">28 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="454.94806"
+         y="321.83569"
+         id="tspan3146-1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3825">37 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="454.94806"
+         y="351.83569"
+         id="tspan3148-90"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3821">26 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1044.6741"
+       y="-539.89154"
+       id="text3136-37"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-3"
+         x="1044.6741"
+         y="-539.89154"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">13, out</tspan><tspan
+         sodipodi:role="line"
+         x="1044.6741"
+         y="-509.89154"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3355">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3869">20 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1044.6741"
+         y="-479.89154"
+         id="tspan3140-11"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3891">28 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1044.6741"
+         y="-449.89154"
+         id="tspan3142-71"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3875">43 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1044.6741"
+         y="-419.89154"
+         id="tspan3144-83"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3899">14 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1044.6741"
+         y="-389.89154"
+         id="tspan3146-11"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3901">24 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1044.6741"
+         y="-359.89154"
+         id="tspan3148-1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3889">17 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="755.97351"
+       y="-771.09943"
+       id="text3136-39-85"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-8-89"
+         x="755.97351"
+         y="-771.09943"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">11, out</tspan><tspan
+         sodipodi:role="line"
+         x="755.97351"
+         y="-741.09943"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3346">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3863">127 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="755.97351"
+         y="-711.09943"
+         id="tspan3140-04-0"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3883">121 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="755.97351"
+         y="-681.09943"
+         id="tspan3142-7-8"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3871">135 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="755.97351"
+         y="-651.09943"
+         id="tspan3144-4-0"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3951">123 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="755.97351"
+         y="-621.09943"
+         id="tspan3146-28-4"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3953">129 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="755.97351"
+         y="-591.09943"
+         id="tspan3148-74-63"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3879">117 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="658.99884"
+       y="-531.12982"
+       id="text3136-39-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-8-8"
+         x="658.99884"
+         y="-531.12982"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">23, out</tspan><tspan
+         sodipodi:role="line"
+         x="658.99884"
+         y="-501.12982"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3343">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3851">150 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="658.99884"
+         y="-471.12982"
+         id="tspan3140-04-5"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3855">142 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="658.99884"
+         y="-441.12982"
+         id="tspan3142-7-3"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3853">135 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="658.99884"
+         y="-411.12982"
+         id="tspan3144-4-4"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3857">124 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="658.99884"
+         y="-381.12982"
+         id="tspan3146-28-5"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3859">139 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="658.99884"
+         y="-351.12982"
+         id="tspan3148-74-6"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3861">131 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="924.94812"
+       y="-539.12982"
+       id="text3136-39-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-8-3"
+         x="924.94812"
+         y="-539.12982"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">24, in</tspan><tspan
+         sodipodi:role="line"
+         x="924.94812"
+         y="-509.12982"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3352">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3867">41 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="924.94812"
+         y="-479.12982"
+         id="tspan3140-04-9"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3893">46 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="924.94812"
+         y="-449.12982"
+         id="tspan3142-7-0"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3877">56 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="924.94812"
+         y="-419.12982"
+         id="tspan3144-4-8"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3895">85 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="924.94812"
+         y="-389.12982"
+         id="tspan3146-28-0"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3897">44 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="924.94812"
+         y="-359.12982"
+         id="tspan3148-74-4"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3887">39 °C</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="M 654.73067,267.78547 683.09064,-41.917907"
+       id="path4239-7-5-14-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="M 359.2687,168.19158 560.28787,41.907342"
+       id="path4239-7-5-14-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 342.89233,-87.611848 142.45063,0"
+       id="path4239-7-5-14-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="M 549.72195,237.37514 632.6548,73.566583"
+       id="path4239-7-5-14-0-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 695.04457,-341.69371 47.82262,179.08852"
+       id="path4239-7-5-14-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 810.75885,-583.12228 -43.60595,250.5171"
+       id="path4239-7-5-14-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="M 965.21788,-349.77493 788.58147,-161.17661"
+       id="path4239-7-5-14-0-20"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 1086.6043,-350.26514 60.5486,180.5171"
+       id="path4239-7-5-14-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 976.67016,192.30629 0,-52.05433"
+       id="path4239-7-5-14-0-93"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 1546.6607,196.87772 0,-50.91148"
+       id="path4239-7-5-14-0-38"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="368.71826"
+       y="-622.5509"
+       id="text3136-39-8-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-8-8-1"
+         x="368.71826"
+         y="-622.5509"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">10, in</tspan><tspan
+         sodipodi:role="line"
+         x="368.71826"
+         y="-592.5509"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3337">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3775">51 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="368.71826"
+         y="-562.5509"
+         id="tspan3140-04-5-9"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3771">45 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="368.71826"
+         y="-532.5509"
+         id="tspan3142-7-3-5"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3769">53 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="368.71826"
+         y="-502.5509"
+         id="tspan3144-4-4-3"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3779">32 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="368.71826"
+         y="-472.5509"
+         id="tspan3146-28-5-4"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3785">44 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="368.71826"
+         y="-442.5509"
+         id="tspan3148-74-6-2"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3787">39 °C</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="513.00397"
+       y="-622.5509"
+       id="text3136-39-8-70"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-8-8-17"
+         x="513.00397"
+         y="-622.5509"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">10, out</tspan><tspan
+         sodipodi:role="line"
+         x="513.00397"
+         y="-592.5509"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3340">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3777">149 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="513.00397"
+         y="-562.5509"
+         id="tspan3140-04-5-1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3773">128 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="513.00397"
+         y="-532.5509"
+         id="tspan3142-7-3-4"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3767">142 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="513.00397"
+         y="-502.5509"
+         id="tspan3144-4-4-9"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3781">46 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="513.00397"
+         y="-472.5509"
+         id="tspan3146-28-5-3"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3783">54 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="513.00397"
+         y="-442.5509"
+         id="tspan3148-74-6-1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff9955"
+   id="tspan3789">135 °C</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 425.44247,-437.12034 158.17435,275.71576"
+       id="path4239-7-5-14-0-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="m 571.15675,-435.12034 33.88864,250.85862"
+       id="path4239-7-5-14-0-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="895.14685"
+       y="-771.05255"
+       id="text3136-39-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3138-8-3-4"
+         x="895.14685"
+         y="-771.05255"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">24, out</tspan><tspan
+         sodipodi:role="line"
+         x="895.14685"
+         y="-741.05255"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         id="tspan3349">1. <tspan
+   style="fill:#ff0000"
+   id="tspan3865">95 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="895.14685"
+         y="-711.05255"
+         id="tspan3140-04-9-8"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">2. <tspan
+   style="fill:#ff9955"
+   id="tspan3885">145 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="895.14685"
+         y="-681.05255"
+         id="tspan3142-7-0-6"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">3. <tspan
+   style="fill:#ff0000"
+   id="tspan3873">89 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="895.14685"
+         y="-651.05255"
+         id="tspan3144-4-8-3"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">4. <tspan
+   style="fill:#0000ff"
+   id="tspan3955">125 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="895.14685"
+         y="-621.05255"
+         id="tspan3146-28-0-5"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">5. <tspan
+   style="fill:#0000ff"
+   id="tspan3957">75 °C</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="895.14685"
+         y="-591.05255"
+         id="tspan3148-74-4-8"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">6. <tspan
+   style="fill:#ff6600"
+   id="tspan3881">104 °C</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend-3)"
+       d="M 912.5364,-581.34924 786.07331,-206.54643"
+       id="path4239-7-5-14-0-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 1459.9481,150.05168 0,597.50004"
+       id="path4627"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 1172.8281,147.81161 0,595.50004"
+       id="path4627-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 809.29508,145.81161 0,597.50004"
+       id="path4627-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 725.67791,239.7913 0,501.50004"
+       id="path4627-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 767.48648,229.7913 0,511.50004"
+       id="path4627-36"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:url(#linearGradient4737);stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1602.9567,693.71671 -145.6986,-2.0203 -286.8833,-30.3046 -361.63465,-335.37063 -41.7989,20.70711 -37.65582,5.30781 -35.70267,182.07651"
+       id="path4668-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:url(#linearGradient4729);stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1605.4101,694.47032 -145.6986,-2.0203 -286.8833,-30.3046 -365.67526,-86.8731 -39.7786,-98.4909 -41.69643,-160.3572 -29.64175,218.442"
+       id="path4668"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-3-52)"
+       d="m 1605.4101,744.97792 -879.73219,0 -307.8245,0"
+       id="path3357"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-3-52)"
+       d="m 1605.4101,746.3669 0,-1582.81032"
+       id="path3357-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1617.4779"
+       y="-790.27094"
+       id="text4696"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4698"
+         x="1617.4779"
+         y="-790.27094"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">T gaz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="286.8096"
+       y="752.89429"
+       id="text4696-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4698-8"
+         x="286.8096"
+         y="752.89429"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">Location</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="746.64294"
+       y="-1616.09"
+       id="text3278"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3280"
+         x="746.64294"
+         y="-1616.09"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#999999;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+   style="text-align:end;text-anchor:end;fill:#666666"
+   id="tspan3282">Ref:</tspan> scm-tag</tspan></text>
+  </g>
+</svg>

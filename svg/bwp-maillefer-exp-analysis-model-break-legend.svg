@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1127.099"
+   height="507.87402"
+   id="svg4327"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="bwp-maillefer-exp-analysis-model-break-legend.svg">
+  <defs
+     id="defs4329" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="279.91611"
+     inkscape:cy="215.67037"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4062"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-left="20"
+     fit-margin-top="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20" />
+  <metadata
+     id="metadata4332">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.344433,-305.75499)">
+    <g
+       transform="matrix(1.25,0,0,1.25,115.97065,-653.13005)"
+       id="g4176">
+      <g
+         id="g4062"
+         transform="translate(0,56.991325)">
+        <g
+           class="node"
+           id="node12-6"
+           transform="translate(-126.70144,1035.4459)">
+          <title
+             id="title232-8">24</title>
+          <ellipse
+             d="m 153,-178 c 0,9.94113 -12.08831,18 -27,18 -14.91169,0 -27,-8.05887 -27,-18 0,-9.94113 12.08831,-18 27,-18 14.91169,0 27,8.05887 27,18 z"
+             id="ellipse234-8"
+             ry="18"
+             rx="27"
+             cy="-178"
+             cx="126"
+             sodipodi:cx="126"
+             sodipodi:cy="-178"
+             sodipodi:rx="27"
+             sodipodi:ry="18"
+             style="fill:#cccccc;stroke:#000000" />
+          <text
+             id="text236-8"
+             font-size="14.00"
+             y="-173.89999"
+             x="126"
+             style="font-size:14px;text-anchor:middle;font-family:'Times Roman,serif'">22</text>
+        </g>
+        <g
+           class="node"
+           id="node21-1"
+           transform="translate(-244.22721,1086.332)">
+          <title
+             id="title442-7">6</title>
+          <ellipse
+             d="m 270,-178 c 0,9.94113 -12.08831,18 -27,18 -14.91169,0 -27,-8.05887 -27,-18 0,-9.94113 12.08831,-18 27,-18 14.91169,0 27,8.05887 27,18 z"
+             id="ellipse444-2"
+             ry="18"
+             rx="27"
+             cy="-178"
+             cx="243"
+             sodipodi:cx="243"
+             sodipodi:cy="-178"
+             sodipodi:rx="27"
+             sodipodi:ry="18"
+             style="fill:none;stroke:#000000" />
+          <text
+             id="text446-5"
+             font-size="14.00"
+             y="-173.89999"
+             x="243"
+             style="font-size:14px;text-anchor:middle;font-family:'Times Roman,serif'">6</text>
+        </g>
+        <g
+           class="node"
+           id="node16-2"
+           transform="translate(-83.828741,1203.2889)">
+          <title
+             id="title155-2">22</title>
+          <ellipse
+             d="m 110,-394 c 0,9.94113 -12.088312,18 -27,18 -14.911688,0 -27,-8.05887 -27,-18 0,-9.94113 12.088312,-18 27,-18 14.911688,0 27,8.05887 27,18 z"
+             id="ellipse157-0"
+             ry="18"
+             rx="27"
+             cy="-394"
+             cx="83"
+             sodipodi:cx="83"
+             sodipodi:cy="-394"
+             sodipodi:rx="27"
+             sodipodi:ry="18"
+             style="fill:#666666;stroke:#000000" />
+          <text
+             id="text159-4"
+             font-size="14.00"
+             y="-389.89999"
+             x="83"
+             style="font-size:14px;text-anchor:middle;fill:#ffffff;font-family:'Times Roman,serif'">24</text>
+        </g>
+        <g
+           class="edge"
+           id="edge81-2"
+           transform="matrix(0.92792186,0.37277476,-0.37277476,0.92792186,-357.19569,970.04931)">
+          <title
+             id="title548-1">16-&gt;4</title>
+          <g
+             transform="translate(-17.163356,78.702436)"
+             id="g3802">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:3"
+               inkscape:connector-curvature="0"
+               d="M 405.14079,-139.71744 364.937,-123.07"
+               id="path550-2"
+               sodipodi:nodetypes="cc" />
+            <polygon
+               transform="matrix(0.99458426,0.1039334,-0.1039334,0.99458426,-10.827584,-38.558209)"
+               style="fill:#ff0000;stroke:#ff0000;stroke-width:1"
+               points="366.494,-119.935 366.494,-119.935 355.997,-118.497 363.306,-126.167 "
+               id="polygon552-4" />
+          </g>
+        </g>
+        <g
+           class="edge"
+           id="edge61-6"
+           transform="translate(-124.204,1277.062)">
+          <title
+             id="title274-9">12-&gt;11</title>
+          <g
+             transform="matrix(0.96097207,0.27664539,-0.27664539,0.96097207,-111.58032,-63.691075)"
+             id="g3798">
+            <path
+               style="fill:none;stroke:#0000ff;stroke-width:5"
+               inkscape:connector-curvature="0"
+               d="m 194.08811,-270.20875 -41.51835,11.95233"
+               id="path276-3"
+               sodipodi:nodetypes="cc" />
+            <polygon
+               inkscape:transform-center-x="2.8114618"
+               style="fill:#0000ff;stroke:#0000ff;stroke-width:1"
+               points="142.639,-255.837 151.223,-262.58 153.417,-254.109 153.417,-254.109 "
+               id="polygon278-8" />
+          </g>
+        </g>
+        <g
+           transform="matrix(0.67603076,0.73687341,-0.73687341,0.67603076,648.48763,260.69215)"
+           id="g3806">
+          <g
+             transform="translate(-6.4414751,1165.1897)"
+             id="edge43-2"
+             class="edge">
+            <title
+               id="title218-8">11-&gt;23</title>
+            <path
+               style="fill:none;stroke:#000000"
+               inkscape:connector-curvature="0"
+               d="M 98.634746,-235.28932 69.5948,-203.221"
+               id="path220-7"
+               sodipodi:nodetypes="cc" />
+            <polygon
+               transform="matrix(0.99817044,0.06046299,-0.06046299,0.99817044,-12.140988,-4.5512451)"
+               style="fill:#000000;stroke:#000000;stroke-width:1"
+               points="66.651,-205.143 72.1235,-200.778 72.1235,-200.778 63.1517,-195.143 "
+               id="polygon222-4" />
+          </g>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3816"
+           y="813.16895"
+           x="36.921047"
+           style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           xml:space="preserve"><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="813.16895"
+             x="36.921047"
+             id="tspan3818"
+             sodipodi:role="line">Elements from the compression unit</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3816-9"
+           y="862.61194"
+           x="36.921047"
+           style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           xml:space="preserve"><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="862.61194"
+             x="36.921047"
+             id="tspan3818-4"
+             sodipodi:role="line">Elements from the auxiliary circuits</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3816-7"
+           y="913.47888"
+           x="36.921047"
+           style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           xml:space="preserve"><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="913.47888"
+             x="36.921047"
+             id="tspan3818-3"
+             sodipodi:role="line">Elements from the main circuit</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3816-8"
+           y="962.34467"
+           x="36.921047"
+           style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           xml:space="preserve"><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="962.34467"
+             x="36.921047"
+             id="tspan3818-1"
+             sodipodi:role="line">Flow rate</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3816-2"
+           y="1010.8756"
+           x="38.039017"
+           style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           xml:space="preserve"><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1010.8756"
+             x="38.039017"
+             id="tspan3818-49"
+             sodipodi:role="line">Work energy</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3816-3"
+           y="1061.3081"
+           x="36.921047"
+           style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           xml:space="preserve"><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1061.3081"
+             x="36.921047"
+             id="tspan3818-2"
+             sodipodi:role="line">Heat or transformation energy</tspan></text>
+      </g>
+      <g
+         id="g4034">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3816-20"
+           y="812.29944"
+           x="309.63287"
+           style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           xml:space="preserve"><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="812.29944"
+             x="309.63287"
+             id="tspan3818-6"
+             sodipodi:role="line">1: First stage impeller</tspan><tspan
+             id="tspan3909"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="830.29944"
+             x="309.63287"
+             sodipodi:role="line">2: Second stage impeller</tspan><tspan
+             id="tspan3911"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="848.29944"
+             x="309.63287"
+             sodipodi:role="line">3: Condenser, refrigerant stream</tspan><tspan
+             id="tspan3913"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="866.29944"
+             x="309.63287"
+             sodipodi:role="line">4: Evaporator, refrigerant stream</tspan><tspan
+             id="tspan3915"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="884.29944"
+             x="309.63287"
+             sodipodi:role="line">5: Second stage expansion</tspan><tspan
+             id="tspan3917"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="902.29944"
+             x="309.63287"
+             sodipodi:role="line">6: First stage expansion</tspan><tspan
+             id="tspan3987"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="920.29944"
+             x="309.63287"
+             sodipodi:role="line">7: Motor cooling chamber</tspan><tspan
+             id="tspan3935"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="938.29944"
+             x="309.63287"
+             sodipodi:role="line">8: Bypass circuit</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="956.29944"
+             x="309.63287"
+             sodipodi:role="line"
+             id="tspan3067">9: Economizer</tspan><tspan
+             id="tspan3947"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="974.29944"
+             x="309.63287"
+             sodipodi:role="line">19: First stage separator</tspan><tspan
+             id="tspan3949"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="992.29944"
+             x="309.63287"
+             sodipodi:role="line">20: Piping and fittings between the second stage impeller and the condenser</tspan><tspan
+             id="tspan3951"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1010.2994"
+             x="309.63287"
+             sodipodi:role="line">21: Piping, fittings, and filter between the second stage impeller and the axial bearing zone</tspan><tspan
+             id="tspan3953"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1028.2994"
+             x="309.63287"
+             sodipodi:role="line">22: Piping, fittings, and filter between the second stage impeller and the rotor/stator zone</tspan><tspan
+             id="tspan3955"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1046.2994"
+             x="309.63287"
+             sodipodi:role="line">23: Axial bearing, impellers side</tspan><tspan
+             id="tspan3957"
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1064.2994"
+             x="309.63287"
+             sodipodi:role="line">24: Axial bearing, radial bearings side</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1082.2994"
+             x="309.63287"
+             sodipodi:role="line"
+             id="tspan3054">25: Physical outlet of the first stage compressor</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1100.2994"
+             x="309.63287"
+             sodipodi:role="line"
+             id="tspan3086">26: Piping between the second stage impeller outlet and the gas bearings aeration mass flow</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1118.2994"
+             x="309.63287"
+             sodipodi:role="line"
+             id="tspan3059">      meter</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1136.2994"
+             x="309.63287"
+             sodipodi:role="line"
+             id="tspan3057">27: Piping between the physical outlet of the first stage compressor and the physical inlet of</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="1154.2994"
+             x="309.63287"
+             sodipodi:role="line"
+             id="tspan3061">      the second stage compressor</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4018"
+           y="812.29944"
+           x="565.58429"
+           style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           xml:space="preserve"
+           inkscape:transform-center-x="-24.243661"><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="812.29944"
+             x="565.58429"
+             sodipodi:role="line"
+             id="tspan3082">10: Labyrinth seal</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             id="tspan4026"
+             y="830.29944"
+             x="565.58429"
+             sodipodi:role="line">11: Axial bearing zone</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             id="tspan4028"
+             y="848.29944"
+             x="565.58429"
+             sodipodi:role="line">12: Radial bearings zone</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             id="tspan4030"
+             y="866.29944"
+             x="565.58429"
+             sodipodi:role="line">13: Rotor/stator zone</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             id="tspan4032"
+             y="884.29944"
+             x="565.58429"
+             sodipodi:role="line">14: Inverter</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="902.29944"
+             x="565.58429"
+             sodipodi:role="line"
+             id="tspan3073">15: Condenser, hot source stream</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="920.29944"
+             x="565.58429"
+             sodipodi:role="line"
+             id="tspan3062">16: Evaporator, cold source stream</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="938.29944"
+             x="565.58429"
+             sodipodi:role="line"
+             id="tspan3064">17: Hot source circuit and pumps</tspan><tspan
+             style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             y="956.29944"
+             x="565.58429"
+             sodipodi:role="line"
+             id="tspan3066">18: Cold source circuit and pumps</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3058"
+       transform="translate(0,19.819353)">
+      <text
+         xml:space="preserve"
+         style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         x="-31.207224"
+         y="793.8963"
+         id="text4172"
+         sodipodi:linespacing="125%"
+         transform="matrix(1.25,0,0,1.25,115.97065,-653.13005)"><tspan
+           sodipodi:role="line"
+           id="tspan4174"
+           x="-31.207224"
+           y="793.8963"
+           style="font-size:38.40000153px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">Legend</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5090"
+         y="339.36218"
+         x="240.00003"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         xml:space="preserve"><tspan
+           style="fill:#666666"
+           y="339.36218"
+           x="240.00003"
+           id="tspan5092"
+           sodipodi:role="line">Ref: <tspan
+   style="fill:#999999"
+   id="tspan10521">scm-tag</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
