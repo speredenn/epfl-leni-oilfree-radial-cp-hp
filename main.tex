@@ -123,7 +123,7 @@
 \fancyfoot[CO,CE]{}
 \fancyfoot[RO,LE]{}
 
-\fancyhead[LO,RE]{\leftmark}
+\fancyhead[LO,RE]{}
 \fancyhead[LE,RO]{\thepage}
 
 %%%% Space between paragraphs
@@ -314,8 +314,7 @@ pdfpagetransition = none
 
 \mainmatter
 
-%% Dummy chapter, to maintain the document structure
-% \include{tex/dummy}
+\fancyhead[LO,RE]{\leftmark}
 
 %% Introduction
 %% People need better domestic heat pumps
@@ -343,6 +342,8 @@ pdfpagetransition = none
 
 %% Conclusion and perspectives
 \include{tex/conclusion}
+
+\fancyhead[LO,RE]{}
 
 \begin{appendices}
 
