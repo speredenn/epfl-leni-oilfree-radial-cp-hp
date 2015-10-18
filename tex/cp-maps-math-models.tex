@@ -29,7 +29,7 @@ design family, the unit \textit{cp101}, has been used in October 2013
 in the \BWP{}. Since 2013, the development of the compression unit has
 lifted off and the compression units are now industrial products.
 
-\section{Why a mathematical model of the compression stages?}
+\section{Why a mathematical model of the compression maps?}
 \label[secinapp]{sec:math-model-why}
 
 In order to integrate those compression units, now technically ready,
@@ -49,7 +49,7 @@ slightly change with each unit. Integrating those maps in the
 controller is not convenient, as that implies to fill the controller
 with the points of the maps and to interpolate between the points. An
 other approach is to offer a mathematical model of the compressor maps
-and the fit the model parameters with an identification test of the
+and fit the model parameters with an identification test of the
 compression unit. The advantages are:
 
 \begin{itemize}
@@ -70,9 +70,9 @@ pressure ratio developed by the compressor and its mass flow rate, for
 each rotor speed. There is a compressor map per inlet conditions,
 being characterized by an inlet temperature and an inlet pressure. The
 compressor maps can be made dimensionless using Mach
-numbers\citep{Haugwitz-2002a}, as a Mach number is characterized
+numbers \citep{Haugwitz-2002a}, as a Mach number is characterized
 notably by the pressure and the temperature of the fluid. If the map
-become dimensionless, one map only characterizes all the possible
+becomes dimensionless, one map only characterizes all the possible
 inlet conditions.
 
 \begin{table}[htbp]
@@ -93,7 +93,7 @@ inlet conditions.
 \subsection{Modeling of the compressor iso-speed curves}
 
 The iso-speed curves are modeled using Lamé equations, also called
-super-ellipses equations \citet{Haugwitz-2002a,Haugwitz-2003a}. The
+super-ellipses equations \citep{Haugwitz-2002a,Haugwitz-2003a}. The
 generic form of a Lamé equation is given in
 \cref{eq:lame-generic}. The specific form used in this thesis work and
 described in \cref{eq:lame-specific} uses the Lamé curves and applies
@@ -101,7 +101,7 @@ them with scaled values, and with rotated coordinates, in order to
 decrease the prediction errors.
 
 \begin{flalign}
-  & \left|\dfrac{x}{a}\right|^z + \left|\dfrac{x}{b}\right|^z = 1
+  & \left|\dfrac{x}{a}\right|^z + \left|\dfrac{y}{b}\right|^z = 1
   \label{eq:lame-generic} \\
   & \left|\dfrac{\mathcal{M}_{cp,\,in,\,scaled,\,rotated}}{a}\right|^z + \left|\dfrac{\Pi,\,scaled,\,rotated}{b}\right|^z =
   1 \label{eq:lame-specific}
@@ -180,8 +180,8 @@ compressor map resulting from physical modeling or from measurements.
 
 \subsection{Modeling of the isentropic efficiency}
 
-The isentropic efficiency can be modeled also this inlet an tip Mach
-numbers. The curves are modeled with degree-four polynomials and
+The isentropic efficiency can be modeled also with the inlet an tip
+Mach numbers. The curves are modeled with degree-four polynomials and
 values are scaled in order to obtain better correlations. The
 coefficient of those polynomials are modeled with polynomials at
 degrees ranging from 2 to 6, as described in
@@ -202,13 +202,13 @@ from physical modeling or from measurements.
 The correlations are used to predict the mass flow rate, deduced from
 the inlet Mach number, from the measured pressure
 ratio. Unfortunately, at low mass flow rates, the compressor iso-speed
-curves becomes almost flat, which means that prediction of low mass
+curves become almost flat, which means that prediction of low mass
 flow rates with any correlation is a difficult operation. In order to
 keep the the errors in acceptable ranges, a rotation of the
-coordinates is performed. An two-objective optimization is run on the
+coordinates is performed. A two-objective optimization is run on the
 fitted parameters described in the sections above in order to keep the
-average error over the whole map and maximum error in an acceptable
-range. From the Pareto curve obtained with the optimization, a
+average error over the whole map and maximum error in acceptable
+ranges. From the Pareto curve obtained with the optimization, a
 solution is selected. The author recommends to give more weight in the
 decision process to low average errors, as the compressor is likely to
 work most of the time in low error areas. Indeed, the domain where the

@@ -15,13 +15,13 @@
 \label{sec:bwp-specs}
 
 \begin{description}
-\item[Modularity with the components] The \BWP{} components can be
+\item[Modularity with the components:] The \BWP{} components can be
   changed and many different possibilities can be tested.
-\item[Modularity with the thermodynamics cycles and circuits] The
+\item[Modularity with the thermodynamics cycles and circuits:] The
   \BWP{} can test different single and twin-stage heat pump cycles,
-  and tolerate modifications of the motor cooling and gas bearings
+  and tolerates modifications of the motor cooling and gas bearings
   aeration circuits.
-\item[Liquid refrigerant location monitoring] The \BWP{} is expected
+\item[Liquid refrigerant location monitoring:] The \BWP{} is expected
   to allow the tracking of the liquid refrigerant location within the
   cycle. The amount of refrigerant in the heat exchangers and in the
   economizer needs to be known.
@@ -30,23 +30,21 @@
 Those 3 guidelines led to the following design choices:
 
 \begin{description}
-\item[Many assemblies, as few brazings as possible] Ideally, the whole
-  setup would have been designed with fittings and assemblies, in
-  order to keep as few brazings as possible, but it would have
-  exceeded the budget allowed to the manufacturing of the
+\item[Many assemblies, as few brazings as possible:] Ideally, the
+  whole setup would have been designed with fittings and assemblies,
+  in order to keep as few brazings as possible, but it would have
+  exceeded the budget allowed for the manufacturing of the
   prototype. As a compromise, the setup was built with brazed
   components, connected to assembly fittings at their interfaces. The
   system was built around modules which could be relocated or
-  connected differently, using flexible or straight pipes, and
-  fittings.
-\item[Flexible pipes to connect the weighted elements] In order to
+  connected differently, using straight flexible or conventional
+  pipes, and fittings.
+\item[Flexible pipes to connect the weighted elements:] In order to
   weight the heat exchangers and the economizer properly, those
   components have been hang up to load cells, and connected to the
-  main circuits using flexible pipes. This configuration can be
-  observed in \cref{fig:bwp-topology}. Those flexible pipes were quite
-  rigid, which implied big curvature radius, if they had to be used
-  curved.
-\item[Inline components with selection of the active component]
+  main circuits using straight flexible pipes. This configuration can
+  be observed in \cref{fig:bwp-topology}.
+\item[Inline components with selection of the active component:]
   Different types of inline components, such as the expansion valves,
   could be mounted together in parallel in the experimental setup and
   could be operated, alone, or together with the other components of
@@ -87,7 +85,7 @@ to track the location of the liquid charge in the installation and
 would have allowed to compare the observed liquid location behavior
 with the predicted behavior using a model of the heat pump integrating
 nowadays modeling techniques such as components dynamic modeling and
-other techniques listed by \citet{Ding-2007a} in 2007. The model in
+other techniques listed by \citet{Ding-2007a}. The model in
 question would have been based on moving boundaries heat exchanger
 modeling, such as the one implemented by \citet{Bell-Lemort-2015a},
 and on mass and energy balance equations. The inline components, such
@@ -195,11 +193,11 @@ experiment itself is not responsible for the crash.
 \subsection{Bypass system}
 \label{sec:bwp-bypass-system}
 
-The bypass circuit connects the outlet the second compression stage to
-the first stage separator (component \#8\footnotep{Components
+The bypass circuit connects the outlet of the second compression stage
+to the first stage separator (component \#8\footnotep{Components
   numbering is detailed in \cpref{fig:bwp-layout} and
   \cpref{fig:bwp-maillefer-break-model}}). When the bypass circuit is
-used, the solenoid valve in component \#27 is opened and no gas from
+used, the solenoid valve in component \#27 is open and no gas from
 the vapor line flows into the economizer (component \#9). The
 economizer is consequently, in bypass-mode, a simple tank located
 after the second-stage expansion valve, ensuring that the first stage
@@ -378,14 +376,14 @@ the following general observations:
 \item The gas in the bypass circuit (component \#8) was not increasing
   its temperature too much despite the relatively long period of
   bypassing involved\footnotep{The bypass circuit has been partially
-    opened for the whole time of the experiment: 25 minutes. Despite
+    open for the whole time of the experiment: 25 minutes. Despite
     this, the gas temperatures were reasonable, as it can be observed
     in \cpref{tab:B8.0/W11.0-PThs}.}.
 \end{itemize}
 
 \Cref{tab:key-values-comp-awp-bwp,fig:bwp-B8.0/W11.0-A-0.5/W20.7-diagrams}
 allow to compare the situation between the lower \OP{} from the \AWP{}
-, the \OP{} A-0.5/W20.7, and the \OP{} from the \BWP{}, to some extend
+, the \OP{} A-0.5/W20.7, and the \OP{} from the \BWP{}, to some extents
 and on specific topics\footnotep{Original values can be retrieved from
   \cpref{tab:A-0.5/W20.7-PThs}, \cpref{tab:A-0.5/W20.7-energy-flows},
   \cpref{tab:B8.0/W11.0-PThs}, and
@@ -408,8 +406,8 @@ and rotor speeds are comparable but the heat energy rates from the
 motor to the shaft are very different. Consequently the following
 comparisons are trends that need to be evaluated with further
 experiments, with new compression units in a next version of the
-\BWP{}. If the \OP{} would be comparable, the following interesting
-points would be interesting to stress:
+\BWP{}. If the \OP{} would strictly be comparable, the following
+interesting points would be interesting to stress:
 
 \begin{itemize}
 \item The maximum temperature, occurring in the \AWP{} compression unit
@@ -456,7 +454,7 @@ points would be interesting to stress:
   A-0.5/W20.7, 130 krpm & $\num{53.060} \pm \num{0.009}$ & $\num{14} \pm \num{23}$ & $\pmb{\num{6.271} \pm \num{0.007}}$ & $\pmb{\num{6.271} \pm \num{0.007}}$ & $\num{123} \pm \num{57}$ & $\num{32} \pm \num{2}$ & $\num{46} \pm \num{21}$ \\
   \bottomrule
 \end{tabular}
-\caption[Key values for the comparison of the AWP and the BWP gas bearings aeration circuits]{Key values for the comparison of the AWP and the BWP gas bearings aeration circuits, regarding thermal management. The values are rounded to the unit.}
+\caption[Key values for the comparison of the AWP and the BWP gas bearings aeration circuits]{Key values for the comparison of the AWP and the BWP gas bearings aeration circuits, regarding thermal management.}
 \label{tab:key-values-comp-awp-bwp}
 \end{table}
 
@@ -513,18 +511,18 @@ work\footnotep{The twin-stage compression unit requires an electric
   power of \num{6} \si{\kilo\watt} to be able to explore its whole
   operation range.}. Consequently, the development of such an inverter
 showed up to be necessary and has been performed during an other
-thesis work \citep{rod-2012a}. \citet[fig. 6.6, p.\,118]{rod-2012a} has
-developed a prototype of inverter which could have been used to power
-the compression unit. This prototype needs to be developed further to
-become an industrial prototype, ready to used with the compression
-units \citep[p.\,134]{rod-2012a}. The experiments have not been
-performed with the inverter developed by \citep{rod-2012a}, as it was
-still a device in development when the experiments were performed, and
-the prototypes had to cope with the limits of industrial inverters
-which were able to explore only partly the prototypes operation
-domain. Even nowadays, the development and the industrialization of
-such an inverter is a critical issue for the power and control of the
-heat pumps equipped with such compression
+thesis work \citep{rod-2012a}. \citet[fig. 6.6, p.\,118]{rod-2012a}
+has developed a prototype of inverter which could have been used to
+power the compression unit. This prototype needs to be developed
+further to become an industrial prototype, ready to used with the
+compression units \citep[p.\,134]{rod-2012a}. The experiments have not
+been performed with the inverter developed by \citet{rod-2012a}, as it
+was still a device in development when the experiments were performed,
+and the heat pump prototypes had to cope with the limits of industrial
+inverters which were able to explore only partly the compression units
+operation domain. Even nowadays, the development and the
+industrialization of such an inverter is a critical issue for the
+power and control of the heat pumps equipped with such compression
 units \citep[p.\,135]{rod-2012a}.
 
 \subsection{Setting the intermediate pressure to a chosen value while being in bypass-mode}
@@ -556,51 +554,51 @@ and will occur when the valve between components \#9 and \#2
 opens. This counter flow shock wave can create instabilities in the
 flow inside the second stage impeller, damaging blades, or even
 produce a compression unit failure. In order to prevent such an event
-to occur, the pressure level in the economizer during bypass-mode needs
-to be kept at the pressure level of the second compression stage. This
-also ensure that no flow comes in the economizer from the first
-compression stage.  The pressure level in the economizer while being
-in bypass-mode is influenced only by the settings of the two expansion
-valves (considering that the economizer is properly insulated from the
-environment and consequently adiabatic). As the role of the first
-stage expansion valve is to maintain a superheat value at the
-evaporator outlet, even during bypass-mode, the pressure level is
-maintained at the second compression stage inlet pressure level by the
-second stage expansion valve only. If the pressure level in the
-economizer decreases, the valve opens, and if it increases, the valve
-closes. If there is no more liquid in the economizer, the second stage
-expansion valve closes to a minimal value, in order to let the
+to occur, the pressure level in the economizer during bypass-mode
+needs to be kept at the pressure level of the second compression stage
+inlet. This also ensure that no flow comes in the economizer from the
+first compression stage.  The pressure level in the economizer while
+being in bypass-mode is influenced only by the settings of the two
+expansion valves (considering that the economizer is properly
+insulated from the environment, and consequently adiabatic). As the
+role of the first stage expansion valve is to maintain a superheat
+value at the evaporator outlet, even during bypass-mode, the pressure
+level is maintained at the second compression stage inlet pressure
+level by the second stage expansion valve only. If the pressure level
+in the economizer decreases, the valve opens, and if it increases, the
+valve closes. If there is no more liquid in the economizer, the second
+stage expansion valve closes to a minimal value, in order to let the
 pressure level in the condenser increase (this is the second expansion
 valve starting-mode explained in \cpref{sec:awp-issue-control-indus}).
 
 \subsection{Pumping down of the evaporator}
 \label{sec:pump-down-ev}
 
-In a heat pump circuit, it might happen situations where all the
-liquid refrigerant charge is located in the evaporator. This is the
-case, for example, when you fill in the refrigerant charge in gas
-phase being condenser at the coldest location of the circuit (the
-evaporator). It can also be the case if the expansion valves are not
-fully closed when the installation is shut down and if some time
-passes between the shutdown and the next start up (in case of power
-failure, for instance). With the bypass system used in the
-\AWP{}\footnotep{The layout of this bypass system can be seen in
+In a heat pump circuit, situations might happen where all the liquid
+refrigerant charge is located in the evaporator. This is the case, for
+example, when you fill in the refrigerant charge in gas phase being
+condensed at the coldest location of the circuit (the evaporator). It
+can also be the case if the expansion valves are not fully closed when
+the installation is shut down and if some time passes between the
+shutdown and the next start up (in case of power failure, for
+instance). With the bypass system used in the \AWP{}\footnotep{The
+  layout of this bypass system can be seen in
   \cpref{fig:awp-bypass-simple-layout} and
-  \cpref{fig:awp-layout-model-numbers}.}, it is almost impossible to
-pump down the liquid in the evaporator using the compression unit and
-the condenser, as it can be seen in
-\cref{fig:bwp-pumpdown-ev}. Indeed, as the bypass circuits are either
-closed or opened (no in-between position), and as there is no way to
-create a significant pressure difference in the heat pump main circuit
-without closing one of the bypass circuits (which would most likely
-results in moving the compression stages into the surge domain), all
-the liquid stays in the evaporator. The only way that could be found
-during the experimental campaign was to decrease the temperature at
-the condenser, allowing to close the second stage bypass circuit. With
-the second stage bypass circuit being closed, the pressure in the
-condenser increases and the flows starts to condense. Refrigerant is
-being transferred from the evaporator to the condenser. Some liquid
-finally arrives in the economizer and the cycle can be started.
+  \cpref{fig:awp-layout-model-numbers}.}, it very difficult to pump
+down the liquid in the evaporator using the compression unit and the
+condenser, as it can be seen in \cref{fig:bwp-pumpdown-ev}. Indeed, as
+the bypass circuits are either closed or open (no in-between
+position), and as there is no way to create a significant pressure
+difference in the heat pump main circuit without closing one of the
+bypass circuits (which would most likely results in moving the
+compression stages into the surge domain), all the liquid stays in the
+evaporator. The only way that could be found during the experimental
+campaign was to decrease the temperature at the condenser, allowing to
+close the second stage bypass circuit. With the second stage bypass
+circuit being closed, the pressure in the condenser increases and the
+flows starts to condense. Refrigerant is being transferred from the
+evaporator to the condenser. Some liquid finally arrives in the
+economizer and the cycle can be started.
 
 \begin{figure}
   \centering
@@ -609,7 +607,7 @@ finally arrives in the economizer and the cycle can be started.
   {When a pump down of the evaporator is needed, most of the liquid
     refrigerant is in the evaporator and as there are almost no flow
     rate through the expansion valves (which are sized to be fed with
-    liquid, not with gas), bypass circuits need to be opened to avoid
+    liquid, not with gas), bypass circuits need to be open to avoid
     the surge domain. If the rotor speed is high enough, the pressure
     ratio reached allows to move the check valves and some flow enters
     the main heat pump circuit. Unfortunately, in order to increase
@@ -653,7 +651,7 @@ a contact between the shaft surface and a fixed part. Touching a fixed
 surface at that speed is likely to create torsion forces far beyond
 the resistance of the shaft and to break it. Where the shaft touches a
 fixed part, the energy released locally is high enough to weld the
-surfaces together, damaging the unit massively. Such failure are
+surfaces together, damaging the unit massively. Such failures are
 critical events and usually imply the full replacement of the
 compression unit. Consequently, introducing clean refrigerant in the
 heat pump circuits is very important. However, industrial refrigerant
@@ -672,7 +670,7 @@ can also pollute the circuits, as the gas velocity is high enough to
 drag an oil film, flowing from the cylinder to the circuits of the
 prototypes, on the wall of the tubes. In order to prevent oil flowing
 from the cylinders to the circuits of the prototypes, gas velocity
-need to be lower than a specific value which can be computed for each
+needs to be lower than a specific value which can be computed for each
 specific design case \citep{kesim-ileri-2000a,Guo-Shen-2011a}. As
 those design rules were not applied during the design of the heat pump
 prototypes, lubricant oil could be observed flowing slowly from the

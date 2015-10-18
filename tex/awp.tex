@@ -16,13 +16,13 @@
 
 The prototype specifications were:
 \begin{description}
-\item[Efficiency] The prototype had to demonstrate the potential of an
+\item[Performance:] The prototype had to demonstrate the potential of an
   oil-free radial variable-speed multi-stage compressor unit for
   domestic heat pumps applications.
-\item[Compactness] The prototype had to fit into the housing of the
+\item[Compactness:] The prototype had to fit into the housing of the
   existing Air-Water heat pump, pictured in \cref{fig:awp-housing},
   chosen and provided by the industrial partner.
-\item[Low cost] The prototype was intended to demonstrate the
+\item[Low cost:] The prototype was intended to demonstrate the
   simplicity of the heat pump layout selected, which would have had
   positive effects on the costs of the industrial
   product\footnotep{The choice of the two-stage heat pump layout is
@@ -32,7 +32,7 @@ The prototype specifications were:
 
 Those 3 guidelines led to the following design choices:
 \begin{description}
-\item[Basic measurements capability] The prototype was intended to be
+\item[Basic measurements capability:] The prototype was intended to be
   equipped only with pressure and temperature sensors in order to get
   close to the compactness of an industrial product and to limit the
   costs of the prototype itself. Originally, none of the prototype
@@ -50,12 +50,12 @@ Those 3 guidelines led to the following design choices:
     \cref{eq:ev-eb-01,eq:ev-eb-02}, page~\pageref{eq:ev-eb-01}
     for details about the AWP global energy balance.}, in steady state
   conditions.
-\item[Components merged together] The
+\item[Components merged together:] The
   \gls{glos:economizer}\index{economizer} has been merged with the
   volute of the compression unit in order to obtain one element
   only. Details about this component merging are given in
   \cref{sec:awp-eco}.
-\item[Compact cycle inversion circuit] The circuit for the cycle
+\item[Compact cycle inversion circuit:] The circuit for the cycle
   inversion, in this twin-stage heat pump, meant for defrosting the
   evaporator or for cooling applications, is made with a set of 4
   check valves\footnotep{The 4 check valves are easily seen on
@@ -75,9 +75,10 @@ The \AWP{} is the second prototype to be built\footnotep{See
 integrated into one of the industrial partner's single-stage Air/Water
 heat pump housing. The industrial partner's Air-Water heat pumps are
 designed for cold climates. Consequently, their heat pump circuits and
-components are located below the air ducting, which is made of the
-ducting itself, the fan, and the evaporator, as illustrated in
-\cref{fig:awp-housing}. This design allows to keep the air ducting
+components are located below the air ducting
+(\cref{fig:awp-housing-and-3d}), which is made of the ducting itself,
+the fan, and the evaporator, as illustrated in
+\cref{fig:awp-air-channel}. This design allows to keep the air ducting
 above snow level. As a consequence of this design choice, the heat
 pump layout topology for the \AWP{} had to fit into the space
 available below the air ducting, as illustrated in
@@ -142,9 +143,10 @@ cycles and has two main functions:
   desired temperature and pressure can be maintained in the evaporator
   \citep[p.\,109]{dincer-kanoglu-2010a}.
 \item Increase the pressure of the refrigerant vapor through the
-  process of compression, and simultaneously increase the temperature
-  of the refrigerant vapor \citep[p.\,109]{dincer-kanoglu-2010a} in
-  order to meet the required condensation conditions \citep{rapin-desmons-2011a}.
+  process of compression, simultaneously increasing the temperature of
+  the refrigerant vapor \citep[p.\,109]{dincer-kanoglu-2010a} in order
+  to meet the required condensation conditions
+  \citep{rapin-desmons-2011a}.
 \end{itemize}
 
 Those two functions can not be fulfilled without the use of expansion
@@ -154,33 +156,33 @@ the two compression stages, rotating at the same speed. The prototype
 compression unit tested in the \AWP{} was the \textit{cp105}
 compression unit, from the \textit{evo4} design family. Compression
 units from \textit{evo1} and \textit{evo2} families have almost not
-been tested in the \BWP{} or the \AWP{}, as those units were not ready
-for heat pump integration. Compression units from the \textit{evo4}
-family were the first decently working prototypes that have been
-available for tests\footnotep{More details about the compression unit
-  history is given in \cref{sec:bwp-cp-unit}.}. They started to be
-available during Spring 2012. One unit from the \textit{evo4} family,
-the \textit{cp105} unit has been tested in the \AWP{} in May 2012. The
-datasets presented in this work have been generated during that
-period. An other unit of this family, \textit{cp101}, assembled before
-the \textit{cp105} unit, has been tested later in the \BWP{}, in
-October 2013. Because of confidentiality issues, the details of the
-design of the units or the differences between the different
-compression unit design families can not be exposed in this work and
-are only partially known by the author himself. However, the structure
-of the \textit{cp105} unit and its connections with the heat pump main
-and auxiliary circuits are described in
-\cref{fig:cp105-struct-awp}. The main differences with the version
-tested in the \BWP{} are:
+been tested in the \BWP{} or in the \AWP{}, as those units were not
+ready for heat pump integration. Compression units from the
+\textit{evo4} family were the first decently working prototypes that
+have been available for tests\footnotep{More details about the
+  compression unit history is given in \cref{sec:bwp-cp-unit}.}. They
+started to be available during Spring 2012. One unit from the
+\textit{evo4} family, the \textit{cp105} unit, has been tested in the
+\AWP{} in May 2012. The datasets presented in this work have been
+generated during that period. An other unit of this family,
+\textit{cp101}, assembled before the \textit{cp105} unit, has been
+tested later in the \BWP{}, in October 2013. Because of
+confidentiality issues, the details of the design of the units or the
+differences between the different compression unit design families can
+not be exposed in this work and are only partially known by the author
+himself. However, the structure of the \textit{cp105} unit and its
+connections with the heat pump main and auxiliary circuits are
+described in \cref{fig:cp105-struct-awp}. The main differences with
+the version tested in the \BWP{} are:
 
 \begin{description}
-\item[Motor cooling configuration] The motor cooling configuration
+\item[Motor cooling configuration:] The motor cooling configuration
   tested on the \textit{cp105} unit was a pool-boiling
   configuration. In the \BWP{}, the motor was cooled down with a
   flow-boiling configuration\footnotep{Details about the motor cooling
     parts are given in \cref{sec:awp-motor-cooling-details}
     page~\pageref{sec:awp-motor-cooling-details}.}.
-\item[Gas bearings aeration inlets/outlets configuration] The gas
+\item[Gas bearings aeration inlets/outlet configuration:] The gas
   bearings aeration circuit injects cold gas at the back of the
   compression unit (inlet \#1), after the motor (component
   \#13\footnotep{For components description and numbering, see
@@ -357,20 +359,19 @@ with a 20cm-long 3/4-inch pipe.
 \subsection{Evaporator}
 \label{sec:awp-ev}
 
-The evaporator of the \AWP{} is pictured on \cref{fig:awp-ev}. Its
-detailed geometry and characteristics are available in
-\cref{awp-ev-details}. The air ducting of the heat pump housing used
-as a base for the \AWP{} design occurred to be designed with
-compactness in mind and has not been designed for optimum air streams
-or noise reduction. The goal of the designers was clearly to design a
-heat pump unit able to go through the width of a conventional domestic
-doorway. As a result of those design choices, the air stream
-distribution in the air ducting was far from being satisfactory, as
-detailed in \cref{sec:awp-issue-reducing-oh}. In order to try to
-compensate for this issue, a plate drilled with holes in front of the
-evaporator channels which had the lowest degree of superheat at their
-outlets has been added at the inlet of the air ducting. This plate and
-its influence on the superheating profile along the height of the
+The evaporator of the \AWP{} is pictured on \cref{fig:awp-ev}. The air
+ducting of the heat pump housing used as a base for the \AWP{} design
+occurred to be designed with compactness in mind and has not been
+designed for optimum air streams or noise reduction. The goal of the
+designers was clearly to design a heat pump unit able to go through
+the width of a conventional domestic doorway. As a result of those
+design choices, the air stream distribution in the air ducting was far
+from being satisfactory, as detailed in
+\cref{sec:awp-issue-reducing-oh}. In order to try to compensate for
+this issue, a plate drilled with holes in front of the evaporator
+channels which had the lowest degree of superheat at their outlets has
+been added at the inlet of the air ducting. This plate and its
+influence on the superheating profile along the height of the
 evaporator are detailed in \cref{sec:awp-issue-reducing-oh}.
 
 \subsection{4-way valve}
@@ -380,7 +381,7 @@ A 4-way reversing valve is included in the heat pump circuits in order
 to switch between heating-mode, cooling-mode, and defrosting-mode. It
 can be seen in \cref{fig:awp-4way-valve-in-circuits}. Such a valve
 allows the condenser and evaporator to exchange their role in the heat
-pump cycle in order to defrost the evaporator during the heating
+pump cycle, in order to defrost the evaporator during the heating
 period, or for space cooling application. The flow of the refrigerant
 in the exchangers is reversed and the roles of the exchangers are
 exchanged. The valve is mounted on the suction line of the first
@@ -400,7 +401,9 @@ which has certainly contributed to increase the leakage between the
 suction and discharge ports, as the oil acts also as a sealant. This
 leakage is neglected in the frame of this study. The 4-way valve in
 the \AWP{} is the valve that was already present in the industrial
-partner heat pump delivered to EPFL.
+partner heat pump delivered to EPFL. As it had been sized for R407C,
+this valve was slightly small to be used with R134a, as confirmed in
+\cref{sec:awp-issue-4way}.
 
 \begin{figure}[htbp]
   \centering
@@ -427,18 +430,19 @@ unit itself.
 \section{Prototype performance}
 \label{sec:awp-perfs}
 
-A stable\footnotep{An OP is considered
-  stable if it qualifies to defined conditions. See
-  \cref{sec:stable-op} page~\pageref{sec:stable-op} for details.} \OP{} insures that the experimental setup is in a steady
-state, which allows to use the modeling technique presented in
-\cpref{sec:methodo-models}. Indeed, one of the main assumptions of
-this modeling technique is that the system being analyzed is in a
-steady state. The maximum rotor speed reached with the compressor unit is 180
-krpm, which is the maximum rotor speed of the compression unit, by
-design. The maximum rotor speed reached for a stable \OP{} is 171
-krpm.
+A stable\footnotep{An OP is considered stable if it qualifies to
+  defined conditions. See \cref{sec:stable-op}
+  page~\pageref{sec:stable-op} for details.} \OP{} ensures that the
+experimental setup is in a steady state, which allows to use the
+modeling technique presented in \cpref{sec:methodo-models}. Indeed,
+the data recorded were not enough to use a dynamic modeling approach,
+but were appropriate for a steady state modeling approach. The maximum
+rotor speed reached with the compressor unit is 180 krpm, which is the
+maximum rotor speed of the compression unit, by design, and also the
+maximum speed configured in the inverter. The maximum rotor speed
+reached for a stable \OP{} is 171 krpm.
 
-The first and the second \OP{}, A-6.8/W31.3 and A-7.0/W32.3 are two
+The first and the second \OP{}, A-6.8/W31.3 and A-7.0/W32.3, are two
 similar \OP{}\footnotep{The first and second OP are detailed
   respectively in \cpref{sec:awp-exp-details-A-6.8/W31.3} and
   \cpref{sec:awp-exp-details-A-7.0/W32.3}.}, regarding temperature
@@ -449,7 +453,7 @@ heat pump circuits is detailed in \cref{sec:awp-issue-4way}. The third
   \cpref{sec:awp-exp-details-A-7.0/W35.6}.}, A-7.0/W35.6, yields the
 highest temperature lift between the sources. It allows a comparison
 of the \AWP{} with industrial products currently on the market, since
-A-7/W35 is a common \OP{} for heat pump ranking and
+the \OP{} A-7/W35 is common \OP{} heat pump ranking and
 comparison \citep{EN-14511-3}. The next three \OP{}\footnotep{Those 3
   OP are detailed respectively in
   \cpref{sec:awp-exp-details-A-0.5/W20.7},
@@ -563,9 +567,11 @@ in the domain.
   \end{center}
   \caption[AWP and similar industrial domestic heat pumps coefficient
   of performance]{AWP and similar industrial domestic Air/Water heat
-    pumps, currently on the market, coefficient of performance for the
+    pumps, currently on the market, \COP{} for the
     OP A-7/W35. Noise level corresponds to the external side sound
-    level enveloppe.}
+    level envelope. The Air/Water heat pumps \COP{} takes in account
+    the defrosting process. The \AWP{} \COP{} does not include the
+    defrosting process.}
   \label{tab:awp-indus-products-comparison}
 \end{table}
 
@@ -583,23 +589,23 @@ a negative influence on the prototype efficiency and performance.
 
 The compressor thrust bearing is a two sided inward pumping spiral
 groove thrust bearing. Under normal operating conditions such a
-bearing is known for generating a gas flow from the bearings OD
-towards the bearings ID. As described in \cref{sec:awp-cp-unit}, this
-normal behavior is not observed in component \#24 which is one side of
-the set of axial bearings. Indeed, the gas bearings aeration circuit
-was set as described in \cref{fig:cp105-struct-awp}. The appropriate
-setting is described in \cpref{fig:cp101-struct-bwp}. A comparison of
-the normal setting and the setting used in the \AWP{} shows that the
-outlet of the gas bearings aeration circuit in the compression unit is
-connected as an inlet. This means that the gas can only flow from the
-components \#13 and \#12 inlets to component \#11 outlet through
-component \#24, in the reverse way regarding bearing flow. The flow
-here is imposed by the pressure levels in the circuit. The compressor
-has been plugged in this way following the industrial partner
-requirements, and as the internal design of the compression unit was
-unknown by the author. The industrial partner was expecting to solve
-the issue documented in \cref{sec:awp-P-balance} by plugging in the
-compressor this way.
+bearing is known for generating a gas flow from the bearings outside
+diameter towards the bearings inside diameter. As described in
+\cref{sec:awp-cp-unit}, this normal behavior is not observed in
+component \#24, which is one side of the set of axial
+bearings. Indeed, the gas bearings aeration circuit was set as
+described in \cref{fig:cp105-struct-awp}. The appropriate setting is
+described in \cpref{fig:cp101-struct-bwp}. A comparison of the normal
+setting and the setting used in the \AWP{} shows that the outlet of
+the gas bearings aeration circuit in the compression unit is connected
+as an inlet. This means that the gas can only flow from the components
+\#13 and \#12 inlets to component \#11 outlet through component \#24,
+in the reverse way regarding bearing flow. The flow here is imposed by
+the pressure levels in the circuit. The compressor has been plugged in
+this way following the industrial partner requirements, and as the
+internal design of the compression unit was unknown by the author. The
+industrial partner was expecting to solve the issue documented in
+\cref{sec:awp-P-balance} by plugging in the compressor this way.
 
 \subsection{Excess of compressor thrust forces during
   deceleration}
@@ -621,17 +627,17 @@ fast, since the rotor is mechanically loaded by the compressor
 work. In less than 2 seconds, the rotor speed drops below 100
 krpm. Below 30 krpm, bearing touch-down occurs. Between 60 and 80
 krpm, there is a dangerous operation zone, in particular if there is a
-high pressure level difference between the zones. This
-is typically the case in a running heat pump cycle, where the pressure
-levels are determined by the temperature levels of the
-sources. Depending on the design of the heat pump circuits, pressure
-level differences can also be observed in the compression unit at
-specific times. As differences of pressure levels in the compression
-unit induces thrust forces on the axial bearing, and as both the
-bearing stiffness and load capacity increase with rotor speed, there
-are situations where the external force applied on the bearings might
-be high for their nominal load capacity, especially with an unexpected
-reversed flow on one side of the bearing.
+high pressure level difference between the zones. This is typically
+the case in a running heat pump cycle, where the pressure levels are
+determined by the temperature levels of the sources. Depending on the
+design of the heat pump circuits, pressure level differences can also
+be observed in the compression unit at specific times. As differences
+of pressure levels in the compression unit induce thrust forces on the
+axial bearing, and as both the bearing stiffness and load capacity
+increase with rotor speed, there are situations where the external
+force applied on the bearings might be high for their nominal load
+capacity, especially with an unexpected reversed flow on one side of
+the bearing.
 
 When the \AWP{} runs at a given \OP{}, the pressure across the second
 stage compressor varies from intermediate level to high pressure
@@ -645,7 +651,7 @@ case of uncareful stop, which means stopping the prototype without
 decreasing the gap between the temperature levels of the sources,
 emergency stop, or power failure), the bypass circuits of the
 compression stages\footnotep{See \cpref{sec:awp-bypass} for details
-  about the bypass circuits.} are opened in order to avoid the surge
+  about the bypass circuits.} are open in order to avoid the surge
 phenomenon\footnotep{See \cpref{sec:op-domain} for details about the surge
   phenomenon.}. As the rotor speed decreases, it reaches the dangerous
 zone described above, the pressure level in the second compression
@@ -725,7 +731,7 @@ temperatures were measured\footnotep{Refer to the layout in
   temperatures measurement points.}, the gas temperatures inside the
 compressor unit are deduced from the model presented in
 \cref{sec:awp-model}. The solving of this model allows the conclusions
-presented in \cref{sec:awp-laby-seal-hot-gas-assumptions}.
+presented in this section.
 
 \begin{table}
   \footnotesize
@@ -733,7 +739,12 @@ presented in \cref{sec:awp-laby-seal-hot-gas-assumptions}.
     \input{awp-results/awp-table-160krpm-heat.ins}
     %%% TODO: rewrite the MATLAB function to get bold automatically
   \end{center}
-  \caption{Temperatures and heat energy exchanges inside the compression unit}
+  \caption{Temperatures and heat energy exchanges inside the
+    compression unit. The uncertainties are not all the same for every
+    experiments because some sensors have been damaged between the different
+    experiments. Indeed, the measurement points were equipped with one,
+    two, or three thermocouples. Consequently, the values measured
+    have not been measured all the time with the same number of sensors.}
   \label{tab:awp-cp-unit-cdtns}
 \end{table}
 
@@ -790,7 +801,7 @@ results leads to the following conclusions:
 \label{sec:awp-laby-seal-hot-gas-assumptions}
 
 
-\paragraph{Location of the hottest point}
+\paragraph{Location of the hottest point:}
 
 The results of the solving of the model for each of the stable \OP{},
 summarized on \cref{fig:awp-cp-unit-gas-T}, let assume that the
@@ -815,7 +826,7 @@ detailed thermal monitoring of the compression unit and its flows, as
 it would allow to add more constraints in the model objective
 function.
 
-\paragraph{Gradient of temperature along the shaft}
+\paragraph{Gradient of temperature along the shaft:}
 
 The temperatures observed through the solving of the \AWP{} model let
 think that the shaft axial thermal gradient is quite strong close to
@@ -833,7 +844,7 @@ appropriate, with this configuration of flow.
 
 
 \paragraph{Improvement of the thermal design of the
-  compression unit}
+  compression unit:}
 
 Thermal management is an important area of the design of such
 compression units, since the gaps between the parts are very small and
@@ -843,7 +854,7 @@ thermal design and management of the compression unit is very
 important to reach a good performance of the device and the integrated
 multi-objective design method they propose takes the thermal
 management into account through a lumped parameter approach. The unit
-has been designed to sustain such high temperature, but with the idea
+has been designed to sustain such high temperatures, but with the idea
 in mind that the refrigerant used in the heat pump circuits would be
 cleared from every trace of lubricant oil. Reaching such high
 temperatures could create troubles due to the lubricant pollution
@@ -860,7 +871,7 @@ to the condenser.
 \subsubsection{Scenarios to test in future work}
 \label{sec:awp-laby-seal-hot-gas-next}
 
-\paragraph{Improved thermal management of the unit}
+\paragraph{Improved thermal management of the unit:}
 
 In 2013, \citet[p.\,1--2]{schiffmann-2013a} highlights the importance
 of the thermal management in small scale radial compressors. He shows
@@ -871,11 +882,11 @@ losses \citep[tab. 4 p.\,6]{schiffmann-2013a}. Consequently, a first
 improvement would be to use bearings geometries which generate less
 windage losses. It could also be possible to decrease the pressure
 drop of the filter on the gas bearings aeration circuit, for example
-by expanding its surface or integrate some of them in parallel, in order
-to increase the mass flow rate in this aeration circuit. This increase
+by expanding its surface or set some of them in parallel, in order to
+increase the mass flow rate in this aeration circuit. This increase
 would result in a better heat dissipation in the unit. The shaft could
-also maybe be redesigned in order to offer more surface to the aeration
-flow, which would result in a better heat dissipation.
+also maybe be redesigned in order to offer more surface to the
+aeration flow, which would result in a better heat dissipation.
 
 Moreover, having such a dissipation of energy in the axial bearing
 area implies a high temperature of the impeller, and especially of the
@@ -889,11 +900,11 @@ efficiency appears quite low ($\eta_{cp1,s,ext}$ in
 \cref{tab:awp-cp-unit-isentropic-cdtns}). In fact, the first
 compression stage isentropic efficiency is quite high ($\eta_{cp1,s}$
 in \cref{tab:awp-cp-unit-isentropic-cdtns}), but is decreased a lot by
-the leakage. Those phenomena decrease the efficiency of the
-compression unit, and consequently, the efficiency of the whole heat
-pump cycle.
+the leakage and the heat exchange. Those phenomena decrease the
+efficiency of the compression unit, and consequently, the efficiency
+of the whole heat pump cycle.
 
-\paragraph{Correlation of the thermal profile with the rotor speed}
+\paragraph{Correlation of the thermal profile with the rotor speed:}
 
 So far, no direct correlation could be found between the energy rate
 flowing from the shaft to the impellers $\dotQ{11}{1}$ and the
@@ -907,7 +918,7 @@ stages. Those leaks are detailed in
 $\dotM{10}{25}$.
 
 \subsection{Mixing and separating gas and liquid in the
-  economizer}
+  economizer:}
 \label{sec:awp-issue-eco-separation}
 
 \Cref{fig:awp-eco-gas-liq-sep-1-to-5} shows the different versions of
@@ -964,14 +975,14 @@ The experiments were performed in heating mode. Some of those
 experiments were performed with the normal circuit, through the 4-way
 valve, and some were performed with a bypass around the 4-way
 valve. \Cref{fig:awp-w-wo-4way-diagrams} shows the thermodynamic
-diagrams for two similar \OP{}, with and without 4-way
-valve. The \OP{} are similar in term of level of temperatures but
-there are some significant differences, stressed out in
+diagrams for two similar \OP{}, with and without 4-way valve. The
+\OP{} are similar in term of level of temperatures but there are some
+significant differences, stressed out in
 \cref{tab:awp-4way-differences}\footnotep{More details about those
   \OP{} are available in
   \cref{sec:awp-exp-details-A-6.8/W31.3,sec:awp-exp-details-A-7.0/W32.3}
-  page~\pageref{sec:awp-exp-details-A-6.8/W31.3} and page
-  \cref{sec:awp-exp-details-A-7.0/W32.3}.}. The pressure drop
+  page~\pageref{sec:awp-exp-details-A-6.8/W31.3} and
+  page~\pageref{sec:awp-exp-details-A-7.0/W32.3}.}. The pressure drop
 difference on the vapor lines can be observed on the enthalpy diagram
 and is detailed in \cref{tab:awp-4way-differences}. This example makes
 the disadvantage of using a reversing 4-way valve very clear. Indeed,
@@ -1039,6 +1050,7 @@ superheat in the gas flow.
   \label{fig:awp-maldistribution}
 \end{figure}
 
+
 The maldistribution observed in the refrigerant flow is caused by 2
 factors:
 
@@ -1050,9 +1062,9 @@ factors:
 \item a non-ideal distribution of the air flow in the air ducting
   implying uneven speed profiles in the evaporator section. According
   to the location of the fan in the air flow, upper channels are
-  clearly exposed to a higher air mass flow rate. Clearly, the design
-  of this air ducting emphasizes on compactness, not on effectiveness
-  of the heat exchange.
+  exposed to a higher air mass flow rate. Clearly, the design of this
+  air ducting emphasizes on compactness, not on effectiveness of the
+  heat exchange.
 \end{itemize}
 
 None of these two factors could be quantified and studied in
@@ -1121,29 +1133,27 @@ experience.
 
 As the compression unit is a radial compression machine, it needs to
 be equipped with a compressors bypass system. Indeed, in order to
-start the installation away from the surge domain\footnotep{See
-  \cpref{sec:op-domain} for details about what is the surge phenomenon
-  and why avoiding it.}, the characteristics of the circuit needs to
-be contained into the operation range of the compressors\footnotep{See
-  \cpref{fig:bypass-in-maps} for an illustration of the bypass
-  circuits flow characteristics in compression maps.}, represented by
-the inner surface of the compressors maps. In heat pump applications,
-starting an installation without bypass systems is likely to yield
-operation outside of the radial compressor map, at least during the
-start-up time. Indeed, in domestic heat pumps applications the sources
-temperature levels can not be changed by the heat pump control, as
-those temperature levels are imposed by the environment and by the
-house. Having defined temperature levels imposes defined pressure
-levels at the main heat exchangers and consequently, at the inlet of
-the first compression stage and at the outlet of the second
-compression stage. For a radial compressor, starting up with no mass
-flow rate and an already existing pressure ratio would result in surge
-which might damage the compressor. In order to avoid this situation,
-the compression unit is started within a bypass circuit which provides
-flow resistance characteristics compliant with the compressor
-maps. Namely, this implies that the characteristics of the bypass
-circuits always fits into the compressors maps, as illustrated
-\cref{fig:bypass-in-maps}.
+start the installation away from the surge domain, the characteristics
+of the circuit needs to be contained into the operation range of the
+compressors\footnotep{See \cpref{fig:bypass-in-maps} for an
+  illustration of the bypass circuits flow characteristics in
+  compression maps.}, represented by the inner surface of the
+compressors maps. In heat pump applications, starting an installation
+without bypass systems is likely to yield operation outside of the
+radial compressor map, at least during the start-up time. Indeed, in
+domestic heat pumps applications the temperature levels of the sources
+can not be changed by the heat pump control, as those temperature
+levels are imposed by the environment and by the house. Having defined
+temperature levels imposes defined pressure levels at the main heat
+exchangers and consequently, at the inlet of the first compression
+stage and at the outlet of the second compression stage. For a radial
+compressor, starting up with no mass flow rate and an already existing
+pressure ratio would result in surge which might damage the
+compressor. In order to avoid this situation, the compression unit is
+started within a bypass circuit which provides flow resistance
+characteristics compliant with the compressor maps. Namely, this
+implies that the characteristics of the bypass circuits always fits
+into the compressors maps, as illustrated \cref{fig:bypass-in-maps}.
 
 The implemented procedure to start the heat pump prototype is:
 
@@ -1157,10 +1167,10 @@ The implemented procedure to start the heat pump prototype is:
   first while the first compression stage is being bypassed. When
   liquid arrives in the economizer, the lower part of the cycle is
   also started.
-\item The compression unit is started at 60 krpm with fully opened
+\item The compression unit is started at 60 krpm with fully open
   bypass circuits and fully closed expansion valves.
 \item The second stage bypass circuit is closed and the second stage
-  expansion valve is opened, but not much. A typical value is 20\% of
+  expansion valve is open, but not much. A typical value is 20\% of
   opening for this valve in this situation. As the bypass circuits are
   made of a manual needle valve and a solenoid valve, in the \AWP{},
   the upper part of the cycle switches from the bypass circuit to the
@@ -1179,9 +1189,9 @@ The implemented procedure to start the heat pump prototype is:
   valve is set to an opening small enough to increase the pressure
   level at the condenser and get some degrees of subcooling at the
   condenser outlet.
-\item The first stage expansion valve is opened with a small opening
-  and the first compression stage bypass circuit is closed. Typically,
-  the first compression stage enters the surge domain as the pressure
+\item The first stage expansion valve is open with a small opening and
+  the first compression stage bypass circuit is closed. Typically, the
+  first compression stage enters the surge domain as the pressure
   difference between the economizer and the evaporator is already not
   equal to zero anymore and no refrigerant flows yet through the
   valve, while some gas is being pumped in the evaporator. With no
@@ -1213,25 +1223,25 @@ with a low difference between the sources temperature levels.
 
 \begin{enumerate}
 \item The heat pump operates at a given \OP{}.
-\item Both bypass circuits are opened and expansion valves are closed.
+\item Both bypass circuits are open and expansion valves are closed.
 \item The compression unit rotational speed is decreased to 120 krpm
   where the stiffness of the bearings is already good and the rotation
   speed reasonably lowered.
 \item The reversing 4-way valve is activated. Liquid might flow from
   the condenser to the first stage separator.
 \item The first stage bypass circuit is closed. The first stage
-  expansion valve is opened with a small opening. The goal is to get
-  an opening big enough to stay away from the surge domain, but small
+  expansion valve is open with a small opening. The goal is to get an
+  opening big enough to stay away from the surge domain, but small
   enough to create a significant pressure ratio and decreasing this
   way the pressure in the separator. The second stage expansion valve
-  is closed and the second stage bypass circuit is opened. The liquid
-  in the separator has to be evaporated before increasing the
-  compression unit rotational speed too much, in order to prevent
-  droplets and liquid suction into the first compression stage. The
-  liquid evaporates with the combined action of the energy rate coming
-  from the subcooler circuit and the decreasing of the pressure level
-  in the evaporator, through the reduction of the first stage
-  expansion valve opening.
+  is closed and the second stage bypass circuit is open. The liquid in
+  the separator has to be evaporated before increasing the compression
+  unit rotational speed too much, in order to prevent droplets and
+  liquid suction into the first compression stage. The liquid
+  evaporates with the combined action of the energy rate coming from
+  the subcooler circuit and the decreasing of the pressure level in
+  the evaporator, through the reduction of the first stage expansion
+  valve opening.
 \item When the liquid in the separator is evaporated, the compression
   unit rotational speed can be increased again.
 \end{enumerate}
@@ -1239,15 +1249,15 @@ with a low difference between the sources temperature levels.
 \subsection{Procedure to stop the cycle}
 \label{sec:awp-proc-stop}
 
-\paragraph{During experiments}
+\paragraph{During experiments:}
 
 During the experiments, the sources temperature levels difference was
 gradually reduced in order to be below \num{10}\si{\kelvin}. The
-compressor bypass circuits were opened, and the compression unit
+compressor bypass circuits were open, and the compression unit
 rotational speed was reduced to 120 krpm and then, the unit was
 stopped.
 
-\paragraph{Normal operation}
+\paragraph{Normal operation:}
 
 Originally, the industrial partner had requested that the filter
 included in component \#26 is bypassed by the activation of the
@@ -1267,7 +1277,7 @@ temperature levels difference (reducing consequently the pressure
 level differences, which was also reducing the efforts on the axial
 gas bearing) and to simply stop the compression unit.
 
-\paragraph{Emergency situations}
+\paragraph{Emergency situations:}
 
 In emergency situation, the procedure would be to open the solenoid
 valve between components \#26 and \#21, and as the compression unit
@@ -1363,7 +1373,7 @@ flow was too low and the refrigerant was leaving the motor cooling
 chamber with too much superheat. This phenomenon can be observed in
 the diagrams in
 \cref{fig:awp-too-low-motor-cooling-flow,fig:awp-w-wo-4way-diagrams}. At
-this flow regulation problem is added the oil separation problem,
+this flow regulation problem, is added the oil separation problem,
 which is detailed in \cref{sec:awp-issue-oil+corrosion}. Indeed, in
 the \AWP{}, the motor cooling chamber acts as a lubricant oil
 separation device. The compression unit \textit{cp101}, after being
@@ -1375,16 +1385,16 @@ chamber was probably performing with an effective cooling of the upper
 part of the motor and a defective cooling of the lower part, mainly
 surrounded by refrigerant liquid saturated of lubricant oil. Of
 course, the presence of this oil significantly decreases the
-performance of the motor cooling system \citep{}, as the gap between
-the two walls of the motor cooling chamber is small, and because there
-is no circulation of the refrigerant around the motor. A defective
-motor cooling system can result in unexpected deformations of the
-motor parts, and especially of the shaft and can also result in an
-overheat of those parts, damaging them heavily. The mounting of the
-magnets on the shaft is also sensitive to overheat. Consequently, a
-flow boiling motor cooling system might be a better option for the
-motor cooling circuit until clean and lubricant-free refrigerant can
-be obtained and guaranteed by the industry supply chain.
+performance of the motor cooling system, as the gap between the two
+walls of the motor cooling chamber is small, and because there is no
+circulation of the refrigerant around the motor. A defective motor
+cooling system can result in unexpected deformations of the motor
+parts, and especially of the shaft and can also result in an overheat
+of those parts, damaging them heavily. The mounting of the magnets on
+the shaft is also sensitive to overheat. Consequently, a flow boiling
+motor cooling system might be a better option for the motor cooling
+circuit until clean and lubricant-free refrigerant can be obtained and
+guaranteed by the industry supply chain.
 
 \begin{figure}[htbp]
   \centering
@@ -1405,9 +1415,9 @@ be obtained and guaranteed by the industry supply chain.
   \#8)\index{economizer} was barely affected during the experiments by
   the settings of the prototype, including compressor speed and valves
   settings.
-  \item The subcooling value was stabilizing itself around an almost
-  fixed value and was independent of the setting of the second stage
-  expansion valve.
+\item The subcooling value was stabilizing itself around an almost
+  fixed value and was almost independent of the setting of the second
+  stage expansion valve.
 \end{itemize}
 
 \begin{figure}[htbp]
@@ -1415,8 +1425,8 @@ be obtained and guaranteed by the industry supply chain.
   \includegraphics[width=11cm]{control-ppe-with-2cp}
   \caption[The flow rates of the compression stages are bound
   together]{The mass flow rates of the two compression stages are
-    bound together through the pressure levels and current
-    compression unit rotational speed. }
+    bound together through the pressure levels and compression unit
+    current rotational speed. }
   \label{fig:awp-control-ppe-2cp}
 \end{figure}
 
@@ -1428,9 +1438,9 @@ external conditions, hot source inlet and outlet temperatures are
 imposed. The second compression stage provides the heating service to
 the house, so its mass flow rate and pressure level is set by the
 external conditions. The intermediate pressure level and the choice of
-the compressor rotation speed set the first stage compressor mass flow
-rate, as shown in \cref{fig:awp-control-ppe-2cp}. However, the main
-function of the first stage expansion valve is to maintain an
+the compressor rotation speed sets the first stage compressor mass
+flow rate, as shown in \cref{fig:awp-control-ppe-2cp}. However, the
+main function of the first stage expansion valve is to maintain an
 overheating value at the first stage compressor inlet. So, the valve,
 trying to reach the desired level of overheating, will influence the
 first stage mass flow rate and the intermediate pressure level
@@ -1454,8 +1464,8 @@ the experiments, the sources temperatures and mass flow rate have been
 modified to stabilize the \OP{}, as the heat pump was controlled
 manually. Moreover, mass flow rates in the auxiliary circuits, which
 have been neglected in this argumentation, have to be taken in account
-in the control law and the first assumption of an economizer perfectly
-insulated is obviously wrong, which implies that the heat energy
+in the control law and the first assumption of a perfectly insulated
+economizer is obviously wrong, which implies that the heat energy
 exchanges of the economizer with its environment have an influence on
 the control of the heat pump. Finally, it could be also necessary to
 modify one of the compression stages with a variable geometry set
@@ -1510,7 +1520,7 @@ being is this mode, the rotor speed needs to be increased up to a
 value high enough to maintain the compression stage outside the surge
 domain. This mode can not be used for a long time, as the motor of the
 compression unit might not be cooled down efficiently during those
-periods for reasons details further in this section. As soon as some
+periods for reasons detailed further in this section. As soon as some
 liquid flows in the economizer through the valve, the valve control
 law switches to normal mode. In normal mode, the subcooling value is
 above zero and the valve is regulated through the level of liquid in
@@ -1524,7 +1534,7 @@ is a classical control which function is to secure a chosen value of
 superheat at the outlet of the evaporator (and not at the inlet of the
 compression stage). If the level of superheat is too low, the valve
 closes, if it is too high, the valve opens. If no liquid is detected
-in the economizer, the valve is in starting mode and is fully opened.
+in the economizer, the valve is in starting mode and is fully open.
 
 With the settings presented above, the intermediate pressure is
 defined as the pressure level associated to the temperature of the
@@ -1551,14 +1561,14 @@ specific compressor being mounted in the installation and that the
 control law are parametrized with parameters of the compressor maps. A
 mathematical model of compressor maps is proposed in
 \cpref{chap:cp-maps-models}. If such models are used, the parameters
-of those maps models could eventually be used to parametrize the
+of those map models could eventually be used to parametrize the
 control laws for the economizer liquid level. Moreover, those control
 laws might be dependant of the refrigerant charge being filled up in
 the circuits and this might be a parameter to include in the control
 laws.
 
 The motor cooling valve in starting mode is fully
-closed\footnotep{Starting mode is used if there is no liquid in the
+closed\footnotep{The starting mode is used if there is no liquid in the
   economizer or if the subcooling value is close to zero at the
   condenser outlet.}. In normal mode, it regulates the temperature of
 the motor around a chosen value. If the motor temperature is below
@@ -1592,7 +1602,7 @@ The compression unit rotation speed is determined using the two following rules:
 \item If the control system is in normal mode, which means that the
   compression unit speed is high enough to not be in starting mode,
   the compression unit speed is chosen with the compressor maps to get
-  the higher efficiency. The higher efficiency can be defined, at
+  the highest efficiency. The highest efficiency can be defined, at
   first, as the best global compression unit isentropic efficiency
   (being the product of the isentropic efficiencies of each
   compression stages), and ultimately, defined as the best accessible
@@ -1601,7 +1611,7 @@ The compression unit rotation speed is determined using the two following rules:
   pump\footnotep{Those efficiencies and effectiveness are defined in
     \cpref{sec:methodo-indicators}.}. Those best efficiencies can be
   obtained for the controller using a model-based or predictive
-  control \citep{Fallahsohi-LinShi-2010a} approach.
+  control approach \citep{Fallahsohi-LinShi-2010a}.
 \end{itemize}
 
 \FloatBarrier

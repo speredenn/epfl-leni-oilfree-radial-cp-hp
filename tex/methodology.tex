@@ -9,7 +9,6 @@
   methodology to validate this statement.
 \end{shaded}
 
-
 \Cref{chap:intro} states that better domestic heating systems are
 needed and that heat pumps are one of the best candidates for this
 improvement. \Cref{chap:sota} demonstrates that multistage oil-free
@@ -42,7 +41,7 @@ section is demonstrated experimentally directly. Two prototypes, the
 \AWP{} and the \BWP{}, have been designed, assembled, then
 characterized with one \OP{}, or more (6 \OP{} have been tested for
 the \AWP{}, including the A-7/W35 \OP{}, and 1 \OP{} for the
-\BWP{}). The issues encountered and paths of improvements for those
+\BWP{}). The issues encountered and paths of improvement for those
 prototypes are discussed in \cref{chap:awp,chap:bwp}.
 
 \section{Demonstration of potential}
@@ -92,9 +91,9 @@ order to test a new bypass system, likely to solve the issues observed
 with the \AWP{}. The \AWP{} was more an industrial prototype than an
 academic experimental setup and took advantage of the ideas and
 thinking process which led to the design of the \BWP{}, and to some
-extend, from the experience of the failed experiments performed on the
-\BWP{} with the defectuous compression units. The modified \BWP{} is
-presented in \cref{chap:bwp} and has been tested in 2013. The
+extents, from the experience of the failed experiments performed on
+the \BWP{} with the defectuous compression units. The modified \BWP{}
+is presented in \cref{chap:bwp} and has been tested in 2013. The
 experience gained with the two first prototypes suggests further
 integration and ideas for the next prototypes. Those concepts and
 proposals are exposed in \cpref{chap:cp-intg}.
@@ -109,7 +108,7 @@ control and switching between modes such as defrosting-mode,
 heating-mode, cooling-mode and start \& stop procedures are only
 evoked in the form of remarks and comments and need further
 developments and analysis, as they imply more dynamic tests of the
-prototypes, which has not been performed so far. They are consequently
+prototypes, which have not been performed so far. They are consequently
 out of the scope of this thesis work. However, the remarks and
 comments are inspired by the observations made during the experiments
 and are summarized in \cref{chap:cp-intg}.
@@ -198,8 +197,9 @@ The modeling methodology follows the steps detailed below:
 
 \begin{description}
 \item [Draw a layout of the installation and the frontier of the
-  analysis]where appears \textbf{all} the flow rates and possible
-  entities. Every flow rates need to be visible on the layout.
+  analysis]where \textbf{all} the flow rates and possible entities
+  appear. All the existing flow rates need to be visible on the
+  layout.
 \item[Separate the layout in components.] A component is a network, as
   intended by \citet[p.\,24--25]{Borel-Favrat-2010a}, and corresponds
   to an element where flows enter and leave, partially (if there are
@@ -214,32 +214,34 @@ The modeling methodology follows the steps detailed below:
   paradigm, is made of two components which exchange heat energy. In
   the next chapters, the compression unit will be modeled as many
   components exchanging mass or energy (details about this modeling of
-  the compression unit are given in \cref{chap:cp-intg}). This thesis
-  work uses steady-state models. In steady state conditions, mass and
-  energy balances are equal to zero for every components, as for the
-  whole system delimited by a frontier. There is no mass change of the
-  components. The components are assigned with a number. The modeling
-  approach presented here could also be used to generate quasi-static
-  models or dynamic models.
+  the compression unit are given in \cref{chap:awp} \&
+  \cref{chap:bwp}). This thesis work uses steady-state models. In
+  steady state conditions, mass and energy balances are equal to zero
+  for every components, as for the whole system delimited by a
+  frontier. There is no mass change of the components. The components
+  are assigned with a number. The modeling approach presented here
+  could also be used to generate quasi-static models or dynamic
+  models, if enough data is available.
 \item[Transform the layout view into the model view.] Each component
   exchanges energy or mass with other components. The representation
   of the model using the GraphViz modeling paradigm from
   \citet{Gansner-North-2000a}, typically dedicated to sofware
   engineering modeling, is unusual in the thermodynamic modeling field
-  and is a representation analogy proposed by this thesis work. In the
-  opposite, the modeling itself, using mass and energy balances is a
-  common modeling approach in the thermodynamic field. Each type of
-  energy is represented with a bold and colored arrow, and the mass
-  flow rates are represented with thin black arrows. The convention is
-  that positive energy or mass flow rates enter the
-  components. Negative flows leave the components. This means that a
-  negative value results in a flow moving against the arrow. The
-  notation indicates the direction of the arrow with subscripts using
-  the numbers or the components, separated by an arrow.
+  and is a representation analogy proposed by the author of this
+  thesis work. In the opposite, the modeling itself, using mass and
+  energy balances is a common modeling approach in the thermodynamic
+  field. Each type of energy is represented with a bold and colored
+  arrow, and the mass flow rates are represented with thin black
+  arrows. The convention is that positive energy or mass flow rates
+  enter the components. Negative flows leave the components. This
+  means that a negative value results in a flow moving against the
+  arrow. The notation indicates the direction of the arrow with
+  subscripts using the numbers or the components, separated by an
+  arrow.
 \item[Determine the equations.] Each components gives two equations: a
-  mass flow rates balance equation, as detailled in
+  mass flow rates balance equation, as shown in
   \cref{eq:mass-balances-eq-general}, and an energy rates balance
-  equation, as detailed in \cref{eq:energy-balances-eq-general}. By
+  equation, as shown in \cref{eq:energy-balances-eq-general}. By
   convention, each transformation energy rate\footnotep{See
     \cpref{sec:methodo-defs}, for a definition of the transformation
     energy rate.} is included in the equation using the outlet
@@ -250,8 +252,8 @@ The modeling methodology follows the steps detailed below:
   balance equation. In the case of dynamic modeling, the mass and
   energy balance equations are not equal to zero. A steady-state
   approach has been favored in this thesis work because the data
-  collected during the experiments were not sufficient to solve
-  equations not equal to zero\footnotep{Fitting a dynamic model of the
+  collected during the experiments were not enough to solve equations
+  not equal to zero\footnotep{Fitting a dynamic model of the
     prototypes would have required to know the variation of mass of
     the components. Most of the components mass variation can be
     neglected, but the variation of mass of the condenser, the
@@ -259,11 +261,11 @@ The modeling methodology follows the steps detailed below:
     alternatively, the mass flow rates entering and leaving those
     components can be measured, but this is technically far more
     difficult and inconvenient). Those measurements were planned to be
-    made in the BWP. Most of the experiments have been performed on
-    the AWP. The BWP has only given a single OP and the load cells
+    made in the BWP, but most of the experiments have been performed
+    on the AWP. The BWP has only given a single OP and the load cells
     were not calibrated at the time, as this is a procedure which was
     planned for the next experiments. For more details, see
-    \cpref{chap:awp}, and cpref{chap:bwp}.}.
+    \cpref{chap:awp}, and \cpref{chap:bwp}.}.
 
 \begin{equation}
   \label{eq:mass-balances-eq-general}
@@ -279,22 +281,24 @@ The modeling methodology follows the steps detailed below:
   \tagaddtextone{$\left[\si{\watt}\right]$}
 \end{equation}
 
-\item[Solve the system of equations.] Mass flow rate balance equation
-  have the priority. They are solved first, if possible. When no more
-  equations can be solved, a fitting parameter is added with the
-  introduction of a new relation bounding 2 variables together. For
-  instance, this can be introduced for a flow which is divided in
-  two. The proportion of the entering flow leaving in one of the
-  leaving flows is characterized here with a splitting parameter.
+\item[Solve the system of equations.] Mass flow rates balance
+  equations have the priority. They are solved first, if
+  possible. When no more equations can be solved, a fitting parameter
+  is added with the introduction of a new relation bounding 2
+  variables together. For instance, this can be introduced for a flow
+  which is divided in two. The proportion of the entering flow leaving
+  in one of the leaving flows is characterized here with a splitting
+  parameter. When all the mass flow rates are determined, the energy
+  balance equations are written with the same method.
 
 \item[Implement the model.] As soon as every variable can be
   expressed, the model is implemented in a modeling software (here,
-  the MathWorks MATLAB) and the set of equation is solved with a
+  the MATLAB from MathWorks) and the set of equations is solved with a
   solver. The solver tries to fit the parameter that were added to
   express every variable as an expression in order to get the lowest
   objective function value. If no fit parameter was added, the level
   of information of the system is sufficient and the set of equations
-  should be closed, within the limits of the measurement uncertainty
+  should close, within the limits of the measurement uncertainty
   ranges. A set of equations is considered closed, in steady state
   conditions, if every energy and mass balance of every component and
   the balances at the frontier of the system are equal to zero. If fit
@@ -305,9 +309,9 @@ The modeling methodology follows the steps detailed below:
   optimization algorithm. In this work, the MATLAB
   \textit{fmincon}\,\citep{fmincon2014a} function has been used with
   an interior point algorithm, which was the best suited to solve this
-  problem \citep{fmincon2014a-interiorpoint} with this function. The
-  variables of this algorithm are the fit parameters. The constraints
-  on the variables are necessary to bound the fit parameters and to
+  problem with this function \citep{fmincon2014a-interiorpoint}. The
+  variables of this algorithm are the fit parameters. Constraints on
+  the variables are necessary to bound the fit parameters and to
   ensure that realistic conditions only are explored by the
   algorithm. For instance, if a flow is divided into three flows using
   two fit parameters, the sum of those two parameters can not be
@@ -352,10 +356,10 @@ dedicated to illustrate the methodology is offered here. The chosen
 example is a single stage heat pump using part of the liquid
 refrigerant leaving the condenser to cool down the motor of the
 compressor. The partly evaporated flow is then collected at the
-evaporator inlet. The layout of this heat pump is presented on
+evaporator inlet. The layout of this heat pump is presented in
 \cref{fig:simple-example-layout+model}. Using the modeling approach
 proposed above, the example system is modeled using 7 components. This
-model is described on \cref{fig:simple-example-layout+model}. The
+model is described in \cref{fig:simple-example-layout+model}. The
 components are represented on the layout with green markers and are
 listed in the legend provided with the model.
 
@@ -363,7 +367,7 @@ Unfortunately, the designer of this example experimental setup, for
 unknown reasons, could not instrument the heat pump with enough
 sensors. Each component of the system can not be characterized and
 only some physical values are available. The measurement points are
-represented on the layout \cref{fig:simple-example-layout+model}. A
+represented on the layout in \cref{fig:simple-example-layout+model}. A
 \gls{glos:bold} is a value physically measured in the experiment. An
 \gls{glos:underline} is guessed directly by the optimizer, and a
 \gls{glos:normal-font} is computed with the model\footnotep{See the
@@ -395,9 +399,9 @@ from the compressor (component \#1) is divided after the condenser
 circuit (component \#3) into two streams. The splitting of this flow
 between those two streams is unknown. Consequently, a split factor is
 added and will later be fitted in order to close the set of equations
-(in the example case, the fit parameter $f_{01}$ is introduced
-with \cref{eq:simple-model-equations-set-factor01}). As soon as every
-mass flow is characterized, eventually using fit parameters, the same
+(in the example case, the fit parameter $f_{01}$ is introduced with
+\cref{eq:simple-model-equations-set-factor01}). As soon as every mass
+flow is characterized, eventually using fit parameters, the same
 procedure is applied to energy fluxes, starting with known fluxes, and
 using equations similar to \cref{eq:energy-balances-eq-general}. When
 the resolution is stopped by uncharacterized fluxes, a fit parameter
@@ -410,8 +414,8 @@ presented in
 diagrams such as the ones presented
 \cref{fig:simple-example-diagrams}, and to determine performance
 indicators, such as the \COP{}, which is here of 3.35, or such as the
-motor efficiency, which is here of~\SI{96.11}{\%}\footnotep{Those
-  performance indicators are defined in section
+motor efficiency, which is equal to ~\SI{96.11}{\%}
+here\footnotep{Those performance indicators are defined in section
   \cref{sec:methodo-analysis}.}.
 
 \begin{table}[htb]
@@ -455,17 +459,17 @@ indicators, which are defined below.
 \subsubsection{Definitions}
 \label{sec:methodo-defs}
 
-\paragraph{Pressure ratio ($\Pi$)}
+\paragraph{Pressure ratio ($\Pi$):}
 
 The pressure ratio is the ratio of the absolute pressure at the
 compressor outlet to the absolute pressure at the compressor
-inlet. Consequently first stage pressure ratio is the ratio of the
-absolute pressure at the first stage compressor outlet $P_{1,\,out}$
-to the absolute pressure at the first-stage compressor inlet
-$P_{1,\,in}$. The second stage pressure ratio is the ratio of the
-absolute pressure at the second stage compressor outlet $P_{2,\,out}$
-to the absolute pressure at the second stage compressor inlet
-$P_{2,\,in}$. Those two ratios are defined in \cref{eq:PR}.
+inlet. Consequently, the first stage pressure ratio is the ratio of
+the absolute pressure at the first stage compressor outlet
+$P_{1,\,out}$ to the absolute pressure at the first-stage compressor
+inlet $P_{1,\,in}$. The second stage pressure ratio is the ratio of
+the absolute pressure at the second stage compressor outlet
+$P_{2,\,out}$ to the absolute pressure at the second stage compressor
+inlet $P_{2,\,in}$. Those two ratios are defined in \cref{eq:PR}.
 
 \begin{subequations}
   \label{eq:PR}
@@ -480,7 +484,7 @@ $P_{2,\,in}$. Those two ratios are defined in \cref{eq:PR}.
 % \paragraph{Mass flow rate ($\dot{M}$)}
 
 
-\paragraph{Specific enthalpy ($h$)}
+\paragraph{Specific enthalpy ($h$):}
 
 The specific enthalpy is a state function resulting of the combination
 of the specific internal energy $u$, the specific volume $v$, and the
@@ -494,7 +498,7 @@ the energy rate calculations.
   \tagaddtextone{$\left[\si{\joule\per\kilo\gram}\right]$}
 \end{equation}
 
-\paragraph{Specific entropy ($s$)}
+\paragraph{Specific entropy ($s$):}
 The specific entropy is a state function which may vary as a result of
 transfers across the system boundary or because of internal processes
 of the system which result in entropy creation
@@ -504,20 +508,22 @@ thermodynamic calculations, and especially in exergy calculation, via
 the coenthalpy.
 
 
-\paragraph{Specific coenthalpy ($k$)}
+\paragraph{Specific coenthalpy ($k$):}
 The specific coenthalpy is a state function defined from the specific
 enthalpy $h$, the environment temperature $T_a$ and the specific
 entropy $s$, as described in \cref{eq:k}
-\citep[p.\,410]{Borel-Favrat-2010a}. The specific coenthalpy is used in
-the exergy rate calculations.
+\citep[p.\,410]{Borel-Favrat-2010a}. The specific coenthalpy is used
+in the exergy rate calculations. The environment temperature $T_a$ is
+the temperature of the air at the inlet of the evaporator, for the
+\AWP{}, and of the room temperature for the \BWP{}.
 
 \begin{equation}
   \label{eq:k}
-  k = h + T_as
+  k = h + T_a\,s
   \tagaddtextone{$\left[\si{\joule\per\kilo\gram}\right]$}
 \end{equation}
 
-\paragraph{Transformation energy rate ($\dot{Y}$)}
+\paragraph{Transformation energy rate ($\dot{Y}$):}
 
 \citet[p.\,24]{Borel-Favrat-2010a} define the transformation energy
 rate as defined in \cref{eq:dotY}. Normally, the transformation energy
@@ -533,7 +539,7 @@ system studied here, it is not mentioned in \cref{eq:dotY}.
   \tagaddtextone{$\left[\si{\watt}\right]$}
 \end{equation}
 
-\paragraph{Transformation exergy rate ($\dot{E}_{y}$)}
+\paragraph{Transformation exergy rate ($\dot{E}_{y}$):}
 
 Based on the transformation energy rate, the transformation exergy
 rate is defined as described in \cref{eq:dotEy}
@@ -555,7 +561,11 @@ negligible for the system being studied here, it is not mentioned in
 \subsubsection{Performance indicators}
 \label{sec:methodo-indicators}
 
-\paragraph{Heating effectiveness ($COP_h$)}
+The components numbers which are used in the definitions are defined
+in \cpref{fig:awp-layout-model-numbers} for the \AWP{} and in
+\cpref{fig:bwp-maillefer-break-model} for the \BWP{}.
+
+\paragraph{Heating effectiveness ($COP_h$):}
 
 The heating effectiveness $\epsilon_h$, also called heating
 Coefficient Of Performance ($COP_h$), is the ratio between heat power
@@ -570,7 +580,7 @@ defined in \cref{eq:COPh}.
   \tagaddtextone{$\left[-\right]$}
 \end{equation}
 
-\paragraph{Motor efficiency ($\eta_{mot}$)}
+\paragraph{Motor efficiency ($\eta_{mot}$):}
 
 The motor efficiency is defined as the ratio between the work
 transmitted to the shaft $\dot{E}^-_{\text{shaft}}$ and the electric
@@ -585,11 +595,11 @@ power consumed by the motor $\dot{E}^+_{\text{mot}}$. It is defined in
 
 % \paragraph{Gas bearings effectiveness}
 
-\paragraph{Isentropic efficiency ($\eta_s$)}
+\paragraph{Isentropic efficiency ($\eta_s$):}
 
 The isentropic efficiency of a compressor is defined as the ratio
 between the isentropic work power of the compressor $\dot{E}_{cp,s}$,
-which is the work power required by a compressor adiabatic and without
+which is the work power required by an adiabatic compressor without
 dissipation performing an isentropic compression, and the actual work
 $\dot{E}_{cp}$ required by the compressor. It is defined by
 \cref{eq:eta_s_cp}.
@@ -614,17 +624,18 @@ $T_{out} > T_{out,s}$. The isentropic efficiency ranges between 0 and
 In the specific case of the non-adiabatic compression unit tested, we
 can differentiate the external isentropic efficiency, and the
 isentropic efficiency of the impeller only. The isentropic efficiency
-of the impeller only is not accurately known, as the inlets and
-outlets temperatures and pressure levels are deduced from the models
+of the impeller only is not accurately known, as the mass flow rates
+and the inlets and outlets temperatures are deduced from the models
 presented \cref{sec:awp-model,sec:bwp-model} and not measured
 directly. They are defined with \cref{eq:eps_cp1_s,eq:eps_cp2_s}. The
 external isentropic efficiencies include the leakage through the
 labyrinth seal and the gas flux from the axial bearing to the inlet of
 the first impeller. They are the isentropic efficiencies as measurable
-from the outside of the unit, at its physical inlets/outlets. Those
-isentropic efficiencies are defined in
-\cref{eq:eps_cp1_s_ext,eq:eps_cp2_s_ext} and are based on the
-definition offered by \citet[p.\,201]{Borel-Favrat-2010a}.
+from the outside of the unit, at its physical inlets/outlets and take
+in account the different flows and energy transfers. Those isentropic
+efficiencies are defined in \cref{eq:eps_cp1_s_ext,eq:eps_cp2_s_ext}
+and are based on the definition offered by
+\citet[p.\,201]{Borel-Favrat-2010a}.
 
 \begin{equation}
   \label{eq:eps_cp1_s}
@@ -667,11 +678,11 @@ definition offered by \citet[p.\,201]{Borel-Favrat-2010a}.
   \tagaddtexttwo{$\left[-\right]$}
 \end{equation}
 
-\paragraph{Exergy efficiencies ($\eta$)}
+\paragraph{Exergy efficiencies ($\eta$):}
 
 \citet[based on def.~p.\,2]{Favrat-Epelly-2008a} give a general
 definition of the exergy linked to a transfer or a storage of energy
-and defined it as the potential of maximum work which could ideally be
+and define it as the potential of maximum work which could ideally be
 obtained from each energy unit being transferred or stored (using
 reversible processes exchanging heat only with the
 atmosphere). \citet[p.\,406--448]{Borel-Favrat-2010a} give a detailed
@@ -705,7 +716,7 @@ The exergy efficiency of the first compression stage is defined in \cref{eq:eta_
   \end{align}
 \end{subequations}
 
-The exergy efficiency of the first stage impeller is defined in
+The exergy efficiency of the first compression stage is defined in
 \cref{eq:eta_cp1_imp}.
 
 \begin{equation}
@@ -738,8 +749,8 @@ The exergy efficiency of the second stage impeller is defined in
 
 Component \#15 specific coenthalpies are determined using CoolProp
 5.0.8 \citep{coolprop} Ethylen Glycol / Water mixture fluid
-properties. Other fluid properties are computed using \REFPROP{}
-\citep{REFPROP90}. The exergy efficiency of condenser is defined in \cref{eq:eta_cd}.
+properties. Other fluid properties are computed using the \REFPROP{}
+\citep{REFPROP90}. The exergy efficiency of the condenser is defined in \cref{eq:eta_cd}.
 
 \begin{equation}
   \label{eq:eta_cd}
@@ -747,8 +758,9 @@ properties. Other fluid properties are computed using \REFPROP{}
   \tagaddtexttwo{$\left[-\right]$}
 \end{equation}
 
-The exergy efficiency of evaporator is defined in \cref{eq:eta_ev_awp}
-for the \AWP{}, and in \cref{eq:eta_ev_bwp} for the \BWP{}.
+The exergy efficiency of the evaporator is defined in
+\cref{eq:eta_ev_awp} for the \AWP{}, and in \cref{eq:eta_ev_bwp} for
+the \BWP{}.
 
 \begin{subequations}
   \begin{align}
@@ -759,7 +771,7 @@ for the \AWP{}, and in \cref{eq:eta_ev_bwp} for the \BWP{}.
   \end{align}
 \end{subequations}
 
-The exergy efficiency of subcooler is defined in \cref{eq:eta_sc}.
+The exergy efficiency of the subcooler is defined in \cref{eq:eta_sc}.
 
 \begin{equation}
   \label{eq:eta_sc}
@@ -792,7 +804,7 @@ in \cref{eq:eta_mot}.
 
 A refrigeration diagram is a diagram that represents a thermodynamic
 cycle and the state of the refrigerant on a two-dimension space. The
-abscissa is specific enthalpy, and the ordinate is the logarithm of
+abscissa is the specific enthalpy, and the ordinate is the logarithm of
 the absolute pressure
 \citep[p.\,370--373]{Borel-Favrat-2010a}. \Cref{fig:simple-example-Ph}
 shows an example of refrigeration diagram.
@@ -801,7 +813,7 @@ shows an example of refrigeration diagram.
 
 An entropic diagram is a diagram that represents a thermodynamic cycle
 and the state of the refrigerant on a two-dimension space. The
-abscissa is specific entropy, and the ordinate temperature
+abscissa is the specific entropy, and the ordinate is the temperature
 \citep[p.\,355--361]{Borel-Favrat-2010a}. \Cref{fig:simple-example-Ts}
 shows an example of entropic diagram.
 
@@ -810,8 +822,9 @@ shows an example of entropic diagram.
 A Sankey diagram is a flow diagram in which the width of the arrows is
 shown proportionally to the flow quantity. Sankey diagrams are
 typically used to visualize energy, material, or cost transfers
-between processes. \cpref{fig:awp-A-7.0/W35.6-sankey-energy}, shows an
-example of Sankey energy diagram.
+between processes. \Cref{fig:awp-A-7.0/W35.6-sankey-energy}, page
+\pageref{fig:awp-A-7.0/W35.6-sankey-energy}, shows an example of
+Sankey energy diagram.
 
 \FloatBarrier
 \bibliographystyle{plainnat}

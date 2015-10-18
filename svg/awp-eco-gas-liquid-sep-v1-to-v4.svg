@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8631.4102"
-   height="4081.72"
+   width="8632.2725"
+   height="4002.5459"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -83,8 +83,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.0875"
-     inkscape:cx="3705.384"
-     inkscape:cy="1600.4964"
+     inkscape:cx="3630.1394"
+     inkscape:cy="1560.1365"
      inkscape:document-units="px"
      inkscape:current-layer="g3008"
      showgrid="false"
@@ -101,15 +101,15 @@
      inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="1,0"
-       position="0,0"
+       position="-75.244643,-40.359867"
        id="guide3026" />
     <sodipodi:guide
        orientation="1,0"
-       position="9000,1632.4065"
+       position="8924.7554,1592.0466"
        id="guide3037" />
     <sodipodi:guide
        orientation="1,0"
-       position="4500,2246.5793"
+       position="4424.7554,2206.2194"
        id="guide3039" />
   </sodipodi:namedview>
   <metadata
@@ -128,7 +128,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(4260.0708,1758.6759)">
+     transform="translate(4184.8262,1719.8618)">
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -146,13 +146,13 @@
          transform="translate(5875.2909,185.86807)"
          id="g4679" />
       <image
-         sodipodi:absref="/home/speredenn/thesis/svg/../anx/DSCF0093-mod.jpg"
+         sodipodi:absref="/home/speredenn/thesis-github/svg/../anx/DSCF0093-mod.jpg"
          xlink:href="../anx/DSCF0093-mod.jpg"
-         width="2581"
-         height="3871"
-         id="image3373"
+         y="-1608.3158"
          x="-1051.4946"
-         y="-1608.3158" />
+         id="image3373"
+         height="3871"
+         width="2581" />
       <text
          sodipodi:linespacing="125%"
          id="text3380"
