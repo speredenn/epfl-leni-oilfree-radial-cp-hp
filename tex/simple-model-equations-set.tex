@@ -1,5 +1,5 @@
 \chapter{Equations set for the simple example}
-\label{chap:simple-model-equations-set}
+\label[secinapp]{chap:simple-model-equations-set}
 \resetallacronyms
 
 This appendix presents the set of equations for the model presented in
@@ -43,13 +43,13 @@ component $2$ and component $5$.
   & h_{05,out} = h_{05,in} \nonumber
 \end{flalign}
 
-$\dot{Y}_{mot}$ is equal to  $\left( 1 - \eta_{mot} \right) \dotE{el}{02}$, but $\eta_{mot}$ is unknown. $\dot{Q}_{mot}$ is also equal to $\dotM{03}{02} \left( h_{02,out} - h_{02,in} \right)$, but $h_{02,out}$ is unknown. We have also the equation $\dotMh{05}{04} + \dotMh{02}{04} - \dotMh{04}{01} + \dotQ{06}{04} = 0$ where $h_{02,out}$ and $\dotQ{06}{04}$ are unknown. $\dotQ{06}{04}$ needs to be determined.
+$\dot{Y}_{mot}$ is equal to  $\left( 1 - \eta_{mot} \right) \dotE{el}{02}$, but $\eta_{mot}$ is unknown. $\dot{Y}_{mot}$ is also equal to $\dotM{03}{02} \left( h_{02,out} - h_{02,in} \right)$, but $h_{02,out}$ is unknown. We have also the equation $\dotMh{05}{04} + \dotMh{02}{04} - \dotMh{04}{01} + \dotQ{06}{04} = 0$ where $h_{02,out}$ and $\dotQ{06}{04}$ are unknown. $\dotQ{06}{04}$ needs to be determined.
 
 \begin{flalign}
   & \dotQ{06}{04} = \dotQ{03}{07} - \dotE{el}{02} & \nonumber \\
   & h_{02,out} = \dfrac{\dotMh{04}{01} - \dotQ{06}{04} - \dotMh{05}{04}}{\dotM{02}{04}} \nonumber \\
-  & \dot{Q}_{mot} = \dotM{03}{02} \left( h_{02,out} - h_{02,in} \right) \nonumber \\
-  & \eta_{mot} = \dfrac{\dotE{el}{02} - \dot{Q}_{mot}}{\dotE{el}{02}} \nonumber \\
+  & \dot{Y}_{mot} = \dotM{03}{02} \left( h_{02,out} - h_{02,in} \right) \nonumber \\
+  & \eta_{mot} = \dfrac{\dotE{el}{02} - \dot{Y}_{mot}}{\dotE{el}{02}} \nonumber \\
   & h_{04,in} = \dotMh{05}{04} + \dotMh{02}{04} \nonumber \\
   & \dotM{06}{env} = \dfrac{\dotQ{06}{04}}{h_{06,in} - h_{06,out}} \nonumber \\
   & \dotM{env}{06} = \dotM{06}{env} \nonumber

@@ -2,11 +2,18 @@
 
 %%% Romans
 
-\nomenclature[A]{$P$}{Absolute pressure, pressure \nomunitwo{[\si{\pascal}]}}
-\nomenclature[A]{$T$}{Temperature \nomunitwo{[\si{\kelvin}]}}
-\nomenclature[A]{$h$}{Specific enthalpy \nomunitwo{[\si{\joule\per\kilo\gram}]}}
-\nomenclature[A]{$s$}{Specific entropy \nomunitwo{[\si{\joule\per\kilo\gram\per\kelvin}]}}
-\nomenclature[A]{$\dot{M}$}{Mass flow rate \nomunitwo{[\si{\kilo\gram\per\second}]}}
+\nomenclature[A]{$P$}{Absolute pressure, pressure
+\nomunitwo{[\si{\pascal}]}} \nomenclature[A]{$\dot{Q}$}{Heat energy
+rate \nomunitwo{[\si{\watt}]}} \nomenclature[A]{$\dot{E}$}{Energy
+rate, exergy rate \nomunitwo{[\si{\watt}]}}
+\nomenclature[A]{$\dot{Y}$}{Transformation energy rate
+\nomunit{[\si{\watt}]}{eq:dotY}} \nomenclature[A]{$T$}{Temperature
+\nomunitwo{[\si{\kelvin}]}} \nomenclature[A]{$h$}{Specific enthalpy
+\nomunitwo{[\si{\joule\per\kilo\gram}]}}
+\nomenclature[A]{$s$}{Specific entropy
+\nomunitwo{[\si{\joule\per\kilo\gram\per\kelvin}]}}
+\nomenclature[A]{$\dot{M}$}{Mass flow rate
+\nomunitwo{[\si{\kilo\gram\per\second}]}}
 
 %%% Greeks
 
@@ -64,11 +71,14 @@
 
 \storeglosentry{glos:underline}{name={\underline{underlined
     value}},description={In a tabular only, this means that the value
-    is guessed by the optimizer directly. Consequently, it does not benefit from the uncertainties propagation.},sort={Z}}
+    is guessed by the optimizer directly. Consequently, it does not
+    benefit from the uncertainties propagation.},sort={Z}}
 
 \storeglosentry{glos:normal-font}{name={value with normal
-    font},description={In a tabular only, this means that the value
-    is computed with the model, but it is not guessed directly. Consequently, it benefits from the uncertainties propagation.},sort={Z}}
+    font},description={In a tabular only, this means that the value is
+    computed with the model, but it is not guessed
+    directly. Consequently, it benefits from the uncertainties
+    propagation.},sort={Z}}
 
 %%% Acronyms %%%
 
@@ -91,21 +101,25 @@
     pump powered by an oil-free twin-stage radial compression unit,
     rotating on gas bearings.}}
 
+\newacronym[POE]{POE-oil}{Polyolester
+oil}{description={Polyolester oil is a synthetic oil used in
+refrigeration circuits using hydrofluorocarbons refrigerants.}}
+
 \newacronym[COP]{$\epsilon_h$}{heating effectiveness}{description={
     Ratio between heat power supplied to the hot source and the
     consumed work power, also called heating Coefficient Of
     Performance ($COP_h$), defined in \cref{sec:methodo-indicators}.}}
 
 \newacronym[OP]{\textsc{OP}}{Operating Point}{description={An
-    operating point is a specific point within the operation range of
-    the heat pump cycle. It is characterized by two level of
-    temperature: the cold source inlet temperature and the hot source
-    outlet temperature. The operation point is named with those two
-    temperatures preceded by the first letter of the source. The first
-    part of the name concerns the cold source and the second part
-    concerns the hot source. A slash separates the two parts. The
-    letter \textit{A} stands for air, the letter \textit{B} stands for
-    brine, and the letter \textit{W} stands water.}}
+    operating point is a specific set of conditions within the
+    operation range of the heat pump cycle. It is characterized by two
+    level of temperature: the cold source inlet temperature and the
+    hot source outlet temperature. The operating point is named with
+    those two temperatures preceded by the first letter of the
+    source. The first part of the name concerns the cold source while
+    the second part concerns the hot source. A slash separates the two
+    parts. The letter \textit{A} stands for air, the letter \textit{B}
+    stands for brine, and the letter \textit{W} stands water.}}
 
 
 \newacronym[REFPROP]{REFPROP}{NIST Reference Fluid Thermodynamic and

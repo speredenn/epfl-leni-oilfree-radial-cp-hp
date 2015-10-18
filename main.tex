@@ -1,6 +1,9 @@
 \documentclass[english,10pt,a4paper,twoside,fleqn]{book}
 \overfullrule=10pt
 
+\widowpenalty = 3000
+\clubpenalty = 3000
+
 %%%% General packages
 \usepackage[utf8x]{inputenc}
 \usepackage[T2A,T1]{fontenc}
@@ -82,10 +85,15 @@
 \usepackage{doi}
 \usepackage[sectionbib]{chapterbib}
 
-\usepackage{appendix}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage[title,titletoc]{appendix}
+\renewcommand{\appendixname}{appendix}
 
 \usepackage{cleveref}
 \crefformat{footnote}{#2\footnotemark[#1]#3}
+\crefname{secinapp}{appendix}{appendices}
+\Crefname{secinapp}{Appendix}{Appendices}
 
 \usepackage[hypcap]{caption}
 
@@ -118,7 +126,7 @@
 \fancyfoot[CO,CE]{}
 \fancyfoot[RO,LE]{}
 
-\fancyhead[LO,RE]{\leftmark}
+\fancyhead[LO,RE]{}
 \fancyhead[LE,RO]{\thepage}
 
 %%%% Space between paragraphs
@@ -217,6 +225,8 @@ unicode = true,
 pdfpagetransition = none
 }
 
+\PassOptionsToPackage{hyphens}{url}
+
 \usepackage{cclicenses}
 
 %%%% Personal functions
@@ -245,6 +255,7 @@ pdfpagetransition = none
   \href{https://creativecommons.org/licenses/by/4.0/}{licensed under
     \CcImageCc{0.282} \CcGroupBy{0.38} 4.0}
 }
+
 %%%% Document structure
 
 \begin{document}
@@ -306,8 +317,7 @@ pdfpagetransition = none
 
 \mainmatter
 
-%% Dummy chapter, to maintain the document structure
-% \include{tex/dummy}
+\fancyhead[LO,RE]{\leftmark}
 
 %% Introduction
 %% People need better domestic heat pumps
@@ -336,33 +346,35 @@ pdfpagetransition = none
 %% Conclusion and perspectives
 \include{tex/conclusion}
 
+\fancyhead[LO,RE]{}
+
 \begin{appendices}
 
-%% Air-Water twin-stage oil-free domestic heat pump
-%% Components, sensors, and data acquisition and control system
-\include{tex/awp-components}
+  %% Air-Water twin-stage oil-free domestic heat pump
+  %% Components, sensors, and data acquisition and control system
+  \include{tex/awp-components}
 
-%% Brine-Water twin-stage oil-free domestic heat pump
-%% Components, sensors, and data acquisition and control system
-\include{tex/bwp-components}
+  %% Brine-Water twin-stage oil-free domestic heat pump
+  %% Components, sensors, and data acquisition and control system
+  \include{tex/bwp-components}
 
-%% Equations set for example case
-\include{tex/simple-model-equations-set}
+  %% Equations set for example case
+  \include{tex/simple-model-equations-set}
 
-%% Equations set for AWP
-\include{tex/awp-eqn}
+  %% Equations set for AWP
+  \include{tex/awp-eqn}
 
-%% Equations set for BWP
-\include{tex/bwp-eqn}
+  %% Equations set for BWP
+  \include{tex/bwp-eqn}
 
-%% Details about the experimental results
-\include{tex/exp-details}
+  %% Details about the experimental results
+  \include{tex/exp-details}
 
-%% Uncertainties calculations
-\include{tex/uncertainties}
+  %% Uncertainties calculations
+  \include{tex/uncertainties}
 
-%% cp maps
-\include{tex/cp-maps-math-models}
+  %% cp maps
+  \include{tex/cp-maps-math-models}
 
 \end{appendices}
 
