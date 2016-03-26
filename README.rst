@@ -24,6 +24,21 @@ be considered peer-reviewed.
 A Dynamic version of the thesis is available on `Authorea
 <https://www.authorea.com/users/54640/articles/71121/>`_.
 
+Dependencies
+------------
+
+- GraphViz
+- LaTeX
+- inkscape
+- glossary.sty
+- mupdf
+
+In a ubuntu machine :
+
+.. code:: bash
+
+    sudo apt-get update && sudo apt-get install graphviz texlive-full inkscape mupdf-tools
+
 License
 -------
 
